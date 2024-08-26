@@ -374,16 +374,6 @@
       ]
     },
     {
-      "key": "lltv_追剧兔-Yu",
-      "name": "66⚡️JT",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.zjtu.tv/api.php/app/"
-    },
-    {
       "key": "lltv_可可影视-XYQ",
       "name": "66⚡️KE",
       "type": 3,
@@ -524,14 +514,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_啾啾影视",
-      "name": "66⚡️QQ",
-      "type": 3,
-      "api": "csp_Wexjiohub",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "lltv_七新-荷城-XYQ",
       "name": "66⚡️QX",
       "type": 3,
@@ -542,28 +524,11 @@
       "ext": "./json/七新影视.json"
     },
     {
-      "key": "lltv_热播影视-巧技-Yu",
-      "name": "66⚡️RB",
-      "type": 3,
-      "api": "csp_AppRB",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_人人-心动-以一敌十-道长-潇洒",
       "name": "66⚡️RR",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/人人影视.js"
-    },
-    {
-      "key": "lltv_素白白",
-      "name": "66⚡️SB",
-      "type": 3,
-      "api": "csp_Subaibai",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "lltv_骚火影视",
