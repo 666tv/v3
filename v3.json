@@ -449,6 +449,17 @@
       ] 
     },
     {
+      "key": "lltv_六六六",
+      "name": "66⚡️MA",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": " http://122.228.85.203:1000/api.php/app/"
+    },
+    {
       "key": "lltv_魔力高清",
       "name": "66⚡️ML",
       "type": 3,
@@ -514,6 +525,17 @@
       "filterable": 1
     },
     {
+      "key": "lltv_丘丘影视",
+      "name": "66⚡️QQ",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": " http://111.173.115.204:2211/api.php/app/"
+    },
+    {
       "key": "lltv_七新-荷城-XYQ",
       "name": "66⚡️QX",
       "type": 3,
@@ -522,6 +544,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/七新影视.json"
+    },
+    {
+      "key": "lltv_热播影视",
+      "name": "66⚡️RB",
+      "type": 3,
+      "api": "csp_AppRB",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_人人-心动-以一敌十-道长-潇洒",
@@ -810,8 +841,18 @@
           "User-Agent": "Dart/3.0(dart:io)"
           }
         }
-      },
-   {
+    },
+    {
+      "name": "66专线",
+      "url": "http://122.228.85.203:7979/api/?key=e5ef7605633990b8d99ee1bfae196786&url=",
+      "type": "1"
+    },
+    {
+      "name": "QQ专线",
+      "url": "http://122.228.85.203:6789/api/?key=2b1654027ff6d809cefbc6001166d35a&url=",
+      "type": "1"
+    },
+    {
       "name": "BBA专线",
       "type": "1",
       "url": "http://43.248.100.147:1122/bba/json.php?url=",
