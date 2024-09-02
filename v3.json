@@ -392,12 +392,12 @@
       "filterable": 1
     },
     {
-      "key": "lltv_酷看-欧歌-天天-饭-Yu",
+      "key": "lltv_酷看影视-欧歌-天天-饭-Yu",
       "name": "66⚡️KU",
-      "type":3,
-      "api":"csp_Wexkukantv",
-      "searchable":1,
-      "changeable":1
+      "type": 3,
+      "api": "csp_Wexkukantv",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "lltv_LibVio-巧技",
@@ -449,17 +449,6 @@
       ] 
     },
     {
-      "key": "lltv_六六六",
-      "name": "66⚡️MA",
-      "playerType": 1,
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": " http://122.228.85.203:1000/api.php/app/"
-    },
-    {
       "key": "lltv_魔力高清",
       "name": "66⚡️ML",
       "type": 3,
@@ -473,6 +462,17 @@
       "api": "csp_WexMingriys",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+      "key": "lltv_六六六",
+      "name": "66⚡️MX",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": " http://122.228.85.203:1000/api.php/app/"
     },
     {
       "key": "lltv_奈飞-云星-鸭",
