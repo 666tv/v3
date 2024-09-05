@@ -284,6 +284,16 @@
       "ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}
     },
     {
+      "key": "lltv_韩小圈",
+      "name": "66⚡️HQ",
+      "type": 3,
+      "api": "csp_HanXiaoQuan",
+      "jar": "./jar/PGYdanmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_iKun",
       "name": "66⚡️IK",
       "type": 1,
