@@ -10,7 +10,114 @@
 
 "sites":[ 
 
+    {
+      "key": "lltv_DB2-MaoTv",
+      "name": "👇MTV点主页切换资源•推荐电信网络",
+      "type": 3,
+      "api": "csp_DouDou",
+      "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "lltv_DB-JS",
+      "name": "👇js点击主页切换资源•推荐电信网络",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./js/douban.js"
+    },
+    {
+      "key": "lltv_DB-PG",
+      "name": "👇PG点主页切换资源•推荐电信网络",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
+      "searchable": 0,
+      "changeable": 1,
+      "indexs": 1,
+      "ext": "./json/douban.json"
+    },
+    {
+      "key": "lltv_DB-MY",
+      "name": "🌕️MY点击主页切换资源•推荐电信网络",
+      "type": 3,
+      "api": "csp_DouDou",
+      "jar": "./jar/moyu.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "lltv_DB-吾爱",
+      "name": "👇wuai点主页切换资源•推荐电信网络",
+      "type": 3,
+      "api": "csp_DouDou",
+      "jar": "./jar/wuai0928.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "lltv_测试",
+      "name": "~~~~~~~~~",
+      "type": 3,
+      "api": "",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": ""
+    },
     
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "lltv_lltv_KungFu404",
+      "name": "阿里云┃设置",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "jar": "./jar/alibaba.jar",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "lltv_网盘及弹幕配置-PG-夜猫-如意",
+      "name": "👑网盘┃弹幕┃配置👑",
+      "type": 3,
+      "api": "csp_Config",
+      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+          "type": "rect",
+          "ratio": 1},
+      "ext":"./json/token.json"
+    },
+    {
+      "key": "lltv_Local-PG-鸭",
+      "name": "📛收集整理不易📛　　📛••拒绝白嫖••📛",
+      "type": 3,
+      "api": "csp_LocalFile",
+      "jar": "./jar/lltv5;md5;6120d08f4eb1edce507bfcd1b339c482",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "type_flag": 0
+    },
+    {
+      "key": "lltv",
+      "name": "📛•专人维护•📛　　　📛••定期更新••📛",
+      "type": 3,
+      "api": "",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": ""
+    }
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -316,11 +423,7 @@
 		"hosts": ["kuaikan"],
 		"regex": ["#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
 	},
-	{
-		"name": "磁力广告",
-		"hosts": ["magnet"],
-		"regex": ["更多", "请访问", "example", "社 區", "x u u", "直 播", "更 新", "社 区", "有趣", "有 趣", "英皇体育", "全中文AV在线", "澳门皇冠", "哥哥快来", "美女荷官", "新片首发", "UUE29","葡京"]
-	},
+	
 	{
 		"name": "一起看广告",
 		"hosts": ["yqk88"],
