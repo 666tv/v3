@@ -42,7 +42,7 @@
       "name": "无忧｜短剧",
       "type": 3,
       "api": "csp_Duanj",
-      "jar": "./jar/danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d",
+      "jar": "./jar/PGYdanmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -55,7 +55,7 @@
       "name": "在线｜短剧",
       "type": 3,
       "api": "csp_Duanju",
-      "jar": "./jar/danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d",
+      "jar": "./jar/PGYdanmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d",
       "searchable": 1,
       "changeable": 0,
       "style": {
