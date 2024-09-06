@@ -497,31 +497,6 @@
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "配置中心",
-      "name": "‍配置┃中心",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "./jar/okpng.txt",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.43}
-    },
-    {
-      "key": "配置中心2",
-      "name": "配置中心2",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "http://127.0.0.1:9978/file/TV/token.json"
-    },
-    {
       "key": "csp_KungFu404",
       "name": "阿里云┃设置",
       "type": 3,
