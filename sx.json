@@ -21,17 +21,6 @@
       "ext": ""
     },
     {
-      "key": "lltv_zxzj-鸭-道长-巧技",
-      "name": "在线┃资源",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "jar": "./jar/lltv3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzj.pro/"
-    },
-    {
       "key": "lltv_360-巧技",
       "name": "360🔥官源",
       "type": 3,
