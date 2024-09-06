@@ -21,6 +21,33 @@
       "ext": ""
     },
     {
+      "key": "lltv_360-巧技",
+      "name": "360🔥官源",
+      "type": 3,
+      "api": "csp_SP33",
+      "jar": "./jar/yytt.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "lltv_影视范",
+      "name": "影视范┃资源",
+      "type": 3,
+      "api": "csp_AppMr",
+      "jar": "./jar/yytt.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_雷电-巧技",
+      "name": "雷电┃资源",
+      "type": 3,
+      "api": "csp_Slys",
+      "jar": "./jar/qiaoji240620.jar"
+    },
+    {
       "key": "lltv_草民-公子",
       "name": "草民┃资源",
       "type": 3,
@@ -31,16 +58,6 @@
       "ext": "./json/草民.json"
     },
     {
-      "key": "lltv_DD-荷城-鸭",
-      "name": "蛋蛋┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/蛋蛋影视.json"
-    },
-    {
       "key": "lltv_西屋-cally",
       "name": "西屋┃资源",
       "type": 3,
@@ -49,6 +66,71 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "./json/西屋.json"
+    },
+    {
+      "key": "lltv_剧哥哥-公子",
+      "name": "剧哥哥┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./json/剧哥哥.json"
+    },
+    {
+      "key": "lltv_剧看看",
+      "name": "剧看看┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./json/剧看看.json"
+    },
+    {
+      "key": "lltv_剧圈影视-天天",
+      "name": "剧圈圈┃资源",
+      "type": 3,
+      "api": "csp_Juqq",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_影视家-小美-鸭",
+      "name": "影视家┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./json/影视家.json"
+    },
+    {
+      "key": "lltv_NY影院-道长",
+      "name": "NY┃资源",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/NY影院.js"
+    },
+    {
+      "key": "lltv_时常-巧技",
+      "name": "66⚡️SC",
+      "type": 3,
+      "api": "csp_qiao3",
+      "jar": "./jar/qiaoji240620.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 0,
+      "ext": "https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"
+    },
+    
+    
+    {
+      "key": "lltv_DD-荷城-鸭",
+      "name": "蛋蛋┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/蛋蛋影视.json"
     },
     {
       "key": "lltv_鑫鑫影视",
@@ -130,13 +212,6 @@
       "ext": "./js/秋霞.js"
     },
     {
-      "key": "lltv_雷电-巧技",
-      "name": "雷电┃资源",
-      "type": 3,
-      "api": "csp_Slys",
-      "jar": "./jar/qiaoji240620.jar"
-    },
-    {
       "key": "lltv_速映-鸭",
       "name": "速映┃资源",
       "type": 3,
@@ -155,29 +230,6 @@
       "ext": "http://app.kzjtv.com"
     },
     {
-      "key": "lltv_剧哥哥-公子",
-      "name": "剧哥哥┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./json/剧哥哥.json"
-    },
-    {
-      "key": "lltv_剧看看",
-      "name": "剧看看┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./json/剧看看.json"
-    },
-    {
-      "key": "lltv_剧圈影视-天天",
-      "name": "剧圈圈┃资源",
-      "type": 3,
-      "api": "csp_Juqq",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_小苹果-夜猫",
       "name": "小苹果┃资源",
       "type": 3,
@@ -186,17 +238,6 @@
       "jar": "./jar/xymz0513.jar",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "lltv_影视家-小美-鸭",
-      "name": "影视家┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./json/影视家.json"
     },
     {
       "key": "lltv_柒之社",
@@ -300,13 +341,6 @@
       "ext": "./json/2.json"
     },
     {
-      "key": "lltv_NY影院-道长",
-      "name": "NY┃资源",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/NY影院.js"
-    },
-    {
       "key": "lltv_KOK-道长",
       "name": "KOK┃资源",
       "type": 3,
@@ -390,18 +424,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_时常-巧技",
-      "name": "66⚡️SC",
-      "type": 3,
-      "api": "csp_qiao3",
-      "jar": "./jar/qiaoji240620.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 0,
-      "ext": "https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"
-    },
-    {
       "key": "lltv_Yj1211-小胡-鸭",
       "name": "聚合┃直播",
       "type": 3,
@@ -415,16 +437,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "timeout": 10
-    },
-    {
-      "key": "lltv_360-巧技",
-      "name": "360🔥官源",
-      "type": 3,
-      "api": "csp_SP33",
-      "jar": "./jar/yytt.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "lltv_zxzj-鸭-道长-巧技",
