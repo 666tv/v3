@@ -21,6 +21,17 @@
       "ext": ""
     },
     {
+      "key": "lltv_zxzj-鸭-道长-巧技",
+      "name": "在线┃资源",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "jar": "./jar/lltv3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzj.pro/"
+    },
+    {
       "key": "lltv_360-巧技",
       "name": "360🔥官源",
       "type": 3,
@@ -120,8 +131,33 @@
       "filterable": 0,
       "ext": "https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"
     },
-    
-    
+    {
+      "key": "csp_五五",
+      "name": "🎦五五┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/55.json"
+    },
+    {
+      "key": "lltv_Voflix-道长-鸭",
+      "name": "Voflix┃资源",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/voflix.js"
+    },
+    {
+      "key": "影视仓-D佬",
+      "name": "影视范┃资源",
+      "type": 3,
+      "api": "csp_AppMr",
+      "jar": "./jar/DLao_0819.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "lltv_DD-荷城-鸭",
       "name": "蛋蛋┃资源",
@@ -386,13 +422,6 @@
       "ext": "./js/cokemv.js"
     },
     {
-      "key": "lltv_Voflix-道长-鸭",
-      "name": "Voflix┃资源",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/voflix.js"
-    },
-    {
       "key": "lltv_短视频-鸭",
       "name": "吾爱┃短视频",
       "type": 3,
@@ -459,17 +488,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/厂长.js"
-    },
-    
-    {
-      "key": "csp_五五",
-      "name": "🎦五五┃秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/55.json"
     },
     {
       "key": "搭讪",
