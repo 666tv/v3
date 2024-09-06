@@ -438,17 +438,7 @@
       "changeable": 0,
       "timeout": 10
     },
-    {
-      "key": "lltv_zxzj-鸭-道长-巧技",
-      "name": "在线┃资源",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "jar": "./jar/lltv3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzj.pro/"
-    },
+    
     {
       "key": "lltv_酷看弹幕-摸鱼",
       "name": "KK🍥弹幕",
@@ -470,16 +460,7 @@
       "api": "./js/drpy2.min.js",
       "ext": "./js/厂长.js"
     },
-    {
-      "key": "影视仓-D佬",
-      "name": "影视范┃资源",
-      "type": 3,
-      "api": "csp_AppMr",
-      "jar": "./jar/DLao_0819.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "csp_五五",
       "name": "🎦五五┃秒播",
