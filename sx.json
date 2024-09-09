@@ -39,6 +39,26 @@
       "changeable": 1
     },
     {
+      "key": "lltv_六六六",
+      "name": "66⚡️MX",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": " http://122.228.85.203:1000/api.php/app/"
+    },
+    {
+      "key": "lltv_苹果",
+      "name": "66⚡️PG",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_sliu-巧技-荷城",
       "name": "66⚡️SL",
       "type": 3,
