@@ -21,6 +21,55 @@
       "ext": ""
     },
     {
+      "key": "lltv_黑狐-肥猫-天天-鸭",
+      "name": "66⚡️HH",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/黑狐.json"
+    },
+    {
+      "key": "lltv_酷看影视-欧歌-天天-饭-Yu",
+      "name": "66⚡️KU",
+      "type": 3,
+      "api": "csp_Wexkukantv",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "lltv_sliu-巧技-荷城",
+      "name": "66⚡️SL",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_ShiLiuDY",
+      "jar": "./jar/qiaoji240620.jar",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": ""
+    },
+    {
+      "key": "lltv_五五-天天-鸭",
+      "name": "66⚡️WW",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/五五影视.json"
+    },
+    {
+      "key": "lltv_最新影视",
+      "name": "66⚡️XY",
+      "type": 3,
+      "api": "csp_Zx1080",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_360-巧技",
       "name": "360🔥官源",
       "type": 3,
