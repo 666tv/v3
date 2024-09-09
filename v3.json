@@ -100,16 +100,6 @@
       "ext": "https://7910.kstore.space/json/企鹅体育.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    /*{
-      "key": "lltv_Bili-道长-鸭",
-      "name": "哔哩🧡️直播",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://7910.kstore.space/js/哔哩直播.js"
-    },*/
     {
       "key": "lltv_新哔哩-巧技",
       "name": "哔哩🧡哔哩",
@@ -120,7 +110,7 @@
       "filterable": 1,
       "ext": "https://7910.kstore.space/json/新哔哩.json?sign=QazybKXwzmWoHOgB7KqgvRUZa7lYsZEsGRxUkCPQXmY%3D%3A0"
     },
-    {
+    /*{
       "key": "lltv_斗鱼-FM-运输车-鸭",
       "name": "斗鱼🧡️直播",
       "type": 3,
@@ -129,6 +119,16 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": "https://7910.kstore.space/js/斗鱼直播.js"
+    },*/
+    {
+      "key": "lltv_Bili-道长-鸭",
+      "name": "哔哩🧡️直播",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://7910.kstore.space/js/哔哩直播.js"
     },
     {
       "key": "lltv_虎牙-道长-ok-鸭",
@@ -220,6 +220,19 @@
       "api": "csp_WexF4kvm",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+    "key": "lltv_厂长-天天",
+    "name": "66⚡️CZ",
+    "type": 3,
+    "api": "csp_NewCz",
+    "jar": "./jar/ttkx240909.jar;md5;56ffe5fc72be5f94267be472b59540a7",
+    "timeout": 15,
+    "playerType": 2,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "https://www.czys.pro/"
     },
     {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
