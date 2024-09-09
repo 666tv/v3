@@ -510,13 +510,14 @@
       "ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}
     },
     {
-      "key": "lltv_苹果影视",
+      "key": "lltv_苹果-天天",
       "name": "66⚡️PG",
       "type": 3,
       "api": "csp_LiteApple",
+      "jar": "./jar/ttkx240909.jar;md5;56ffe5fc72be5f94267be472b59540a7",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "lltv_丘丘影视",
