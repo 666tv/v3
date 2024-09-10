@@ -1,13 +1,13 @@
-{
+    {
     
-    "作者":"LLTV",
+    "作者":"荷城茶秀",
     
     "站名":"348影视",
     
     "主页url":"https://348z.com/",
     
     "简介":"【66Tv】提醒您：请勿相信影片中的广告，以免上当受骗！+详情：&&</div>",
-    
+     
     "导演":"导演：&&</li>",
     
     "主演":"主演：&&</li>",
@@ -42,8 +42,8 @@
     
     "线路数组":"data-from=&&</a>[不包含:超清资源#MY][排序:极速2]",
     
-    "线路标题":"LLTV-+>&&</em>[替换:<em>>>共]+集",
-    
-    "分类url":"https://348z.com/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
+    "线路标题":">&&</em>[替换:<em>>>共]+集",
+ 
+    "分类url":"https://348z.com/vodshow/{area}{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
