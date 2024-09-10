@@ -11,6 +11,16 @@
 "sites":[ 
 
     {
+      "key": "lltv_DB",
+      "name": "👇点主页切换资源•推荐电信网络",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./js/douban.js"
+    },
+    {
       "key": "lltv_DB2-MaoTv",
       "name": "👇MTV点主页切换资源•推荐电信网络",
       "type": 3,
@@ -19,16 +29,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "lltv_DB-JS",
-      "name": "👇js点击主页切换资源•推荐电信网络",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./js/douban.js"
     },
     {
       "key": "lltv_DB-PG",
@@ -43,7 +43,7 @@
     },
     {
       "key": "lltv_DB-MY",
-      "name": "🌕️MY点击主页切换资源•推荐电信网络",
+      "name": "🌕️MY点主页切换资源•推荐电信网络",
       "type": 3,
       "api": "csp_DouDou",
       "jar": "./jar/moyu.php",
