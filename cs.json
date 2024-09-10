@@ -52,6 +52,88 @@
       "filterable": 1,
       "ext": "https://v.aikanbot.com"
     },
+    {
+      "key": "lltv_ConfigCenter",
+      "name": "配置⚡️中心",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json"
+      }
+    },
+    {
+      "key": "lltv_哔哩FM",
+      "name": "哔哩哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "./json/bilibili.json",
+        "cookie": ""
+      }
+    },
+    {
+      "key": "lltv_多多玩偶",
+      "name": "66⚡️多多",
+      "type": 3,
+      "api": "csp_kongbai",
+      "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": "https://tv.yydsys.cc/",
+        "filter": "./wogg.json"
+      }
+    },
+    {
+      "key": "lltv_玩偶gg",
+      "name": "66⚡️玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": "https://www.wogg.bf/",
+        "filter": "./wogg.json"
+      }
+    },
+    {
+      "key": "lltv_蜡笔玩偶",
+      "name": "66⚡️蜡笔",
+      "type": 3,
+      "api": "csp_kongbai",
+      "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": "https://duopan.fun/",
+        "filter": "./wogg.json"
+      }
+    },
+    {
+      "key": "lltv_荐片",
+      "name": "66⚡️荐片",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/荐片[优].js"
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_lltv_KungFu404",
