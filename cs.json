@@ -54,14 +54,14 @@
     },
     {
       "key": "lltv_ConfigCenter",
-      "name": "配置⚡️中心",
+      "name": "配置⚡️中心（观看4K资源请先在这里配置网盘参数）",
       "type": 3,
       "api": "csp_ConfigCenter",
       "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
       "searchable": 0,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./lib/peizhi.json"
       }
     },
     {
@@ -77,62 +77,51 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./json/bilibili.json",
+        "json": "./lib/bilibili.json",
         "cookie": ""
       }
     },
     {
       "key": "lltv_多多玩偶",
-      "name": "66⚡️多多",
+      "name": "66⚡️4K-DD",
       "type": 3,
       "api": "csp_kongbai",
       "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json",
+        "commonConfig": "./lib/peizhi.json",
         "siteUrl": "https://tv.yydsys.cc/",
-        "filter": "./wogg.json"
+        "filter": "./lib/wogg.json"
       }
     },
     {
       "key": "lltv_玩偶gg",
-      "name": "66⚡️玩偶",
+      "name": "66⚡️4K-GG",
       "type": 3,
       "api": "csp_Wogg",
       "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json",
+        "commonConfig": "./lib/peizhi.json",
         "siteUrl": "https://www.wogg.bf/",
-        "filter": "./wogg.json"
+        "filter": "./lib/wogg.json"
       }
     },
     {
       "key": "lltv_蜡笔玩偶",
-      "name": "66⚡️蜡笔",
+      "name": "66⚡️4K-LB",
       "type": 3,
       "api": "csp_kongbai",
       "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json",
+        "commonConfig": "./lib/peizhi.json",
         "siteUrl": "https://duopan.fun/",
-        "filter": "./wogg.json"
+        "filter": "./lib/wogg.json"
       }
-    },
-    {
-      "key": "lltv_荐片",
-      "name": "66⚡️荐片",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/荐片[优].js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
