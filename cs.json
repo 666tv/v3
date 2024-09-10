@@ -43,6 +43,16 @@
       "ext": ""
     },
     {
+      "key": "lltv_348影视",
+      "name": "348┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/348.json"
+    },
+    {
       "key": "lltv_Ikanbot-XYQ-PG",
       "name": "66⚡️AI",
       "type": 3,
