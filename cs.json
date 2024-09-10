@@ -65,20 +65,6 @@
       }
     },
     {
-      "key": "lltv_多多玩偶",
-      "name": "66⚡️4K-DD",
-      "type": 3,
-      "api": "csp_kongbai",
-      "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./lib/peizhi.json",
-        "siteUrl": "https://tv.yydsys.cc/",
-        "filter": "./lib/wogg.json"
-      }
-    },
-    {
       "key": "lltv_玩偶gg",
       "name": "66⚡️4K-GG",
       "type": 3,
@@ -89,6 +75,20 @@
       "ext": {
         "commonConfig": "./lib/peizhi.json",
         "siteUrl": "https://www.wogg.bf/",
+        "filter": "./lib/wogg.json"
+      }
+    },
+    {
+      "key": "lltv_多多玩偶（短剧、动漫有公众号提示）",
+      "name": "66⚡️4K-DD",
+      "type": 3,
+      "api": "csp_kongbai",
+      "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./lib/peizhi.json",
+        "siteUrl": "https://tv.yydsys.cc/",
         "filter": "./lib/wogg.json"
       }
     },
