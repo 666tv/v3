@@ -661,7 +661,10 @@
       "key": "lltv_Local-PG-鸭",
       "name": "📛收集整理不易📛　　📛••拒绝白嫖••📛",
       "type": 3,
-      "api": "csp_LocalFile"
+      "api": "csp_LocalFile",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
       "key": "lltv",
