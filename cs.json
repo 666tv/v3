@@ -12,7 +12,7 @@
 
     {
       "key": "lltv_DB",
-      "name": "JS豆瓣⚡️推荐",
+      "name": "豆瓣⚡️推荐",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 0,
@@ -27,9 +27,26 @@
       "api": "csp_DouDou",
       "jar": "./jar/maotv.jar",
       //"jar": "./jar/mtv;md5;d1115d99527d75948d095085b1407add",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "lltv_DB-云星日记",
+      "name": "👇yx点击主页切换资源•推荐电信网络",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "./jar/云星日记.php",
+      "searchable": 0
+    },
+    {
+      "key": "lltv_DBYGP-云星日记",
+      "name": "LL⚡️预告片",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_YGP",
+      "jar": "./jar/云星日记.php",
+      "searchable": 0
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
