@@ -72,44 +72,6 @@
       "changeable": 0,
       "ext": ""
     },
-    
-    {
-      "key": "天堂短剧",
-      "name": "天堂｜短剧",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/天堂短剧.js"
-    },
-    {
-      "key": "爱你短剧",
-      "name": "爱你｜短剧",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/爱你短剧.json"
-    },
-    {
-      "key": "河马短剧",
-      "name": "河马｜短剧",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/河马短剧.json"
-    },
-    {
-      "key": "短剧屋",
-      "name": "短剧屋｜短剧",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/短剧屋.json"
-    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_lltv_KungFu404",
