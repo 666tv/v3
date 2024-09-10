@@ -183,6 +183,24 @@
       "ext": "https://v.aikanbot.com"
     },
     {
+      "key": "lltv_爱看影视",
+      "name": "66⚡️AK",
+      "type": 3,
+      "api": "csp_Ikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_小苹果",
+      "name": "66⚡️AP",
+      "type": 3,
+      "api": "csp_Xpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_白嫖者-天天",
       "name": "66⚡️BP",
       "type": 3,
@@ -393,6 +411,24 @@
         "日韩综艺",
         "欧美综艺"
       ]
+    },
+    {
+      "key": "lltv_饺子影视",
+      "name": "66⚡️JZ",
+      "type": 3,
+      "api": "csp_Jiaozi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_看客影视",
+      "name": "66⚡️KA",
+      "type": 3,
+      "api": "csp_Kanke",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_可可影视-XYQ",
