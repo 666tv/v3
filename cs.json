@@ -65,23 +65,6 @@
       }
     },
     {
-      "key": "lltv_哔哩FM",
-      "name": "哔哩哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "./lib/bilibili.json",
-        "cookie": ""
-      }
-    },
-    {
       "key": "lltv_多多玩偶",
       "name": "66⚡️4K-DD",
       "type": 3,
@@ -110,17 +93,20 @@
       }
     },
     {
-      "key": "lltv_蜡笔玩偶",
-      "name": "66⚡️4K-LB",
+      "key": "lltv_哔哩FM",
+      "name": "66⚡️哔哩",
       "type": 3,
-      "api": "csp_kongbai",
+      "api": "csp_Bili",
       "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
       "searchable": 1,
       "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
       "ext": {
-        "commonConfig": "./lib/peizhi.json",
-        "siteUrl": "https://duopan.fun/",
-        "filter": "./lib/wogg.json"
+        "json": "./json/bilibili.json",
+        "cookie": ""
       }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
