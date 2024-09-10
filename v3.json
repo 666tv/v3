@@ -657,6 +657,16 @@
       "searchable": 1
     },
     {
+      "key": "lltv_348影视",
+      "name": "66⚡️SS",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/348.json"
+    },
+    {
       "key": "lltv_大师兄-道长-运输车",
       "name": "66⚡️SX",
       "type": 3,
