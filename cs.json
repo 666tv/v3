@@ -15,7 +15,7 @@
       "name": "👇点主页切换资源•推荐电信网络",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./js/douban.js"
