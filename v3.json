@@ -173,6 +173,32 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_ConfigCenter",
+      "name": "4K配置⚡️观看4K资源需先在这里配置网盘参数",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./lib/peizhi.json"
+      }
+    },
+    {
+      "key": "lltv_玩偶GG",
+      "name": "66⚡️4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./lib/peizhi.json",
+        "siteUrl": "https://www.wogg.bf/",
+        "filter": "./lib/wogg.json"
+      }
+    },
+    {
       "key": "lltv_Ikanbot-XYQ-PG",
       "name": "66⚡️AI",
       "type": 3,
