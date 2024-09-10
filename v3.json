@@ -60,10 +60,11 @@
       "ext": "./js/douban.js"
     },
     {
-      "key": "lltv_豆瓣预告0910+",
+      "key": "lltv_豆瓣预告",
       "name": "66⚡️预告",
       "type": 3,
       "api": "csp_YGP",
+      "jar": "./jar/66tv0910.jar",
       "searchable": 0
     },
     /*{
