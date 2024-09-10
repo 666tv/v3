@@ -26,38 +26,7 @@
       "type": 3,
       "api": "csp_DouDou",
       "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "lltv_DB-PG",
-      "name": "PG豆瓣⚡️推荐",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
-      "searchable": 0,
-      "changeable": 1,
-      "indexs": 1,
-      "ext": "./json/douban.json"
-    },
-    {
-      "key": "lltv_DB-MY",
-      "name": "摸鱼豆瓣⚡️推荐",
-      "type": 3,
-      "api": "csp_DouDou",
-      "jar": "./jar/moyu.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "lltv_DB-吾爱",
-      "name": "吾爱豆瓣⚡️推荐",
-      "type": 3,
-      "api": "csp_DouDou",
-      "jar": "./jar/wuai0928.jar",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
     },
