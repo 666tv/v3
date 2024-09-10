@@ -338,7 +338,7 @@
       "name":"66⚡️HM",
       "type":3,
       "api":"csp_XBPQ",
-      "ext":{"分类url": "https://www.hemahe.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}
+      "ext":{"分类url": "https://www.hemahe.com/sort/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}
     },
     {
       "key": "lltv_韩小圈",
