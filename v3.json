@@ -147,8 +147,22 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_Ikanbot弹幕-讴歌",
+      "name": "6️6⚡️️AI弹幕",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "jar": "./jar/jar.php;md5;d2741230d5013288c2e7669c53db7780",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+            "site": "https://v.aikanbot.com",
+            "danmu": true
+      }
+    },
+    {
       "key": "lltv_南瓜弹幕-PG-高天流云",
-      "name": "NG💙弹幕",
+      "name": "6️6⚡️NG弹幕",
       "type": 3,
       "api": "csp_NanGua",
       "jar": "./jar/pg240722.jar",
@@ -158,19 +172,19 @@
 	},
     {
       "key": "lltv_天天弹幕-PG-高天流云",
-      "name": "TT💙弹幕",
+      "name": "6️6⚡️TT弹幕",
       "type": 3,
       "api": "csp_TTian",
       "jar": "./jar/pg240722.jar",
       "ext": "http://op.ysdqjs.cn$$$null$$$1"
 	},
-    {
+    /*{
       "key": "lltv_拳王争霸-鸭",
       "name": "拳王💙争霸",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/quanwang.js"
-    },
+    },*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_ConfigCenter",
