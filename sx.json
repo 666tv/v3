@@ -499,7 +499,7 @@
       "changeable": 0,
       "ext": ""
     },
-        {
+    {
       "key": "lltv_Ikanbot-XYQ-PG",
       "name": "66⚡️AI",
       "type": 3,
@@ -520,13 +520,30 @@
       "filterable": 1
     },
     {
-      "key": "lltv_360-巧技-yytt",
-      "name": "66⚡️LL",
+      "key": "lltv_小苹果弹幕",
+      "name": "66⚡️AP弹幕",
       "type": 3,
-      "api": "csp_SP360",
-      "filterable": 1,
+      "api": "csp_Xpg",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 1,
       "quickSearch": 1,
-      "searchable": 1
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "lltv_360弹幕",
+      "name": "66⚡️LL弹幕",
+      "type": 3,
+      "api": "csp_Sp360",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      }
     },
     {
       "key": "lltv_天天影视",
