@@ -92,8 +92,8 @@
       "name": "66❤️音乐",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "ext": "./json/哔哩音乐.json"
     },
@@ -102,8 +102,8 @@
       "name": "66❤️哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "ext": "https://7910.kstore.space/json/新哔哩.json?sign=QazybKXwzmWoHOgB7KqgvRUZa7lYsZEsGRxUkCPQXmY%3D%3A0"
     },
@@ -133,6 +133,9 @@
       "name": "66💙虎牙直播",
       "type": 3,
       "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
       "ext": "https://7910.kstore.space/js/虎牙直播.js"
     },
     {
