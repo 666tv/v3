@@ -53,6 +53,19 @@
       "ext": "https://v.aikanbot.com"
     },
     {
+      "key": "机器人弹幕",
+      "name": "💘机机┃弹幕",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+            "danmu": true
+      },
+      "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"
+    },
+    {
       "key": "lltv_ConfigCenter",
       "name": "4K配置⚡️观看4K资源需先在这里设置网盘参数",
       "type": 3,
