@@ -33,20 +33,7 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "南瓜弹幕",
-      "name": "南瓜｜弹幕",
-      "type": 3,
-      "api": "csp_Nangua",
-      "jar": "./jar/66tv0910.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "厂长弹幕",
+      "key": "lltv_厂长弹幕",
       "name": "厂长｜弹幕",
       "type": 3,
       "api": "csp_Czzy",
@@ -59,20 +46,7 @@
       }
     },
     {
-      "key": "天天弹幕",
-      "name": "天天｜弹幕",
-      "type": 3,
-      "api": "csp_TianTian",
-      "jar": "./jar/66tv0910.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "文才弹幕",
+      "key": "lltv_文才弹幕",
       "name": "文才｜弹幕",
       "type": 3,
       "api": "csp_Jpys",
@@ -85,7 +59,7 @@
       }
     },
     {
-      "key": "立播弹幕",
+      "key": "lltv_立播弹幕",
       "name": "立播｜弹幕",
       "type": 3,
       "api": "csp_Libvio",
@@ -101,7 +75,7 @@
       }
     },
     {
-      "key": "三六零弹幕",
+      "key": "lltv_三六零弹幕",
       "name": "三六零｜弹幕",
       "type": 3,
       "api": "csp_Sp360",
@@ -114,20 +88,7 @@
       }
     },
     {
-      "key": "机器人弹幕",
-      "name": "机器人｜弹幕",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "jar": "./jar/66tv0910.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "小苹果弹幕",
+      "key": "lltv_小苹果弹幕",
       "name": "小苹果｜弹幕",
       "type": 3,
       "api": "csp_Xpg",
@@ -140,7 +101,7 @@
       }
     },
     {
-      "key": "一起看弹幕",
+      "key": "lltv_一起看弹幕",
       "name": "一起看｜弹幕",
       "type": 3,
       "api": "csp_Yqk",
@@ -153,7 +114,7 @@
       }
     },
     {
-      "key": "JOJO弹幕",
+      "key": "lltv_JOJO弹幕",
       "name": "JOJO｜弹幕",
       "type": 3,
       "api": "csp_Jiohub",
@@ -166,7 +127,7 @@
       }
     },
     {
-      "key": "荐片弹幕",
+      "key": "lltv_荐片弹幕",
       "name": "荐片｜弹幕",
       "type": 3,
       "api": "csp_Jianpian",
@@ -180,7 +141,7 @@
       }
     },
     {
-      "key": "哔嘀弹幕",
+      "key": "lltv_哔嘀弹幕",
       "name": "哔嘀｜弹幕",
       "type": 3,
       "api": "csp_Bdys",
@@ -194,7 +155,7 @@
       }
     },
     {
-      "key": "不太灵弹幕",
+      "key": "lltv_不太灵弹幕",
       "name": "不太灵｜弹幕",
       "type": 3,
       "api": "csp_Bt0",
