@@ -31,6 +31,13 @@
       "ext": "./json/黑狐.json"
     },
     {
+      "key":"lltv_河马-欧歌",
+      "name":"66⚡️HM",
+      "type":3,
+      "api":"csp_XBPQ",
+      "ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}
+    },
+    {
       "key": "lltv_酷看影视-欧歌-天天-饭-Yu",
       "name": "66⚡️KU",
       "type": 3,
