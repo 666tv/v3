@@ -499,6 +499,45 @@
       "changeable": 0,
       "ext": ""
     },
+        {
+      "key": "lltv_Ikanbot-XYQ-PG",
+      "name": "66⚡️AI",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://v.aikanbot.com"
+    },
+    {
+      "key": "lltv_小苹果",
+      "name": "66⚡️AP",
+      "type": 3,
+      "api": "csp_Xpg",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_360-巧技-yytt",
+      "name": "66⚡️LL",
+      "type": 3,
+      "api": "csp_SP360",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
+    },
+    {
+      "key": "lltv_天天影视",
+      "name": "66⚡️TT",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_Ikanbot弹幕-讴歌",
       "name": "66⚡️AI弹幕",
@@ -531,6 +570,7 @@
       "jar": "./jar/pg240722.jar",
       "ext": "http://op.ysdqjs.cn$$$null$$$1"
 	},
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_Xunlei8-天天-PG",
       "name": "迅雷┃资源",
