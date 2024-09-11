@@ -191,6 +191,16 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_爱看影视",
+      "name": "66⚡️AK",
+      "type": 3,
+      "api": "csp_Ikan",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_白嫖者-天天",
       "name": "66⚡️BP",
       "type": 3,
@@ -208,15 +218,17 @@
       "order_num": 210,
       "ext": "./json/采集之王.js?type=url&params=./json/采集静态.json"
     },
-    /*{
+    /*
+    {
       "key": "lltv_采集之王-PizazzGY-天天",
-      "name": "66⚡️CJ",
+      "name": "66⚡️CJ2",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "./js/采集之王.js?type=url&params=./json/采集静态2.json$1$1"
-    },*/
+    },
+    */
     {
       "key": "lltv_CM",
       "name": "66⚡️CM",
@@ -638,14 +650,6 @@
       "ext": {
         "danmu": true
       }
-    },
-    {
-      "key": "lltv_愉悦影视",
-      "name": "66⚡️YU",
-      "type": 3,
-      "api": "csp_Wexyuyueys",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "lltv_桜之空影视-欧歌",
