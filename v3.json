@@ -743,7 +743,7 @@
         "ratio": 1.597
       }
     },
-    {
+    /*{
       "key": "lltv_玩偶GG-PG网盘",
       "name": "4K🍥玩偶-观看4K资源需先在4K配置中设置网盘参数",
       "type": 3,
@@ -755,6 +755,23 @@
         "commonConfig": "./lib/peizhi.json",
         "siteUrl": "https://www.wogg.bf/",
         "filter": "./lib/wogg.json"
+      }
+    },*/
+    {
+      "key": "lltv_玩偶弹幕",
+      "name": "4K🍥玩偶-观看4K资源需先在4K配置中设置网盘参数",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./jar/66tv0910.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://www.wogg.bf/",
+        "danmu": true
       }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
