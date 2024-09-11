@@ -202,46 +202,6 @@
       }
     },
     {
-      "key": "lltv_小苹果弹幕",
-      "name": "66⚡️AP弹幕",
-      "type": 3,
-      "api": "csp_Xpg",
-      "jar": "./jar/66tv0910.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "lltv_哔嘀弹幕",
-      "name": "66⚡️BD弹幕",
-      "type": 3,
-      "api": "csp_Bdys",
-      "jar": "./jar/66tv0910.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": "https://www.yjys02.com",
-        "danmu": true
-      }
-    },
-    {
-      "key": "lltv_360弹幕",
-      "name": "66⚡️LL弹幕",
-      "type": 3,
-      "api": "csp_Sp360",
-      "jar": "./jar/66tv0910.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
       "key": "lltv_南瓜弹幕",
       "name": "66⚡️NG弹幕",
       "type": 3,
@@ -277,6 +237,30 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_小苹果",
+      "name": "66⚡️AP",
+      "type": 3,
+      "api": "csp_Xpg",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_哔嘀弹幕",
+      "name": "66⚡️BD",
+      "type": 3,
+      "api": "csp_Bdys",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": "https://www.yjys02.com",
+        "danmu": false
+      }
     },
     {
       "key": "lltv_白嫖者-天天",
@@ -533,6 +517,15 @@
       "ext": "https://libvio.link/static/js/playerconfig.js"
     },
     {
+      "key": "lltv_360-巧技-yytt",
+      "name": "66⚡️LL",
+      "type": 3,
+      "api": "csp_SP360",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
+    },
+    {
       "key": "lltv_360采集-夜猫",
       "name": "66⚡️LS",
       "type": 1,
@@ -727,7 +720,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": false
+        "danmu": true
       }
     },
     {
