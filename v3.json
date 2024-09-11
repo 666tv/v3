@@ -188,37 +188,45 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_Ikanbot弹幕-讴歌",
+      "key": "lltv_机器人弹幕",
       "name": "66⚡️AI弹幕",
       "type": 3,
       "api": "csp_Ikanbot",
-      "jar": "./jar/jar.php;md5;d2741230d5013288c2e7669c53db7780",
+      "jar": "./jar/66tv0910.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-            "site": "https://v.aikanbot.com",
-            "danmu": true
+        "site": "https://v.aikanbot.com",
+        "danmu": true
       }
     },
     {
-      "key": "lltv_南瓜弹幕-PG-高天流云",
+      "key": "lltv_南瓜弹幕",
       "name": "66⚡️NG弹幕",
       "type": 3,
-      "api": "csp_NanGua",
-      "jar": "./jar/pg240722.jar",
+      "api": "csp_Nangua",
+      "jar": "./jar/66tv0910.jar",
       "searchable": 1,
-      "changeable": 1,
-      "ext": "null$$$1"
-	},
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
     {
-      "key": "lltv_天天弹幕-PG-高天流云",
+      "key": "lltv_天天弹幕",
       "name": "66⚡️TT弹幕",
       "type": 3,
-      "api": "csp_TTian",
-      "jar": "./jar/pg240722.jar",
-      "ext": "http://op.ysdqjs.cn$$$null$$$1"
-	},
+      "api": "csp_TianTian",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_Ikanbot-XYQ-PG",
