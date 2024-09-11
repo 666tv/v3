@@ -192,14 +192,14 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_爱看影视",
-      "name": "66⚡️AK",
+      "key": "lltv_Ikanbot-XYQ-PG",
+      "name": "66⚡️AI",
       "type": 3,
-      "api": "csp_Ikan",
-      "jar": "./jar/66tv0910.jar",
+      "api": "csp_Ikanbot",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://v.aikanbot.com"
     },
     {
       "key": "lltv_白嫖者-天天",
