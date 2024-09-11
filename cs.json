@@ -64,6 +64,33 @@
             "danmu": true
       },
       "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"
+      63817b166f245c5e9272e4117cba5bf3
+    },
+    {
+      "key": "机器人弹幕2",
+      "name": "💘机机┃弹幕2",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+            "danmu": true
+      },
+      "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php"
+    },
+    {
+      "key": "机器人弹幕3",
+      "name": "💘机机┃弹幕3",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+            "danmu": true
+      },
+      "jar": "./jar/jar.php"
     },
     {
       "key": "lltv_ConfigCenter",
