@@ -202,6 +202,46 @@
       }
     },
     {
+      "key": "lltv_小苹果弹幕",
+      "name": "66⚡️AP弹幕",
+      "type": 3,
+      "api": "csp_Xpg",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "lltv_哔嘀弹幕",
+      "name": "66⚡️BD弹幕",
+      "type": 3,
+      "api": "csp_Bdys",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": "https://www.yjys02.com",
+        "danmu": true
+      }
+    },
+    {
+      "key": "lltv_360弹幕",
+      "name": "66⚡️LL弹幕",
+      "type": 3,
+      "api": "csp_Sp360",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
       "key": "lltv_南瓜弹幕",
       "name": "66⚡️NG弹幕",
       "type": 3,
@@ -229,30 +269,10 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_Ikanbot-XYQ-PG",
-      "name": "66⚡️AI",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://v.aikanbot.com"
-    },
-    {
       "key": "lltv_爱看影视",
       "name": "66⚡️AK",
       "type": 3,
       "api": "csp_Ikan",
-      "jar": "./jar/66tv0910.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_小苹果",
-      "name": "66⚡️AP",
-      "type": 3,
-      "api": "csp_Xpg",
       "jar": "./jar/66tv0910.jar",
       "searchable": 1,
       "quickSearch": 1,
@@ -513,15 +533,6 @@
       "ext": "https://libvio.link/static/js/playerconfig.js"
     },
     {
-      "key": "lltv_360-巧技-yytt",
-      "name": "66⚡️LL",
-      "type": 3,
-      "api": "csp_SP360",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
-    },
-    {
       "key": "lltv_360采集-夜猫",
       "name": "66⚡️LS",
       "type": 1,
@@ -695,15 +706,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/大师兄影视.js"
-    },
-    {
-      "key": "lltv_天天影视",
-      "name": "66⚡️TT",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "lltv_xiguaya-心动-满天星辰",
