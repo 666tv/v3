@@ -147,40 +147,6 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_Ikanbot弹幕-讴歌",
-      "name": "66⚡️AI弹幕",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "jar": "./jar/jar.php;md5;d2741230d5013288c2e7669c53db7780",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-            "site": "https://v.aikanbot.com",
-            "danmu": true
-      }
-    },
-    {
-      "key": "lltv_南瓜弹幕-PG-高天流云",
-      "name": "66⚡️NG弹幕",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "./jar/pg240722.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "null$$$1"
-	},
-    {
-      "key": "lltv_天天弹幕-PG-高天流云",
-      "name": "66⚡️TT弹幕",
-      "type": 3,
-      "api": "csp_TTian",
-      "jar": "./jar/pg240722.jar",
-      "ext": "http://op.ysdqjs.cn$$$null$$$1"
-	},
-    
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
       "key": "lltv_ConfigCenter",
       "name": "4K配置🍥观看4K资源需先在这里设置网盘参数",
       "type": 3,
@@ -213,6 +179,40 @@
       "api": "./js/drpy2.min.js",
       "ext": "./js/quanwang.js"
     },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "lltv_Ikanbot弹幕-讴歌",
+      "name": "66⚡️AI弹幕",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "jar": "./jar/jar.php;md5;d2741230d5013288c2e7669c53db7780",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+            "site": "https://v.aikanbot.com",
+            "danmu": true
+      }
+    },
+    {
+      "key": "lltv_南瓜弹幕-PG-高天流云",
+      "name": "66⚡️NG弹幕",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "./jar/pg240722.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "null$$$1"
+	},
+    {
+      "key": "lltv_天天弹幕-PG-高天流云",
+      "name": "66⚡️TT弹幕",
+      "type": 3,
+      "api": "csp_TTian",
+      "jar": "./jar/pg240722.jar",
+      "ext": "http://op.ysdqjs.cn$$$null$$$1"
+	},
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_Ikanbot-XYQ-PG",
       "name": "66⚡️AI",
