@@ -16,8 +16,9 @@
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/",
       "playurl": "https://hhjiexi.com/play/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
       "categories": [
         "短剧",
         "内地剧",
