@@ -167,6 +167,7 @@
       "name": "4K🍥配置-观看4K资源需先在这里设置网盘参数",
       "type": 3,
       "api": "csp_Config",
+      "jar": "./jar/66tv0910.jar",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
