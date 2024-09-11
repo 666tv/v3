@@ -80,7 +80,7 @@
     },
     {
       "key": "机器人弹幕3",
-      "name": "💘机机┃弹幕4",
+      "name": "💘机机┃弹幕3",
       "type": 3,
       "api": "csp_Ikanbot",
       "searchable": 1,
@@ -89,7 +89,7 @@
       "ext": {
             "danmu": true
       },
-      "jar": "./jar/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"
+      "jar": "./jar/jar.php;md5;d2741230d5013288c2e7669c53db7780"
     },
     {
       "key": "lltv_ConfigCenter",
