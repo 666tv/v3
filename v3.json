@@ -144,8 +144,8 @@
       "name": "66💙体育直播",
       "type": 3,
       "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "ext": "https://7910.kstore.space/json/企鹅体育.json"
     },
