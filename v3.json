@@ -717,64 +717,6 @@
       "ext": "./json/子子影视.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    /*{
-      "key": "lltv_ConfigCenter-PG网盘",
-      "name": "4K🍥配置-观看4K资源需先在这里设置网盘参数",
-      "type": 3,
-      "api": "csp_ConfigCenter",
-      "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./lib/peizhi.json"
-      }
-    },*/
-    {
-      "key": "lltv_配置中心",
-      "name": "4K🍥配置-观看4K资源需先在这里设置网盘参数",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "./jar/66tv0910.jar",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    /*{
-      "key": "lltv_玩偶GG-PG网盘",
-      "name": "4K🍥玩偶-观看4K资源需先在4K配置中设置网盘参数",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar": "./jar/custom_spider240910.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./lib/peizhi.json",
-        "siteUrl": "https://www.wogg.bf/",
-        "filter": "./lib/wogg.json"
-      }
-    },*/
-    {
-      "key": "lltv_玩偶弹幕",
-      "name": "4K🍥玩偶-观看4K资源需先在4K配置中设置网盘参数",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar": "./jar/66tv0910.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "https://www.wogg.net/",
-        "danmu": true
-      }
-    },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_本地-PG-鸭",
       "name": "📛收集整理不易📛　　📛••拒绝白嫖••📛",
