@@ -513,8 +513,17 @@
       "ext": "https://libvio.link/static/js/playerconfig.js"
     },
     {
-      "key": "lltv_360采集-夜猫",
+      "key": "lltv_360-巧技-yytt",
       "name": "66⚡️LL",
+      "type": 3,
+      "api": "csp_SP360",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
+    },
+    {
+      "key": "lltv_360采集-夜猫",
+      "name": "66⚡️LS",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod/",
       "playurl": "json:https://www.360jiexi.com/player/?url=",
@@ -671,15 +680,6 @@
       "ext": "https://vidhub1.cc"
     },
     {
-      "key": "lltv_360-巧技-yytt",
-      "name": "66⚡️SP",
-      "type": 3,
-      "api": "csp_SP360",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
-    },
-    {
       "key": "lltv_348影视",
       "name": "66⚡️SS",
       "type": 3,
@@ -714,6 +714,19 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/西瓜.json"
+    },
+    {
+      "key": "lltv_一起看弹幕",
+      "name": "66⚡️YQ",
+      "type": 3,
+      "api": "csp_Yqk",
+      "jar": "./jar/66tv0910.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": false
+      }
     },
     {
       "key": "lltv_愉悦影视",
@@ -757,7 +770,7 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_Local-PG-鸭",
+      "key": "lltv_本地-PG-鸭",
       "name": "📛收集整理不易📛　　📛••拒绝白嫖••📛",
       "type": 3,
       "api": "csp_LocalFile",
