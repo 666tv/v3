@@ -695,6 +695,17 @@
       "filterable": 1,
       "ext": "./json/子子影视.json"
     },
+    {
+      "key": "lltv_4K-AV-道长",
+      "name": "66⚡️4K",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/4K-AV.js"
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_本地-PG-鸭",
