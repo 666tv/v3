@@ -202,6 +202,17 @@
       "ext": "https://v.aikanbot.com"
     },
     {
+      "key": "lltv_哔哩影视[官]-道长",
+      "name": "66⚡️BL",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/哔哩影视[官].js"
+    },
+    {
       "key": "lltv_白嫖者-天天",
       "name": "66⚡️BP",
       "type": 3,
