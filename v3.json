@@ -109,16 +109,6 @@
       "ext": "./js/quanwang.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    /*{
-      "key": "lltv_斗鱼-FM-运输车-鸭",
-      "name": "66💙斗鱼直播",
-      "type": 3,
-      "playerType": 1,
-      "api": "./js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "https://7910.kstore.space/js/斗鱼直播.js"
-    },*/
     {
       "key": "lltv_Bili-道长-鸭",
       "name": "66💙哔哩直播",
@@ -129,6 +119,16 @@
       "filterable": 1,
       "ext": "https://7910.kstore.space/js/哔哩直播.js"
     },
+    /*{
+      "key": "lltv_斗鱼-菜妮丝-FM-运输车-鸭",
+      "name": "66💙斗鱼直播",
+      "type": 3,
+      "playerType": 1,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://7910.kstore.space/js/斗鱼直播.js"
+    },*/
     {
       "key": "lltv_虎牙-道长-ok-鸭",
       "name": "66💙虎牙直播",
