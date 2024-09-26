@@ -21,6 +21,75 @@
       "ext": ""
     },
     {
+      "key": "lltv_纯享影视",
+      "name": "66⚡️CX！！",
+      "type": 3,
+      "api": "csp_WexF4kvm",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "lltv_可可影视-XYQ",
+      "name": "66⚡️KE！！",
+      "type": 3,
+      "api": "csp_Keke",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
+    {
+      "key": "lltv_明日影视",
+      "name": "66⚡️MR！！",
+      "type": 3,
+      "api": "csp_WexMingriys",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "lltv_欧帝影院",
+      "name": "66⚡️OD!!",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/欧帝影院.js"
+    },
+    {
+      "key": "lltv_丘丘影视",
+      "name": "66⚡️QQ",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": " http://111.173.115.204:2211/api.php/app/"
+    },
+    {
+      "key": "lltv_骚火影视",
+      "name": "66⚡️SH",
+      "type": 3,
+      "api": "csp_Wexsaohuo",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "lltv_348影视",
+      "name": "66⚡️SS",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/348.json"
+    },
+    {
+      "key": "lltv_大师兄-道长-运输车",
+      "name": "66⚡️SX",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/大师兄影视.js"
+    },
+    {
       "key": "lltv_黑狐-肥猫-天天-鸭",
       "name": "66⚡️HH",
       "type": 3,
