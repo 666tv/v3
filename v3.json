@@ -624,6 +624,16 @@
       "ext": "./js/追剧迷.js"
     },
     {
+      "key": "lltv_在线之家-巧技-鸭-道长",
+      "name": "66⚡️ZX",
+      "api": "csp_Zxzj",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": ""
+    },
+    {
       "key": "lltv_子子-鸭",
       "name": "66⚡️ZZ",
       "type": 3,
