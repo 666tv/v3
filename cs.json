@@ -33,6 +33,25 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_饺子影视",
+      "name": "66⚡️JZ",
+      "type": 3,
+      "api": "csp_Jiaozi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_忍者影视",
+      "name": "66⚡️RZ",
+      "type": 3,
+      "api": "csp_AppRZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rzys.xyz/"
+    },
+    {
       "key": "lltv_厂长弹幕",
       "name": "66⚡️CZ弹幕",
       "type": 3,
