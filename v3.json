@@ -270,13 +270,16 @@
       "changeable": 1
     },
     {
-      "key": "lltv_厂长-天天",
+      "key": "lltv_厂长弹幕",
       "name": "66⚡️CZ",
       "type": 3,
       "api": "csp_Czzy",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
     },
     {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
@@ -645,6 +648,18 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/大师兄影视.js"
+    },
+    {
+      "key": "lltv_文才弹幕",
+      "name": "66⚡️WC",
+      "type": 3,
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
     },
     {
       "key": "lltv_xiguaya-心动-满天星辰",
