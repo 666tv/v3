@@ -537,10 +537,10 @@
       "key": "lltv_农民影视",
       "name": "66⚡️NM",
       "type": 3,
-      "api": "csp_WexNmys",
-      "jar": "./jar/66tv0812.jar",
+      "api": "csp_Nongm",
       "searchable": 1,
-      "changeable": 1
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_欧帝影院",
