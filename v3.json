@@ -266,7 +266,6 @@
       "name": "66⚡️CX！！",
       "type": 3,
       "api": "csp_WexF4kvm",
-      "jar": "./jar/66tv0812.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -438,13 +437,12 @@
       "name": "66⚡️KE！！",
       "type": 3,
       "api": "csp_Keke",
-      "jar": "./jar/66tv0812.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "lltv_快看-PG-XYQ-云星-Yu-巧技",
+      "key": "lltv_快看影视-PG-XYQ-云星-Yu-巧技",
       "name": "66⚡️KK",
       "type": 3,
       "api": "csp_Kuaikan",
@@ -468,7 +466,6 @@
       "name": "66⚡️LL！！",
       "type": 3,
       "api": "csp_SP360",
-      "jar": "./jar/66tv0812.jar",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1
@@ -516,12 +513,11 @@
       "name": "66⚡️ML！！",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "jar": "./jar/66tv0812.jar",
       "ext": "./js/魔力高清.js"
     },
     {
       "key": "lltv_明日影视",
-      "name": "66⚡️MR",
+      "name": "66⚡️MR！！",
       "type": 3,
       "api": "csp_WexMingriys",
       "searchable": 1,
@@ -529,7 +525,7 @@
     },
     {
       "key": "lltv_奈飞-云星-鸭",
-      "name": "66⚡️NF",
+      "name": "66⚡️NF！！",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -542,12 +538,13 @@
       "name": "66⚡️NM",
       "type": 3,
       "api": "csp_WexNmys",
+      "jar": "./jar/66tv0812.jar",
       "searchable": 1,
       "changeable": 1
     },
     {
       "key": "lltv_欧帝影院",
-      "name": "66⚡️OD",
+      "name": "66⚡️OD!!",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/欧帝影院.js"
