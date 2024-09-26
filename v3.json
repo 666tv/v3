@@ -424,6 +424,15 @@
       ]
     },
     {
+      "key": "lltv_饺子影视",
+      "name": "66⚡️JZ",
+      "type": 3,
+      "api": "csp_Jiaozi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_看客影视",
       "name": "66⚡️KA",
       "type": 3,
