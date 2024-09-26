@@ -65,7 +65,6 @@
       "name": "66⚡️豆瓣预告",
       "type": 3,
       "api": "csp_YGP",
-      "jar": "./jar/66tv0910.jar",
       "searchable": 0
     },
     /*{
@@ -83,6 +82,7 @@
       "name": "66❤️MV",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./jar/66tv0812.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -93,6 +93,7 @@
       "name": "66❤️音乐",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./jar/66tv0812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -144,6 +145,7 @@
       "name": "66💙体育直播",
       "type": 3,
       "api": "csp_XPath",
+      "jar": "./jar/66tv0812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -155,7 +157,6 @@
       "name": "66⚡️AI弹幕",
       "type": 3,
       "api": "csp_Ikanbot",
-      "jar": "./jar/66tv0910.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -169,7 +170,6 @@
       "name": "66⚡️NG弹幕",
       "type": 3,
       "api": "csp_Nangua",
-      "jar": "./jar/66tv0910.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -182,7 +182,6 @@
       "name": "66⚡️TT弹幕",
       "type": 3,
       "api": "csp_TianTian",
-      "jar": "./jar/66tv0910.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -311,18 +310,9 @@
       "name": "66⚡️FJ",
       "type": 3,
       "api": "csp_WexFujutv",
+      "jar": "./jar/66tv0812.jar",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "lltv_新感觉",
-      "name": "66⚡️GJ",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://43.248.100.147:9891/api.php/app/"
     },
     {
       "key": "lltv_韩小圈",
@@ -425,11 +415,19 @@
       ]
     },
     {
+      "key": "lltv_饺子影视",
+      "name": "66⚡️JZ",
+      "type": 3,
+      "api": "csp_Jiaozi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_看客影视",
       "name": "66⚡️KA",
       "type": 3,
       "api": "csp_Kanke",
-      "jar": "./jar/66tv0910.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -662,7 +660,6 @@
       "name": "66⚡️YQ",
       "type": 3,
       "api": "csp_Yqk",
-      "jar": "./jar/66tv0910.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -866,15 +863,33 @@
         }
     },
     {
-      "name": "XMY专线",
-      "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
-      "flag": [
-        "NBY"
-      ],
-      "header": {
-        "User-Agent": "Dalvik/2.1.0"
-      },
-      "type": "1"
+      "name": "LLTV_9",
+      "type": 1,
+      "url": "https://jxjson.icu/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     }
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
