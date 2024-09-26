@@ -2,7 +2,7 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
-"spider": "./jar/66tv0926.jar",
+"spider": "./jar/66tv.jar",
 //"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/lltv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
@@ -274,14 +274,10 @@
       "key": "lltv_厂长-天天",
       "name": "66⚡️CZ",
       "type": 3,
-      "api": "csp_NewCz",
-      "jar": "./jar/ttkx240909.jar;md5;56ffe5fc72be5f94267be472b59540a7",
-      "timeout": 15,
-      "playerType": 2,
+      "api": "csp_Czzy",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy77.com/"
+      "filterable": 1
     },
     {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
