@@ -33,30 +33,45 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_饺子影视",
-      "name": "66⚡️JZ",
+      "key": "比特影视",
+      "name": "比特｜影视",
       "type": 3,
-      "api": "csp_Jiaozi",
+      "api": "csp_Bttwo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "lltv_忍者影视",
-      "name": "66⚡️RZ",
+      "key": "全网影视",
+      "name": "全网｜影视",
       "type": 3,
-      "api": "csp_AppRZ",
+      "api": "csp_Quanwk",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://rzys.xyz/"
+      "ext": "https://fm666.qkw1.cc"
+    },
+    {
+      "key": "农民影视",
+      "name": "农民｜影视",
+      "type": 3,
+      "api": "csp_Nongm",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "魔力高清",
+      "name": "魔力｜影视",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/魔力高清.js"
     },
     {
       "key": "lltv_厂长弹幕",
       "name": "66⚡️CZ弹幕",
       "type": 3,
       "api": "csp_Czzy",
-      "jar": "./jar/66tv0910.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -65,11 +80,10 @@
       }
     },
     {
-      "key": "lltv_文才弹幕",
+      "key": "文才弹幕",
       "name": "文才｜弹幕",
       "type": 3,
       "api": "csp_Jpys",
-      "jar": "./jar/66tv0910.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -78,11 +92,10 @@
       }
     },
     {
-      "key": "lltv_立播弹幕",
+      "key": "立播弹幕",
       "name": "立播｜弹幕",
       "type": 3,
       "api": "csp_Libvio",
-      "jar": "./jar/66tv0910.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -94,25 +107,12 @@
       }
     },
     {
-      "key": "lltv_JOJO弹幕",
-      "name": "JOJO｜弹幕",
+      "key": "三六零弹幕",
+      "name": "三六零｜弹幕",
       "type": 3,
-      "api": "csp_Jiohub",
-      "jar": "./jar/66tv0910.jar",
+      "api": "csp_Sp360",
       "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "lltv_不太灵弹幕",
-      "name": "不太灵｜弹幕",
-      "type": 3,
-      "api": "csp_Bt0",
-      "jar": "./jar/66tv0910.jar",
-      "searchable": 1,
       "changeable": 1,
       "ext": {
         "danmu": true
@@ -143,7 +143,7 @@
       }
     },
     {
-      "key": "lltv_ConfigCenter",
+      "key": "lltv_ConfigCenter-PG网盘",
       "name": "4K配置⚡️观看4K资源需先在这里设置网盘参数",
       "type": 3,
       "api": "csp_ConfigCenter",
@@ -155,7 +155,7 @@
       }
     },
     {
-      "key": "lltv_多多玩偶（短剧、动漫有公众号提示）",
+      "key": "lltv_多多玩偶-PG网盘（短剧、动漫有公众号提示）",
       "name": "66⚡️4K-DD",
       "type": 3,
       "api": "csp_kongbai",
@@ -169,7 +169,7 @@
       }
     },
     {
-      "key": "lltv_哔哩FM",
+      "key": "lltv_哔哩FM-PG网盘",
       "name": "66⚡️哔哩",
       "type": 3,
       "api": "csp_Bili",
