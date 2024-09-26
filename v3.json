@@ -270,7 +270,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -314,7 +314,6 @@
       "name": "66⚡️HQ",
       "type": 3,
       "api": "csp_HanXiaoQuan",
-      "jar": "./jar/PGYdanmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
