@@ -263,9 +263,10 @@
     },
     {
       "key": "lltv_纯享影视",
-      "name": "66⚡️CX",
+      "name": "66⚡️CX！！",
       "type": 3,
       "api": "csp_WexF4kvm",
+      "jar": "./jar/66tv0812.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -434,9 +435,10 @@
     },
     {
       "key": "lltv_可可影视-XYQ",
-      "name": "66⚡️KE",
+      "name": "66⚡️KE！！",
       "type": 3,
       "api": "csp_Keke",
+      "jar": "./jar/66tv0812.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -463,9 +465,10 @@
     },
     {
       "key": "lltv_360-巧技-yytt",
-      "name": "66⚡️LL",
+      "name": "66⚡️LL！！",
       "type": 3,
       "api": "csp_SP360",
+      "jar": "./jar/66tv0812.jar",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1
@@ -510,9 +513,10 @@
     },
     {
       "key": "lltv_魔力高清",
-      "name": "66⚡️ML",
+      "name": "66⚡️ML！！",
       "type": 3,
       "api": "./js/drpy2.min.js",
+      "jar": "./jar/66tv0812.jar",
       "ext": "./js/魔力高清.js"
     },
     {
