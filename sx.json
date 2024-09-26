@@ -579,6 +579,19 @@
       "ext": "https://v.aikanbot.com"
     },
     {
+      "key": "lltv_厂长-天天",
+      "name": "66⚡️CZ",
+      "type": 3,
+      "api": "csp_NewCz",
+      "jar": "./jar/ttkx240909.jar;md5;56ffe5fc72be5f94267be472b59540a7",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy77.com/"
+    },
+    {
       "key": "lltv_小苹果",
       "name": "66⚡️AP",
       "type": 3,
