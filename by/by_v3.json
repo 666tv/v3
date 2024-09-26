@@ -109,16 +109,6 @@
       "ext": "./js/quanwang.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    /*{
-      "key": "lltv_斗鱼-FM-运输车-鸭",
-      "name": "66💙斗鱼直播",
-      "type": 3,
-      "playerType": 1,
-      "api": "./js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "https://7910.kstore.space/js/斗鱼直播.js"
-    },*/
     {
       "key": "lltv_Bili-道长-鸭",
       "name": "66💙哔哩直播",
@@ -130,6 +120,16 @@
       "ext": "https://7910.kstore.space/js/哔哩直播.js"
     },
     {
+      "key": "lltv_斗鱼-菜妮丝-FM-运输车-鸭",
+      "name": "66💙斗鱼直播",
+      "type": 3,
+      "playerType": 1,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://7910.kstore.space/js/斗鱼直播.js"
+    },
+    /*{
       "key": "lltv_虎牙-道长-ok-鸭",
       "name": "66💙虎牙直播",
       "type": 3,
@@ -138,7 +138,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://7910.kstore.space/js/虎牙直播.js"
-    },
+    },*/
     {
       "key": "lltv_企鹅-荷城-鸭-饭",
       "name": "66💙体育直播",
@@ -160,6 +160,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
+        "site": "https://v.aikanbot.com",
         "danmu": true
       }
     },
@@ -191,14 +192,36 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_爱看影视",
-      "name": "66⚡️AK",
+      "key": "lltv_4K-AV-道长",
+      "name": "66⚡️4K",
       "type": 3,
-      "api": "csp_Ikan",
-      "jar": "./jar/66tv0910.jar",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/4K-AV.js"
+    },
+    {
+      "key": "lltv_Ikanbot-XYQ-PG",
+      "name": "66⚡️AI",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://v.aikanbot.com"
+    },
+    {
+      "key": "lltv_哔哩影视[官]-道长",
+      "name": "66⚡️BI",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/哔哩影视[官].js"
     },
     {
       "key": "lltv_白嫖者-天天",
@@ -251,14 +274,10 @@
       "key": "lltv_厂长-天天",
       "name": "66⚡️CZ",
       "type": 3,
-      "api": "csp_NewCz",
-      "jar": "./jar/ttkx240909.jar;md5;56ffe5fc72be5f94267be472b59540a7",
-      "timeout": 15,
-      "playerType": 2,
+      "api": "csp_Czzy",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czys.pro/"
+      "filterable": 1
     },
     {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
