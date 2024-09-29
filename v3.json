@@ -479,13 +479,10 @@
       "key": "lltv_南瓜-巧技",
       "name": "66⚡️NG",
       "type": 3,
-      "api": "csp_NanGua",
-      "jar": "./jar/qiaoji240620.jar",
+      "api": "csp_Nangua",
       "searchable": 1,
       "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 1,
-      "ext": ""
+      "filterable": 1
     },
     {
       "key": "lltv_农民影视",
