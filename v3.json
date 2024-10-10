@@ -191,6 +191,17 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_4KAV-道长-天天",
+      "name": "66⚡️4K",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/4K-AV.js"
+    },
+    {
       "key": "lltv_Ikanbot-XYQ-PG",
       "name": "66⚡️AI",
       "type": 3,
@@ -319,6 +330,32 @@
       "changeable": 1
     },
     {
+      "key": "lltv_凡人追剧-巧技",
+      "name": "66⚡️FR",
+      "type": 3,
+      "api": "csp_Frong",
+      "jar": "./jar/qiaoji24108.jar",
+      "playerType": 1,
+      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTR8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
+    },
+    {
+      "key": "lltv_黑狐-天天-肥猫-鸭",
+      "name": "66⚡️HH",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/黑狐.json"
+    },
+    {
+      "key":"lltv_河马-欧歌",
+      "name":"66⚡️HM",
+      "type":3,
+      "api":"csp_XBPQ",
+      "ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}
+    },
+    {
       "key": "lltv_韩小圈",
       "name": "66⚡️HQ",
       "type": 3,
@@ -440,7 +477,7 @@
       "name": "66⚡️LB",
       "type": 3,
       "api": "csp_Lib",
-      "jar": "./jar/qiaoji240620.jar",
+      "jar": "./jar/qiaoji24108.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -451,7 +488,7 @@
       "name": "66⚡️LL",
       "type": 3,
       "api": "csp_SP360",
-      "jar": "./jar/qiaoji240620.jar",
+      "jar": "./jar/qiaoji24108.jar",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -464,6 +501,15 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/魔力高清.js"
+    },
+    {
+      "key": "lltv_木叶-巧技",
+      "name": "66⚡️MY",
+      "type": 3,
+      "api": "csp_Muye",
+      "jar": "./jar/qiaoji24108.jar",
+      "playerType": 1,
+      "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
     },
     {
       "key": "lltv_南瓜-巧技",
@@ -570,11 +616,20 @@
       ] 
     },
     {
-      "key": "lltv_大师兄影视-天天",
+      "key": "lltv_大师兄影视-天天-道长-运输车",
       "name": "66⚡️SX",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/大师兄.json"
+    },
+    {
+      "key": "lltv_思源-巧技",
+      "name": "66⚡️SY",
+      "type": 3,
+      "api": "csp_Syys",
+      "jar": "./jar/qiaoji24108.jar",
+      "playerType": 1,
+      "ext": "caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="
     },
     {
       "key": "lltv_文才弹幕",
@@ -587,6 +642,25 @@
       "ext": {
         "danmu": true
       }
+    },
+    {
+      "key": "lltv_五五-天天-鸭",
+      "name": "66⚡️WW",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/55.json"
+    },
+    {
+      "key": "lltv_现代-巧技",
+      "name": "66⚡️XD",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./jar/qiaoji24108.jar",
+      "playerType": 1,
+      "ext": "caHR0cDovL2FwcC5icm92b2QuY29tfDE1MjQ3MjA1MzMzamFyb2R8MTUyNDcyMDUzMzNqYXJvZA=="
     },
     {
       "key": "lltv_一起看弹幕",
@@ -619,7 +693,7 @@
       "name": "66⚡️ZX",
       "type": 3,
       "api": "csp_Zxzj",
-      "jar": "./jar/qiaoji240620.jar",
+      "jar": "./jar/qiaoji24108.jar",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
