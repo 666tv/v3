@@ -82,6 +82,7 @@
       "name": "66❤️MV",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./jar/66tv0812.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -269,7 +270,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": false
+        "danmu": true
       }
     },
     {
