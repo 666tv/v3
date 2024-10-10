@@ -21,6 +21,52 @@
       "ext": ""
     },
     {
+      "key": "lltv_4KAV-道长-天天",
+      "name": "66⚡️4K",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/4K-AV.js"
+    },
+    {
+      "key": "lltv_看客影视",
+      "name": "66⚡️KA",
+      "type": 3,
+      "api": "csp_Kanke",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_奈飞-云星-鸭",
+      "name": "66⚡️NF",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/奈飞中文.json"
+    },
+    {
+      "key": "lltv_FreeOK",
+      "name": "66⚡️OK",
+      "type": 3,
+      "api": "csp_FreeOK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key":"lltv_片吧-欧歌",
+      "name":"66⚡️PB",
+      "type":3,
+      "api":"csp_XBPQ",
+      "ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}
+    },
+    {
       "key": "lltv_纯享影视",
       "name": "66⚡️CX！！",
       "type": 3,
@@ -37,7 +83,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
     {
       "key": "lltv_明日影视",
       "name": "66⚡️MR！！",
