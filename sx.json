@@ -21,17 +21,6 @@
       "ext": ""
     },
     {
-      "key": "lltv_4KAV-道长-天天",
-      "name": "66⚡️4K",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/4K-AV.js"
-    },
-    {
       "key": "lltv_看客影视",
       "name": "66⚡️KA",
       "type": 3,
@@ -78,7 +67,7 @@
     },
     {
       "key": "lltv_纯享影视",
-      "name": "66⚡️CX！！",
+      "name": "66⚡️CX",
       "type": 3,
       "api": "csp_WexF4kvm",
       "searchable": 1,
@@ -86,7 +75,7 @@
     },
     {
       "key": "lltv_可可影视-XYQ",
-      "name": "66⚡️KE！！",
+      "name": "66⚡️KE",
       "type": 3,
       "api": "csp_Keke",
       "searchable": 1,
@@ -95,7 +84,7 @@
     },
     {
       "key": "lltv_明日影视",
-      "name": "66⚡️MR！！",
+      "name": "66⚡️MR",
       "type": 3,
       "api": "csp_WexMingriys",
       "searchable": 1,
@@ -103,7 +92,7 @@
     },
     {
       "key": "lltv_欧帝影院",
-      "name": "66⚡️OD!!",
+      "name": "66⚡️OD",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/欧帝影院.js"
@@ -138,30 +127,6 @@
       "ext": "./json/348.json"
     },
     {
-      "key": "lltv_大师兄-道长-运输车",
-      "name": "66⚡️SX",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/大师兄影视.js"
-    },
-    {
-      "key": "lltv_黑狐-肥猫-天天-鸭",
-      "name": "66⚡️HH",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/黑狐.json"
-    },
-    {
-      "key":"lltv_河马-欧歌",
-      "name":"66⚡️HM",
-      "type":3,
-      "api":"csp_XBPQ",
-      "ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}
-    },
-    {
       "key": "lltv_酷看影视-欧歌-天天-饭-Yu",
       "name": "66⚡️KU",
       "type": 3,
@@ -191,16 +156,6 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": ""
-    },
-    {
-      "key": "lltv_五五-天天-鸭",
-      "name": "66⚡️WW",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/五五影视.json"
     },
     {
       "key": "lltv_最新影视",
@@ -310,16 +265,6 @@
       "playerType": 1,
       "filterable": 0,
       "ext": "https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"
-    },
-    {
-      "key": "csp_五五",
-      "name": "🎦五五┃秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/55.json"
     },
     {
       "key": "lltv_Voflix-道长-鸭",
