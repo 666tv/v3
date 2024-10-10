@@ -223,11 +223,31 @@
       "ext": "./js/哔哩影视[官].js"
     },
     {
+      "key": "lltv_农民影视2-天天",
+      "name": "66⚡️BD",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/百度.json"
+    },
+    {
       "key": "lltv_白嫖者-天天",
       "name": "66⚡️BP",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/白嫖者联盟.json"
+    },
+    {
+      "key": "lltv_茶狐杯-天天",
+      "name": "66⚡️CB",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/茶狐杯.json"
     },
     {
       "key": "lltv_采集之王-天天",
@@ -594,6 +614,13 @@
         "日韩动漫",
         "NBA"
       ] 
+    },
+    {
+      "key": "lltv_大师兄影视-天天",
+      "name": "66⚡️SX",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./json/大师兄.json"
     },
     {
       "key": "lltv_文才弹幕",
