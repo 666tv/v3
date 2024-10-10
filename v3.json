@@ -191,17 +191,6 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_4K-AV-道长",
-      "name": "66⚡️4K",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/4K-AV.js"
-    },
-    {
       "key": "lltv_Ikanbot-XYQ-PG",
       "name": "66⚡️AI",
       "type": 3,
@@ -438,15 +427,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_看客影视",
-      "name": "66⚡️KA",
-      "type": 3,
-      "api": "csp_Kanke",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_快看影视-PG-XYQ-云星-Yu-巧技",
       "name": "66⚡️KK",
       "type": 3,
@@ -486,16 +466,6 @@
       "ext": "./js/魔力高清.js"
     },
     {
-      "key": "lltv_奈飞-云星-鸭",
-      "name": "66⚡️NF",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/奈飞中文.json"
-    },
-    {
       "key": "lltv_南瓜-巧技",
       "name": "66⚡️NG",
       "type": 3,
@@ -509,15 +479,6 @@
       "name": "66⚡️NM",
       "type": 3,
       "api": "csp_Nongm",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_FreeOK",
-      "name": "66⚡️OK",
-      "type": 3,
-      "api": "csp_FreeOK",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
