@@ -21,19 +21,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_无忧短剧",
-      "name": "无忧┃短剧",
-      "type": 3,
-      "api": "csp_Duanj",
-      "jar": "./jar/PGYdanmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
       "key": "lltv_在线短剧",
       "name": "在线┃短剧",
       "type": 3,
