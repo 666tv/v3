@@ -19,22 +19,6 @@
       "changeable": 1
     },
     {
-      "key": "lltv_天堂短剧",
-      "name": "天堂┃短剧",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/天堂短剧.js"
-    },
-    {
-      "key": "lltv_星芽短剧-欧歌",
-      "name": "星芽┃短剧",
-      "type": 3,
-      "api": "csp_AppXY",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "lltv_夜猫短剧-夜猫子",
       "name": "夜猫┃短剧",
       "type": 3,
@@ -49,7 +33,6 @@
       "name": "无忧┃短剧",
       "type": 3,
       "api": "csp_Duanj",
-      "jar": "./jar/66tv0910.jar",
       //"jar": "./jar/PGYdanmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d",
       "searchable": 1,
       "changeable": 0,
@@ -63,7 +46,6 @@
       "name": "在线┃短剧",
       "type": 3,
       "api": "csp_Duanju",
-      "jar": "./jar/66tv0910.jar",
       //"jar": "./jar/PGYdanmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d",
       "searchable": 1,
       "changeable": 0,
@@ -71,6 +53,22 @@
         "type": "rect",
         "ratio": 1.433
       }
+    },
+    {
+      "key": "lltv_星芽短剧-欧歌",
+      "name": "星芽┃短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "lltv_天堂短剧",
+      "name": "天堂┃短剧",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/天堂短剧.js"
     },
     {
       "key": "lltv_爱你短剧",
@@ -93,7 +91,7 @@
       "ext": "./json/河马短剧.json"
     },
     {
-      "key": "短剧屋",
+      "key": "lltv_短剧屋",
       "name": "短剧屋┃短剧",
       "type": 3,
       "api": "csp_XYQHiker",
