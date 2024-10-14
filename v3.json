@@ -333,9 +333,9 @@
       "key": "lltv_凡人追剧-巧技",
       "name": "66⚡️FR",
       "type": 3,
+      "playerType": 1,
       "api": "csp_Frong",
       "jar": "./jar/qiaoji24108.jar",
-      "playerType": 1,
       "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
     },
     {
