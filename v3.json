@@ -532,16 +532,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_FreeOK",
-      "name": "️️66⚡️OK",
-      "type": 3,
-      "api": "csp_FreeOK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.freeok.one/"
-    },
-    {
       "key": "lltv_小苹果弹幕",
       "name": "66⚡️PG",
       "type": 3,
