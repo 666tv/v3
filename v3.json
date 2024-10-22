@@ -336,7 +336,7 @@
       "playerType": 1,
       "api": "csp_Frong",
       "jar": "./jar/qiaoji24108.jar",
-      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
+      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTR8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
     },
     {
       "key": "lltv_瓜子影视",
@@ -654,15 +654,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/55.json"
-    },
-    {
-      "key": "lltv_现代-巧技",
-      "name": "66⚡️XD",
-      "type": 3,
-      "api": "csp_Xdai",
-      "jar": "./jar/qiaoji24108.jar",
-      "playerType": 1,
-      "ext": "caHR0cDovL2FwcC5icm92b2QuY29tfDE1MjQ3MjA1MzMzamFyb2R8MTUyNDcyMDUzMzNqYXJvZA=="
     },
     {
       "key": "lltv_一起看弹幕",
