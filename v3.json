@@ -335,7 +335,7 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_Frong",
-      "jar": "./jar/qiaoji24108.jar",
+      "jar": "./jar/qiaoji241018.jar",
       "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTR8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
     },
     {
@@ -479,7 +479,7 @@
       "name": "66⚡️LB",
       "type": 3,
       "api": "csp_Lib",
-      "jar": "./jar/qiaoji240620.jar",
+      "jar": "./jar/qiaoji241018.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -490,7 +490,7 @@
       "name": "66⚡️LL",
       "type": 3,
       "api": "csp_SP360",
-      "jar": "./jar/qiaoji24108.jar",
+      "jar": "./jar/qiaoji241018.jar",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -509,7 +509,7 @@
       "name": "66⚡️MY",
       "type": 3,
       "api": "csp_Muye",
-      "jar": "./jar/qiaoji24108.jar",
+      "jar": "./jar/qiaoji241018.jar",
       "playerType": 1,
       "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
     },
@@ -629,7 +629,7 @@
       "name": "66⚡️SY",
       "type": 3,
       "api": "csp_Syys",
-      "jar": "./jar/qiaoji24108.jar",
+      "jar": "./jar/qiaoji241018.jar",
       "playerType": 1,
       "ext": "caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="
     },
@@ -686,7 +686,7 @@
       "name": "66⚡️ZX",
       "type": 3,
       "api": "csp_Zxzj",
-      "jar": "./jar/qiaoji24108.jar",
+      "jar": "./jar/qiaoji241018.jar",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
