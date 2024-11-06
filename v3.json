@@ -583,16 +583,6 @@
       "ext": "./js/人人影视.js"
     },
     {
-      "key": "lltv_视频库-FM",
-      "name": "66⚡️SK",
-      "type": 3,
-      "api": "csp_WebVidHub",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://vidhub1.cc"
-    },
-    {
       "key": "lltv_360采集-夜猫",
       "name": "66⚡️SL",
       "type": 1,
@@ -679,18 +669,6 @@
       "ext": "KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+s4eQhuLBs4vVhslYH/yyPXePZ1AgNT8ZuBCcfE2LpJ19OKKPIvs+pt4Z/yzVA=="
     },
     {
-      "key": "lltv_一起看弹幕",
-      "name": "66⚡️YQ",
-      "type": 3,
-      "api": "csp_Yqk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
       "key": "lltv_桜之空影视-欧歌",
       "name": "66⚡️YY",
       "type": 3,
@@ -714,16 +692,6 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": ""
-    },
-    {
-      "key": "lltv_子子-鸭",
-      "name": "66⚡️ZZ",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/子子影视.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
