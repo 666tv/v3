@@ -466,16 +466,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_酷酷影视",
-      "name": "66⚡️KU",
-      "type": 3,
-      "api": "csp_App",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "KhYJ00ye42lr+7UsoxLsfea0p0H5SUkT7Tv/+ACyPvFQ+ozQDB0SI/NCeN59w0RiNzIKjBHQR9I/4GBIAlWmFKcvyM+yqtiPTwaxfs74YG+PHrb7VfKDLVFb0luKJl2gZ5pIVjIwVQNUCt5TAXutZxNBtlKGin+L/4vCsOIjR2r16dqyQwlpOKySq4NGGkKeA48tTxR+emOxn/qGPt5xjInFeLJXMvYxdp47pOKOA4Oj4LJnJ+ezEzScDoT2IASN0Rvl2ZneGEGkqlDU8NquYUP/svq1zScEYCpobKdg0ILB7Hba+5cMwtlnjGiHyCaM9dx+z+cVzD9cSTo/aL5gSoAPT4QzkFxezSARli9nVDmnS0MrY/NhiexS8AE+1et9"
-    },
-    {
       "key": "lltv_酷影视",
       "name": "66⚡️KY",
       "type": 3,
@@ -537,7 +527,7 @@
       "key": "lltv_农民影视",
       "name": "66⚡️NM",
       "type": 3,
-      "api": "csp_Nongm",
+      "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
