@@ -21,6 +21,38 @@
       "ext": ""
     },
     {
+      "key": "lltv_视频库-FM",
+      "name": "66⚡️SK",
+      "type": 3,
+      "api": "csp_WebVidHub",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://vidhub1.cc"
+    },
+    {
+      "key": "lltv_一起看弹幕",
+      "name": "66⚡️YQ",
+      "type": 3,
+      "api": "csp_Yqk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "lltv_子子-XYQ",
+      "name": "66⚡️ZZ",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/子子影视.json"
+    },
+    {
       "key":"lltv_河马-欧歌",
       "name":"66⚡️HM",
       "type":3,
