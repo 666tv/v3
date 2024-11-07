@@ -1,7 +1,7 @@
 //大部分资源来源于网络和各大佬整合，在此致敬！
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
-{
+{ 
 "spider": "./jar/66tv.jar",
 //"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/lltv.png",
@@ -191,15 +191,14 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_4KAV-道长-天天",
+      "key": "lltv_4K-天天",
       "name": "66⚡️4K",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/4K-AV.js"
+      "ext": "./json/4kav.json"
     },
     {
       "key": "lltv_Ikanbot-XYQ-PG",
@@ -305,10 +304,8 @@
       "key": "lltv_大米星球",
       "name": "66⚡️DM",
       "type": 3,
-      "api": "csp_AppDaMi",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/APPV2.js?type=url&params=https://dmz8k4.wiki"
     },
     {
       "key": "lltv_电影港-夜猫-巧技-不良",
@@ -330,13 +327,13 @@
       "changeable": 1
     },
     {
-      "key": "lltv_凡人追剧-巧技",
-      "name": "66⚡️FR",
+      "key": "lltv_瓜子影视",
+      "name": "66⚡️GZ",
       "type": 3,
-      "playerType": 1,
-      "api": "csp_Frong",
-      "jar": "./jar/qiaoji24108.jar",
-      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_黑狐-天天-肥猫-鸭",
@@ -466,6 +463,16 @@
       "filterable": 1
     },
     {
+      "key": "lltv_酷影视",
+      "name": "66⚡️KY",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tvkuys.xyz/api.php/app/"
+    },
+    {
       "key": "lltv_LibVio-巧技",
       "name": "66⚡️LB",
       "type": 3,
@@ -517,7 +524,7 @@
       "key": "lltv_农民影视",
       "name": "66⚡️NM",
       "type": 3,
-      "api": "csp_Nongm",
+      "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -535,6 +542,15 @@
       }
     },
     {
+      "key": "lltv_洽洽影视",
+      "name": "66⚡️QQ",
+      "type": 3,
+      "api": "csp_AppGZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_七新-荷城-XYQ",
       "name": "66⚡️QX",
       "type": 3,
@@ -545,13 +561,16 @@
       "ext": "./json/七新影视.json"
     },
     {
-      "key": "lltv_热播影视",
+      "key": "lltv_热播弹幕",
       "name": "66⚡️RB",
       "type": 3,
-      "api": "csp_AppRB",
+      "api": "csp_ReBo",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
     },
     {
       "key": "lltv_人人-心动-以一敌十-道长-潇洒",
@@ -559,16 +578,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/人人影视.js"
-    },
-    {
-      "key": "lltv_视频库-FM",
-      "name": "66⚡️SK",
-      "type": 3,
-      "api": "csp_WebVidHub",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://vidhub1.cc"
     },
     {
       "key": "lltv_360采集-夜猫",
@@ -647,25 +656,14 @@
       "ext": "./json/55.json"
     },
     {
-      "key": "lltv_现代-巧技",
+      "key": "lltv_兄弟影视",
       "name": "66⚡️XD",
       "type": 3,
-      "api": "csp_Xdai",
-      "jar": "./jar/qiaoji24108.jar",
-      "playerType": 1,
-      "ext": "caHR0cDovL2FwcC5icm92b2QuY29tfDE1MjQ3MjA1MzMzamFyb2R8MTUyNDcyMDUzMzNqYXJvZA=="
-    },
-    {
-      "key": "lltv_一起看弹幕",
-      "name": "66⚡️YQ",
-      "type": 3,
-      "api": "csp_Yqk",
+      "api": "csp_AppGetApp",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
+      "ext": "KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+s4eQhuLBs4vVhslYH/yyPXePZ1AgNT8ZuBCcfE2LpJ19OKKPIvs+pt4Z/yzVA=="
     },
     {
       "key": "lltv_桜之空影视-欧歌",
@@ -691,16 +689,6 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": ""
-    },
-    {
-      "key": "lltv_子子-鸭",
-      "name": "66⚡️ZZ",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/子子影视.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
