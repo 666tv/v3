@@ -301,13 +301,6 @@
       "ext": "./js/低端影视.js"
     },
     {
-      "key": "lltv_大米星球",
-      "name": "66⚡️DM",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/APPV2.js?type=url&params=https://dmz8k4.wiki"
-    },
-    {
       "key": "lltv_电影港-夜猫-巧技-不良",
       "name": "66⚡️DY",
       "type": 3,
@@ -654,16 +647,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/55.json"
-    },
-    {
-      "key": "lltv_兄弟影视",
-      "name": "66⚡️XD",
-      "type": 3,
-      "api": "csp_AppGetApp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+s4eQhuLBs4vVhslYH/yyPXePZ1AgNT8ZuBCcfE2LpJ19OKKPIvs+pt4Z/yzVA=="
     },
     {
       "key": "lltv_桜之空影视-欧歌",
