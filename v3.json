@@ -296,9 +296,10 @@
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⚡️DD",
       "type": 3,
-      "playerType": 2,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/低端影视.js"
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_大米星球",
