@@ -32,6 +32,14 @@
       "ext": "./js/4K-AV.js"
     },
     {
+      "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
+      "name": "66⚡️DD",
+      "type": 3,
+      "playerType": 2,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/低端影视.js"
+    },
+    {
       "key": "lltv_大米星球2",
       "name": "66⚡️DM2",
       "type": 3,
