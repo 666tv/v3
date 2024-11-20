@@ -21,6 +21,16 @@
       "ext": ""
     },
     {
+      "key": "lltv_拳王争霸-鸭",
+      "name": "66❤️拳王争霸",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./js/quanwang.js"
+    },
+    {
       "key": "lltv_4KAV-道长-天天",
       "name": "66⚡️4K",
       "type": 3,
