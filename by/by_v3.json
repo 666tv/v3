@@ -100,14 +100,15 @@
       "ext": "./json/哔哩音乐.json"
     },
     {
-      "key": "lltv_拳王争霸-鸭",
-      "name": "66❤️拳王争霸",
+      "key": "lltv_企鹅-荷城-鸭-饭",
+      "name": "66❤️体育",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "csp_XPath",
+      "jar": "./jar/66tv0812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./js/quanwang.js"
+      "ext": "https://d.kstore.dev/download/7910/json/企鹅体育.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -130,7 +131,7 @@
       "quickSearch": 0,
       "ext": "https://d.kstore.dev/download/7910/js/斗鱼直播.js"
     },
-    /*{
+    {
       "key": "lltv_虎牙-道长-ok-鸭",
       "name": "66💙虎牙直播",
       "type": 3,
@@ -139,17 +140,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/7910/js/虎牙直播.js"
-    },*/
-    {
-      "key": "lltv_企鹅-荷城-鸭-饭",
-      "name": "66💙体育直播",
-      "type": 3,
-      "api": "csp_XPath",
-      "jar": "./jar/66tv0812.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://d.kstore.dev/download/7910/json/企鹅体育.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
