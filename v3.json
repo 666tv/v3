@@ -206,8 +206,8 @@
       "type": 3,
       "api": "csp_Web1905",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_Ikanbot-XYQ-PG",
@@ -246,15 +246,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/白嫖者联盟.json"
-    },
-    {
-      "key": "lltv_比特影视",
-      "name": "66⚡️BT",
-      "type": 3,
-      "api": "csp_Bttwo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "lltv_茶狐杯-天天",
