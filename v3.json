@@ -403,9 +403,14 @@
       "key": "lltv_JP-道长-天天-鸭-巧技",
       "name": "66⚡️JP",
       "type": 3,
+      "api": "csp_Jianpian",
       "playerType": 1,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/JP.js"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
     },
     {
       "key": "lltv_极速",
