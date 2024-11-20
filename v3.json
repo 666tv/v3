@@ -409,7 +409,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true
+        "danmu": false
       }
     },
     {
