@@ -201,6 +201,15 @@
       "ext": "./json/4kav.json"
     },
     {
+      "key": "lltv_1905",
+      "name": "66⚡️1905",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
       "key": "lltv_Ikanbot-XYQ-PG",
       "name": "66⚡️AI",
       "type": 3,
@@ -237,6 +246,15 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/白嫖者联盟.json"
+    },
+    {
+      "key": "lltv_比特影视",
+      "name": "66⚡️BT",
+      "type": 3,
+      "api": "csp_Bttwo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_茶狐杯-天天",
@@ -317,6 +335,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/电影港.json"
+    },
+    {
+      "key": "lltv_疯狗影视",
+      "name": "66⚡️FG",
+      "type": 3,
+      "api": "csp_FengGo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_腐剧视频",
@@ -536,16 +563,13 @@
       "filterable": 1
     },
     {
-      "key": "lltv_小苹果弹幕",
+      "key": "lltv_小苹果",
       "name": "66⚡️PG",
       "type": 3,
       "api": "csp_Xpg",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
+      "filterable": 1
     },
     {
       "key": "lltv_洽洽影视",
@@ -565,6 +589,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/七新影视.json"
+    },
+    {
+      "key": "lltv_奇优影视",
+      "name": "66⚡️QY",
+      "type": 3,
+      "api": "csp_Qiyou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_热播弹幕",
@@ -638,6 +671,15 @@
       "jar": "./jar/qiaoji24108.jar",
       "playerType": 1,
       "ext": "caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="
+    },
+    {
+      "key": "lltv_铁剧影视",
+      "name": "66⚡️TJ",
+      "type": 3,
+      "api": "csp_WebBr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_文才弹幕",
