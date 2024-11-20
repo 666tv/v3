@@ -201,6 +201,15 @@
       "ext": "./json/4kav.json"
     },
     {
+      "key": "lltv_1905",
+      "name": "66⚡️1905",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_Ikanbot-XYQ-PG",
       "name": "66⚡️AI",
       "type": 3,
@@ -287,25 +296,23 @@
       "api": "csp_Czzy",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
+      "filterable": 1
     },
     {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⚡️DD",
       "type": 3,
-      "playerType": 2,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/低端影视.js"
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_大米星球",
       "name": "66⚡️DM",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/APPV2.js?type=url&params=https://dmz8k4.wiki"
+      "ext": "./js/APPV2.js?type=url&params=https://damifan.wiki"
     },
     {
       "key": "lltv_电影港-夜猫-巧技-不良",
@@ -316,6 +323,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/电影港.json"
+    },
+    {
+      "key": "lltv_疯狗影视",
+      "name": "66⚡️FG",
+      "type": 3,
+      "api": "csp_FengGo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_腐剧视频",
@@ -402,9 +418,14 @@
       "key": "lltv_JP-道长-天天-鸭-巧技",
       "name": "66⚡️JP",
       "type": 3,
+      "api": "csp_Jianpian",
       "playerType": 1,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/JP.js"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": false
+      }
     },
     {
       "key": "lltv_极速",
@@ -530,16 +551,13 @@
       "filterable": 1
     },
     {
-      "key": "lltv_小苹果弹幕",
+      "key": "lltv_小苹果",
       "name": "66⚡️PG",
       "type": 3,
       "api": "csp_Xpg",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
+      "filterable": 1
     },
     {
       "key": "lltv_洽洽影视",
@@ -559,6 +577,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/七新影视.json"
+    },
+    {
+      "key": "lltv_奇优影视",
+      "name": "66⚡️QY",
+      "type": 3,
+      "api": "csp_Qiyou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_热播弹幕",
@@ -634,6 +661,15 @@
       "ext": "caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="
     },
     {
+      "key": "lltv_铁剧影视",
+      "name": "66⚡️TJ",
+      "type": 3,
+      "api": "csp_WebBr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_文才弹幕",
       "name": "66⚡️WC",
       "type": 3,
@@ -654,16 +690,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/55.json"
-    },
-    {
-      "key": "lltv_兄弟影视",
-      "name": "66⚡️XD",
-      "type": 3,
-      "api": "csp_AppGetApp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+s4eQhuLBs4vVhslYH/yyPXePZ1AgNT8ZuBCcfE2LpJ19OKKPIvs+pt4Z/yzVA=="
     },
     {
       "key": "lltv_桜之空影视-欧歌",
@@ -1125,7 +1151,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://7910.kstore.space/main/live.txt",
+      "url": "https://d.kstore.dev/download/7910/main/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15"
