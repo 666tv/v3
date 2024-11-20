@@ -118,7 +118,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://7910.kstore.space/js/哔哩直播.js"
+      "ext": "https://d.kstore.space/download/7910/js/哔哩直播.js"
     },
     {
       "key": "lltv_斗鱼-菜妮丝-FM-运输车-鸭",
@@ -128,7 +128,7 @@
       "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://7910.kstore.space/js/斗鱼直播.js"
+      "ext": "https://d.kstore.space/download/7910/js/斗鱼直播.js"
     },
     /*{
       "key": "lltv_虎牙-道长-ok-鸭",
@@ -138,7 +138,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://7910.kstore.space/js/虎牙直播.js"
+      "ext": "https://d.kstore.space/download/7910/js/虎牙直播.js"
     },*/
     {
       "key": "lltv_企鹅-荷城-鸭-饭",
@@ -149,7 +149,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://7910.kstore.space/json/企鹅体育.json"
+      "ext": "https://d.kstore.space/download/7910/json/企鹅体育.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
