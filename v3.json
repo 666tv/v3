@@ -446,6 +446,13 @@
       ]
     },
     {
+      "key": "lltv_金牌影视",
+      "name": "66⚡️JY",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/金牌影视.js"
+    },
+    {
       "key": "lltv_饺子影视",
       "name": "66⚡️JZ",
       "type": 3,
@@ -495,6 +502,13 @@
       "searchable": 1,
       "playerType": 1,
       "ext": ""
+    },
+    {
+      "key": "lltv_闪雷影视-天天",
+      "name": "66⚡️LY",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/闪雷影视.js"
     },
     {
       "key": "lltv_魔力高清",
