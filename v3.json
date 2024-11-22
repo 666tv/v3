@@ -181,6 +181,15 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_1905",
+      "name": "1905电影网",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_4K-天天",
       "name": "66⚡️4K",
       "type": 3,
@@ -189,15 +198,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/4kav.json"
-    },
-    {
-      "key": "lltv_1905",
-      "name": "66⚡️1905",
-      "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "lltv_Ikanbot-XYQ-PG",
