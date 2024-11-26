@@ -201,6 +201,15 @@
       "ext": "https://v.aikanbot.com"
     },
     {
+      "key": "lltv_小苹果影视",
+      "name": "66⚡️AP",
+      "type": 3,
+      "api": "csp_Xpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_哔哩影视[官]-道长",
       "name": "66⚡️BI",
       "type": 3,
@@ -536,15 +545,6 @@
       "name": "66⚡️NM",
       "type": 3,
       "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_小苹果",
-      "name": "66⚡️PG",
-      "type": 3,
-      "api": "csp_Xpg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
