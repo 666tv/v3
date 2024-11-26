@@ -2,7 +2,8 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 { 
-"spider": "./jar/66tv.jar",
+"spider": "./jar/66tv.txt",
+//"spider": "./jar/66tv.jar",
 //"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/lltv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
@@ -402,10 +403,7 @@
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": false
-      }
+      "filterable": 1
     },
     {
       "key": "lltv_极速",
@@ -481,17 +479,6 @@
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
     {
-      "key": "lltv_LibVio-巧技",
-      "name": "66⚡️LB",
-      "type": 3,
-      "api": "csp_Lib",
-      "jar": "./jar/qiaoji240620.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://libvio.link/static/js/playerconfig.js"
-    },
-    {
       "key": "lltv_360-巧技-yytt",
       "name": "66⚡️LL",
       "type": 3,
@@ -509,6 +496,15 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/闪雷影视.js"
+    },
+    {
+      "key": "lltv_美剧天堂",
+      "name": "66⚡️MJ",
+      "type": 3,
+      "api": "csp_MeijuTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_魔力高清",
@@ -646,15 +642,6 @@
       "ext": "./json/大师兄.json"
     },
     {
-      "key": "lltv_思源-巧技",
-      "name": "66⚡️SY",
-      "type": 3,
-      "api": "csp_Syys",
-      "jar": "./jar/qiaoji24108.jar",
-      "playerType": 1,
-      "ext": "caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="
-    },
-    {
       "key": "lltv_铁剧影视",
       "name": "66⚡️TJ",
       "type": 3,
@@ -746,6 +733,35 @@
     },
     {
       "name": "LLTV",
+      "type": "1",
+      "url": "https://jk.123zy.cool/jx/jx.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "LLTV_1",
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
     //"url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
@@ -776,7 +792,7 @@
       }
     },
     {
-      "name": "LLTV_1",
+      "name": "LLTV_2",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -786,12 +802,12 @@
       }
     },
     {
-      "name": "LLTV_2",
+      "name": "LLTV_3",
       "type": 0,
       "url": "https://www.huaqi.live/?url="
     },
     {
-      "name": "LLTV_3",
+      "name": "LLTV_4",
       "type": 0,
       "url": "https://jx.aidouer.net/?url=",
       "ext": {
@@ -802,7 +818,7 @@
       }
     },
     {
-      "name": "LLTV_4",
+      "name": "LLTV_5",
       "type": 0,
       "url": "https://jx.xyflv.cc/?url=",
       "ext": {
@@ -813,22 +829,22 @@
       }
     },
     {
-      "name": "LLTV_5",
+      "name": "LLTV_6",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
-      "name": "LLTV_6",
+      "name": "LLTV_7",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
     },
     {
-      "name": "LLTV_7",
+      "name": "LLTV_8",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "LLTV_8",
+      "name": "LLTV_9",
       "type": 0,
       "url": "https://www.yemu.xyz/?url=",
       "ext": {
@@ -874,7 +890,7 @@
         }
     },
     {
-      "name": "LLTV_9",
+      "name": "LLTV_10",
       "type": 1,
       "url": "https://jxjson.icu/neibu.php?url=",
       "ext": {
@@ -1146,8 +1162,10 @@
       "type": 0,
       "playerType": 1,
       "url": "https://d.kstore.dev/download/7910/main/live.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "https://live.fanmingming.com/e.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      //"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      //"logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15"
     }
     ],
