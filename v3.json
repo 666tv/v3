@@ -479,17 +479,6 @@
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
     {
-      "key": "lltv_LibVio-巧技",
-      "name": "66⚡️LB",
-      "type": 3,
-      "api": "csp_Lib",
-      "jar": "./jar/qiaoji240620.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://libvio.link/static/js/playerconfig.js"
-    },
-    {
       "key": "lltv_360-巧技-yytt",
       "name": "66⚡️LL",
       "type": 3,
@@ -651,15 +640,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/大师兄.json"
-    },
-    {
-      "key": "lltv_思源-巧技",
-      "name": "66⚡️SY",
-      "type": 3,
-      "api": "csp_Syys",
-      "jar": "./jar/qiaoji24108.jar",
-      "playerType": 1,
-      "ext": "caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="
     },
     {
       "key": "lltv_铁剧影视",
