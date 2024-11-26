@@ -460,15 +460,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_酷吧电影",
-      "name": "66⚡️KB",
-      "type": 3,
-      "api": "csp_KubaCL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_快看影视-PG-XYQ-云星-Yu-巧技",
       "name": "66⚡️KK",
       "type": 3,
