@@ -184,19 +184,74 @@
 //解析~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "parses": [
     {
-      "name": "嗅探",
-      "type": 3,
-      "url": "Web"
-    },
-    {
       "name": "聚合",
       "type": 3,
       "url": "Demo"
     },
     {
+      "name": "Json",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "LLTV",
+      "type": "1",
+      "url": "https://jk.123zy.cool/jx/jx.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
       "name": "LLTV_1",
-      "type": 0,
-      "url": "https://www.huaqi.live/?url="
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+    //"url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     },
     {
       "name": "LLTV_2",
@@ -211,6 +266,11 @@
     {
       "name": "LLTV_3",
       "type": 0,
+      "url": "https://www.huaqi.live/?url="
+    },
+    {
+      "name": "LLTV_4",
+      "type": 0,
       "url": "https://jx.aidouer.net/?url=",
       "ext": {
         "header": {
@@ -220,7 +280,7 @@
       }
     },
     {
-      "name": "LLTV_4",
+      "name": "LLTV_5",
       "type": 0,
       "url": "https://jx.xyflv.cc/?url=",
       "ext": {
@@ -231,22 +291,22 @@
       }
     },
     {
-      "name": "LLTV_5",
+      "name": "LLTV_6",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
-      "name": "LLTV_6",
+      "name": "LLTV_7",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
     },
     {
-      "name": "LLTV_7",
+      "name": "LLTV_8",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "LLTV_8",
+      "name": "LLTV_9",
       "type": 0,
       "url": "https://www.yemu.xyz/?url=",
       "ext": {
@@ -290,8 +350,37 @@
           "User-Agent": "Dart/3.0(dart:io)"
           }
         }
+    },
+    {
+      "name": "LLTV_10",
+      "type": 1,
+      "url": "https://jxjson.icu/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
       }
-    ],
+    }
+],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
