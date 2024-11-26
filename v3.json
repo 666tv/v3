@@ -403,10 +403,7 @@
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": false
-      }
+      "filterable": 1
     },
     {
       "key": "lltv_极速",
@@ -463,6 +460,15 @@
       "filterable": 1
     },
     {
+      "key": "lltv_酷吧电影",
+      "name": "66⚡️KB",
+      "type": 3,
+      "api": "csp_KubaCL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_快看影视-PG-XYQ-云星-Yu-巧技",
       "name": "66⚡️KK",
       "type": 3,
@@ -510,6 +516,15 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/闪雷影视.js"
+    },
+    {
+      "key": "lltv_美剧天堂",
+      "name": "66⚡️MJ",
+      "type": 3,
+      "api": "csp_MeijuTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_魔力高清",
