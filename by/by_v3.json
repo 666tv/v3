@@ -157,10 +157,10 @@
       }
     },
     {
-      "key": "lltv_南瓜弹幕",
-      "name": "66⚡️NG弹幕",
+      "key": "lltv_糯米弹幕",
+      "name": "66⚡️NM弹幕",
       "type": 3,
-      "api": "csp_Nangua",
+      "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -651,6 +651,13 @@
       "filterable": 1
     },
     {
+      "key": "lltv_腾讯弹幕",
+      "name": "66⚡️TX",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/TXDM.js"
+    },
+    {
       "key": "lltv_文才弹幕",
       "name": "66⚡️WC",
       "type": 3,
@@ -671,6 +678,20 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/55.json"
+    },
+    {
+      "key": "lltv_小虎斑弹幕",
+      "name": "66⚡️XH",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/XHBDM.js"
+    },
+    {
+      "key": "lltv_优酷弹幕",
+      "name": "66⚡️YK",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/YKDM.js"
     },
     {
       "key": "lltv_桜之空影视-欧歌",
