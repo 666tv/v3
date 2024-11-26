@@ -70,6 +70,17 @@
       "filterable": 0
     },
     {
+      "key": "lltv_LibVio-巧技",
+      "name": "66⚡️LB",
+      "type": 3,
+      "api": "csp_Lib",
+      "jar": "./jar/qiaoji240620.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://libvio.link/static/js/playerconfig.js"
+    },
+    {
       "key": "lltv_视频库-FM",
       "name": "66⚡️SK",
       "type": 3,
