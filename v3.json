@@ -1178,7 +1178,7 @@
 //直播~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "lives": [
     {
-      "name": "live",
+      "name": "①live",
       "type": 0,
       "playerType": 1,
       "url": "https://d.kstore.dev/download/7910/main/live.txt",
@@ -1189,7 +1189,7 @@
       "ua": "okhttp/3.15"
     },
     {
-      "name": "live(Mao)",
+      "name": "②live(Mao)",
       "type": 0,
       "url": "http://rihou.cc:567/gggg.nzk",
       "playerType": 2,
@@ -1198,7 +1198,7 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "live(Fmm)",
+      "name": "③live(Fmm)",
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 2,
