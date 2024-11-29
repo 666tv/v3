@@ -1178,31 +1178,15 @@
 //直播~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "lives": [
     {
-      "name": "①live",
+      "name": "live",
       "type": 0,
-      "url": "https://d.kstore.dev/download/7910/main/live.txt",
       "playerType": 1,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
-      "name": "②live(mao)",
-      "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
-      "name": "③live(fmm)",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+      "url": "https://d.kstore.dev/download/7910/main/live.txt",
+      "epg": "https://live.fanmingming.com/e.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      //"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      //"logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15"
     }
     ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
