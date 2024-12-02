@@ -10,15 +10,6 @@
 
 "lives": [
     {
-      "name": "④猫TV线路(IJK)",
-      "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 1,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
       "name": "⑪V6明线路",
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
