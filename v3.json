@@ -8,18 +8,6 @@
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
 "logo": "https://gitee.com/lltv/by/raw/main/logo.png",
 
-"lives": [
-    {
-      "name": "⑪V6明线路",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    }
-  ],
-
 "sites": [
 
     {
@@ -1182,25 +1170,23 @@
         }
       ]
     }
-  ],
+],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
 //直播~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/*"lives": [
+"lives": [
     {
-      "name": "live",
+      "name": "Live",
       "type": 0,
       "playerType": 1,
+      "ua": "okhttp/3",
       "url": "https://d.kstore.dev/download/7910/main/live.txt",
-      "epg": "https://live.fanmingming.com/e.xml",
-      "logo": "https://live.fanmingming.com/tv/{name}.png",
-      //"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      //"logo": "https://epg.112114.xyz/logo/{name}.png",
-      "ua": "okhttp/3.15"
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
     }
-    ],*/
+],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
