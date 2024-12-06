@@ -142,19 +142,6 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_机器人弹幕",
-      "name": "66⚡️AI弹幕",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": "https://v.aikanbot.com",
-        "danmu": true
-      }
-    },
-    {
       "key": "lltv_糯米弹幕",
       "name": "66⚡️NM弹幕",
       "type": 3,
@@ -171,6 +158,18 @@
       "name": "66⚡️TT弹幕",
       "type": 3,
       "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "lltv_文才弹幕",
+      "name": "66⚡️WC弹幕",
+      "type": 3,
+      "api": "csp_Jpys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -244,6 +243,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/茶狐杯.json"
+    },
+    {
+      "key": "lltv_云云影视",
+      "name": "66⚡️CD",
+      "type": 3,
+      "api": "csp_AppLma",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "KhY021WelCEl+6MsvwnzaPusskyiDwxc/zHc8gWyReBS+prQb0FAAvlCb5Uoj4LihPmHGDbnCYo/risaDE3tISvdDENCSVt4yNkc/84/jK0C1mB7qQzP6tbIGNAuvYFQ5GG9wtLMcQNCCr0aUEOhalQ68ReunWqH5JzX96l/BDfD/4KyVQlAKaurrptTFwKIRcQ7DU0yNCOv0eHPd48jyYXnc/YzNv9jY54k0unLa6z06bdWLsj4G0aNHwcp3IxydlT/taKaA0S27Tmdq7nkMyq26a39g1MHcVEvL6x7xZmF+nOYuZBIiIxzh36dj2ues4Nt2ukFtac="
     },
     {
       "key": "lltv_采集之王-天天",
@@ -521,6 +530,16 @@
       "ext": "./js/魔力高清.js"
     },
     {
+      "key": "lltv_米米影视",
+      "name": "66⚡️MM",
+      "type": 3,
+      "api": "csp_AppZX",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "KhY021WelCEl+6MsvwnzaLK5sg6yEQRc8CLY+R2wReBS99eCRx9APeYSJ5VWzBI5XnVfjFiTSsduqSYOWQC3AqI3+tLwmZ/aT2z/PZuRbHjEUNX8RMiGfg8bkgTbOVjmN6hVB1V3ZE4DTbUbATLmIUci/wOblS2T54u1dxfP2owIfTg1nKSiYD1ndF3VotBmw5u8hM7jpJZ3Ugcaqy/mTj7oMr8="
+    },
+    {
       "key": "lltv_木叶-巧技",
       "name": "66⚡️MY",
       "type": 3,
@@ -656,7 +675,7 @@
       "ext": "./js/TXDM.js"
     },
     {
-      "key": "lltv_文才弹幕",
+      "key": "lltv_文才",
       "name": "66⚡️WC",
       "type": 3,
       "api": "csp_Jpys",
@@ -664,7 +683,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true
+        "danmu": false
       }
     },
     {
