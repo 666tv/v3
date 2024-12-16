@@ -375,8 +375,8 @@
       "key": "lltv_JP-道长-天天-鸭-巧技",
       "name": "66⚡️JP",
       "type": 3,
-      "api": "csp_Jianpian",
       "playerType": 1,
+      "api": "csp_Jianpian",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -458,12 +458,12 @@
       "key": "lltv_360-巧技-yytt",
       "name": "66⚡️LL",
       "type": 3,
+      "playerType": 2,
       "api": "csp_SP360",
-      "jar": "./jar/qiaoji24108.jar",
+      "jar": "./jar/qiaoji241213.jar",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "playerType": 1,
       "ext": ""
     },
     {
@@ -503,10 +503,10 @@
       "key": "lltv_木叶-巧技",
       "name": "66⚡️MY",
       "type": 3,
-      "api": "csp_Muye",
-      "jar": "./jar/qiaoji24108.jar",
-      "playerType": 1,
-      "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
+      "playerType": 2,
+      "api": "csp_Xdai",
+      "jar": "./jar/qiaoji241213.jar",
+      "ext": "saHR0cDovLzEyNC4yMjMuMTEuMjU6MjQxMDJ8NnZheGpuNHZia3Joc3pwOHw2dmF4am40dmJrcmhzenA4fDEwMA=="
     },
     {
       "key": "lltv_南瓜-巧技",
@@ -688,8 +688,9 @@
       "key": "lltv_在线之家-巧技-鸭-道长",
       "name": "66⚡️ZX",
       "type": 3,
+      "playerType": 2,
       "api": "csp_Zxzj",
-      "jar": "./jar/qiaoji24108.jar",
+      "jar": "./jar/qiaoji241213.jar",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
