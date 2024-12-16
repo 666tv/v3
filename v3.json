@@ -181,7 +181,7 @@
     },
     {
       "key": "lltv_腾讯弹幕",
-      "name": "66⚡️TX",
+      "name": "66⚡️TX弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/TXDM.js"
