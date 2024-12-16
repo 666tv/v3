@@ -10,17 +10,8 @@
 "sites": [
 
     {
-      "key": "lltv_厂长弹幕",
-      "name": "👇点主页切换资源•推荐电信网络",
-      "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_豆瓣",
-      "name": "66⚡️豆瓣推荐",
+      "name": "👇点主页切换资源•推荐电信网络",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 0,
@@ -111,6 +102,20 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_芒果弹幕",
+      "name": "66⚡️MG弹幕",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/MGDM.js"
+    },
+    {
+      "key": "lltv_爱奇异弹幕",
+      "name": "66⚡️QY弹幕",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/AQYDM.js"
+    },
+    {
       "key": "lltv_热播弹幕",
       "name": "66⚡️RB弹幕",
       "type": 3,
@@ -135,6 +140,13 @@
       }
     },
     {
+      "key": "lltv_腾讯弹幕",
+      "name": "66⚡️TX",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/TXDM.js"
+    },
+    {
       "key": "lltv_文才弹幕",
       "name": "66⚡️WC弹幕",
       "type": 3,
@@ -145,6 +157,27 @@
       "ext": {
         "danmu": true
       }
+    },
+    {
+      "key": "lltv_小虎斑弹幕",
+      "name": "66⚡️XH弹幕",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/XHBDM.js"
+    },
+    {
+      "key": "lltv_小熊弹幕",
+      "name": "66⚡️XX弹幕",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/XXDM.js"
+    },
+    {
+      "key": "lltv_优酷弹幕",
+      "name": "66⚡️YK弹幕",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/YKDM.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -165,13 +198,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://v.aikanbot.com"
-    },
-    {
-      "key": "lltv_爱奇异弹幕",
-      "name": "66⚡️AQ",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/AQYDM.js"
     },
     {
       "key": "lltv_哔哩影视[官]-道长",
@@ -242,6 +268,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./js/畅梦.js"
+    },
+    {
+      "key": "lltv_厂长弹幕",
+      "name": "66⚡️CZ",
+      "type": 3,
+      "api": "csp_Czzy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
@@ -453,13 +488,6 @@
       "ext": "./js/闪雷影视.js"
     },
     {
-      "key": "lltv_芒果弹幕",
-      "name": "66⚡️MG",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/MGDM.js"
-    },
-    {
       "key": "lltv_美剧天堂",
       "name": "66⚡️MJ",
       "type": 3,
@@ -580,13 +608,6 @@
       "ext": "./json/大师兄.json"
     },
     {
-      "key": "lltv_腾讯弹幕",
-      "name": "66⚡️TX",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/TXDM.js"
-    },
-    {
       "key": "lltv_五五-天天-鸭",
       "name": "66⚡️WW",
       "type": 3,
@@ -595,27 +616,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/55.json"
-    },
-    {
-      "key": "lltv_小虎斑弹幕",
-      "name": "66⚡️XH",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/XHBDM.js"
-    },
-    {
-      "key": "lltv_小熊弹幕",
-      "name": "66⚡️XX",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/XXDM.js"
-    },
-    {
-      "key": "lltv_优酷弹幕",
-      "name": "66⚡️YK",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/YKDM.js"
     },
     {
       "key": "lltv_桜之空影视-欧歌",
