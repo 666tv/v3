@@ -596,8 +596,7 @@
       "key": "lltv_360采集-夜猫",
       "name": "66⚡️SL",
       "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/from/360m3u8/at/json",
-      "playurl": "json:https://zyjiexi.com/player/?url=",
+      "api": "https://360zy.com/api.php/provide/vod/",
       "categories": [
         "爽文短剧",
         "动作片",
