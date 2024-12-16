@@ -167,6 +167,13 @@
       "ext": "https://v.aikanbot.com"
     },
     {
+      "key": "lltv_爱奇异弹幕",
+      "name": "66⚡️AQ",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/AQYDM.js"
+    },
+    {
       "key": "lltv_哔哩影视[官]-道长",
       "name": "66⚡️BI",
       "type": 3,
@@ -446,6 +453,13 @@
       "ext": "./js/闪雷影视.js"
     },
     {
+      "key": "lltv_芒果弹幕",
+      "name": "66⚡️MG",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/MGDM.js"
+    },
+    {
       "key": "lltv_美剧天堂",
       "name": "66⚡️MJ",
       "type": 3,
@@ -588,6 +602,13 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/XHBDM.js"
+    },
+    {
+      "key": "lltv_小熊弹幕",
+      "name": "66⚡️XX",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/XXDM.js"
     },
     {
       "key": "lltv_优酷弹幕",
