@@ -111,10 +111,10 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_糯米弹幕",
-      "name": "66⚡️NM弹幕",
+      "key": "lltv_热播弹幕",
+      "name": "66⚡️RB弹幕",
       "type": 3,
-      "api": "csp_Nmys",
+      "api": "csp_ReBo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -503,15 +503,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_小苹果影视",
-      "name": "66⚡️PG",
-      "type": 3,
-      "api": "csp_Xpg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_洽洽影视",
       "name": "66⚡️QQ",
       "type": 3,
@@ -521,16 +512,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_七新-荷城-XYQ",
-      "name": "66⚡️QX",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/七新影视.json"
-    },
-    {
       "key": "lltv_奇优影视",
       "name": "66⚡️QY",
       "type": 3,
@@ -538,25 +519,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "lltv_热播弹幕",
-      "name": "66⚡️RB",
-      "type": 3,
-      "api": "csp_ReBo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "lltv_人人-心动-以一敌十-道长-潇洒",
-      "name": "66⚡️RR",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/人人影视.js"
     },
     {
       "key": "lltv_360采集-夜猫",
@@ -604,32 +566,11 @@
       "ext": "./json/大师兄.json"
     },
     {
-      "key": "lltv_铁剧影视",
-      "name": "66⚡️TJ",
-      "type": 3,
-      "api": "csp_WebBr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_腾讯弹幕",
       "name": "66⚡️TX",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/TXDM.js"
-    },
-    {
-      "key": "lltv_文才",
-      "name": "66⚡️WC",
-      "type": 3,
-      "api": "csp_Jpys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": false
-      }
     },
     {
       "key": "lltv_五五-天天-鸭",
