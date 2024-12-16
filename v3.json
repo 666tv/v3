@@ -500,13 +500,13 @@
       "ext": "KhY021WelCEl+6MsvwnzaLK5sg6yEQRc8CLY+R2wReBS99eCRx9APeYSJ5VWzBI5XnVfjFiTSsduqSYOWQC3AqI3+tLwmZ/aT2z/PZuRbHjEUNX8RMiGfg8bkgTbOVjmN6hVB1V3ZE4DTbUbATLmIUci/wOblS2T54u1dxfP2owIfTg1nKSiYD1ndF3VotBmw5u8hM7jpJZ3Ugcaqy/mTj7oMr8="
     },
     {
-      "key": "lltv_木叶-巧技",
-      "name": "66⚡️MY",
+      "key": "lltv_木头-巧技",
+      "name": "66⚡️MT",
       "type": 3,
-      "playerType": 2,
-      "api": "csp_Xdai",
+      "playerType": 1,
+      "api": "csp_Shark",
       "jar": "./jar/qiaoji241213.jar",
-      "ext": "saHR0cDovLzEyNC4yMjMuMTEuMjU6MjQxMDJ8NnZheGpuNHZia3Joc3pwOHw2dmF4am40dmJrcmhzenA4fDEwMA=="
+      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
     {
       "key": "lltv_南瓜-巧技",
