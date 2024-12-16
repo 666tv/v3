@@ -478,6 +478,9 @@
       "playerType": 1,
       "api": "csp_Shark",
       "jar": "./jar/qiaoji241213.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
     {
@@ -485,6 +488,7 @@
       "name": "66⚡️NG",
       "type": 3,
       "api": "csp_Nangua",
+      "jar": "./jar/qiaoji241213.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
