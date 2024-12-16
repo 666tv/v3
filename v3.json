@@ -10,8 +10,17 @@
 "sites": [
 
     {
-      "key": "lltv_豆瓣",
+      "key": "lltv_厂长弹幕",
       "name": "👇点主页切换资源•推荐电信网络",
+      "type": 3,
+      "api": "csp_Czzy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_豆瓣",
+      "name": "66⚡️豆瓣推荐",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 0,
@@ -158,15 +167,6 @@
       "ext": "https://v.aikanbot.com"
     },
     {
-      "key": "lltv_小苹果影视",
-      "name": "66⚡️AP",
-      "type": 3,
-      "api": "csp_Xpg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_哔哩影视[官]-道长",
       "name": "66⚡️BI",
       "type": 3,
@@ -205,16 +205,6 @@
       "ext": "./json/茶狐杯.json"
     },
     {
-      "key": "lltv_云云影视",
-      "name": "66⚡️CD",
-      "type": 3,
-      "api": "csp_AppLma",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "KhY021WelCEl+6MsvwnzaPusskyiDwxc/zHc8gWyReBS+prQb0FAAvlCb5Uoj4LihPmHGDbnCYo/risaDE3tISvdDENCSVt4yNkc/84/jK0C1mB7qQzP6tbIGNAuvYFQ5GG9wtLMcQNCCr0aUEOhalQ68ReunWqH5JzX96l/BDfD/4KyVQlAKaurrptTFwKIRcQ7DU0yNCOv0eHPd48jyYXnc/YzNv9jY54k0unLa6z06bdWLsj4G0aNHwcp3IxydlT/taKaA0S27Tmdq7nkMyq26a39g1MHcVEvL6x7xZmF+nOYuZBIiIxzh36dj2ues4Nt2ukFtac="
-    },
-    {
       "key": "lltv_采集之王-天天",
       "name": "66⚡️CJ",
       "type": 3,
@@ -247,15 +237,6 @@
       "ext": "./js/畅梦.js"
     },
     {
-      "key": "lltv_厂长弹幕",
-      "name": "66⚡️CZ",
-      "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⚡️DD",
       "type": 3,
@@ -280,15 +261,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/电影港.json"
-    },
-    {
-      "key": "lltv_疯狗影视",
-      "name": "66⚡️FG",
-      "type": 3,
-      "api": "csp_FengGo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "lltv_腐剧视频",
@@ -522,6 +494,15 @@
       "name": "66⚡️NM",
       "type": 3,
       "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_小苹果影视",
+      "name": "66⚡️PG",
+      "type": 3,
+      "api": "csp_Xpg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
