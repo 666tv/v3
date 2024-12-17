@@ -740,7 +740,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/666tv/66/main/dongman/维奇动漫.json"
+      "ext": "./dongman/维奇动漫.json"
     },
     {
       "key": "lltv_异世界-鸭-饭",
