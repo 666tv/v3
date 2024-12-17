@@ -551,8 +551,8 @@
     },
     {
       "name": "LLTV",
-      "type": "1",
-      "url": "https://jk.123zy.cool/jx/jx.php?url=",
+      "type": 1,
+      "url": "https://jxjson.icu/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -706,6 +706,35 @@
           "User-Agent": "Dart/3.0(dart:io)"
           }
         }
+    },
+    {
+      "name": "LLTV_10",
+      "type": "1",
+      "url": "https://jk.123zy.cool/jx/jx.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     }
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
