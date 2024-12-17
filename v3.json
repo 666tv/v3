@@ -407,36 +407,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_红牛",
-      "name": "66⚡️HN",
-      "type": 1,
-      "api": "https://www.hongniuzy3.com/api.php/provide/vod/from/hnm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "国产剧",
-        "港澳剧",
-        "台湾剧",
-        "日剧",
-        "韩剧",
-        "泰剧",
-        "欧美剧",
-        "动漫",
-        "动漫电影",
-        "综艺",
-        "体育赛事"
-      ]
-    },
-    {
       "key": "lltv_iKun",
       "name": "66⚡️IK",
       "type": 1,
