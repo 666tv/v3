@@ -664,6 +664,102 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "失效动漫",
+      "name": "~~~~~~~~~",
+      "type": 3,
+      "api": "",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": ""
+    },
+    {
+      "key":"py_返老还童",
+      "name":"PY┃动漫",
+      "type":3,
+      "api":"py_kt30",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":"./dongman/py_kt30.json"
+    },
+    {
+      "key": "lltv_漫岛-鸭",
+      "name": "漫岛┃动漫",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./dongman/漫岛动漫.js"
+    },
+    {
+      "key": "lltv_喵次元-摸鱼",
+      "name": "喵喵┃动漫",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./dongman/喵次元.js"
+    },
+    {
+      "key": "lltv_驴番动漫",
+      "name": "驴番┃动漫",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./dongman/驴番动漫.js"
+    },
+    {
+      "key": "lltv_妮可",
+      "name": "妮可┃动漫",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./dongman/妮可动漫.js"
+    },
+    {
+      "key": "lltv_曲奇",
+      "name": "曲奇┃动漫",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./dongman/曲奇动漫.js"
+    },
+    {
+      "key": "lltv_Anime1-鸭-饭",
+      "name": "日本┃动漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_异世界-鸭-饭",
+      "name": "异界┃动漫",
+      "type": 3,
+      "api": "csp_Ysj",
+      "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "lltv_樱花-魔改仓-动漫天地-鸭-饭",
+      "name": "樱花┃动漫",
+      "type": 3,
+      "api": "csp_Ying",
+      "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_路漫漫-鸭",
+      "name": "路漫漫┃动漫",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./dongman/路漫漫.js"
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
       "key": "备用",
       "name": "~~~~~~~~~",
       "type": 3,
