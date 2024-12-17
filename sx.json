@@ -732,6 +732,17 @@
       "filterable": 1
     },
     {
+      "key": "lltv_维奇-饭",
+      "name": "维奇┃动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/lltv;md5;d1115d99527d75948d095085b1407add",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/666tv/66/main/dongman/维奇动漫.json"
+    },
+    {
       "key": "lltv_异世界-鸭-饭",
       "name": "异界┃动漫",
       "type": 3,
