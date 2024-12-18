@@ -64,45 +64,6 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_iKun",
-      "name": "IK┃短剧",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短片",
-	    "爽文短剧"
-      ]
-    },
-    {
-      "key": "lltv_吾爱短剧",
-      "name": "吾爱┃短剧",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./json/%E5%90%BE%E7%88%B1%E7%9F%AD%E5%89%A7.M3U?sign=xHZDL6fFTsTEMjRQoY4LahABR_9uRyVPW3L_6zEcu7g%3D%3A0"
-    },
-    {
-      "key": "lltv_49",
-      "name": "49┃短剧",
-      "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧"
-      ]
-    },
-    {
       "key": "lltv_360采集-夜猫",
       "name": "360┃短剧",
       "type": 1,
@@ -119,6 +80,15 @@
         "成长逆袭"
       ] 
 	},
+    {
+      "key": "lltv_iKun",
+      "name": "爱看┃短剧",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "lltv_Bili短剧",
       "name": "哔哩┃短剧",
@@ -344,20 +314,6 @@
       "filterable": 1,
       "categories": [
         "短剧"
-      ]
-    },
-    {
-      "key": "lltv_业余",
-      "name": "业余┃资源",
-      "type": 1,
-      "api": "https://yyff.540734621.xyz/api.php/provide/vod/",
-      "playUrl": "json:https://uutb.centos.chat/jsonwjm.php/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "热播短剧"
       ]
     },
     {
