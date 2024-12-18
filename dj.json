@@ -64,23 +64,6 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key":"lltv_短剧tv-夜猫",
-      "name":"AI┃短剧",
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar": "./jar/xymz0513.jar",
-      "ext":{
-        "搜索链接":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
-        "线路标题":"<h3*>&&</h3>",
-        "线路数组":"\"more text-muted pull-right\">&&</ul>",
-        "播放数组":"\"more text-muted pull-right\">&&</ul>",
-        "播放链接":"http+://www.duanjutv.cc+href='&&'",
-        "直接播放": "0",
-        "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23",
-        "分类链接":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m"
-      }
-    },
-    {
       "key": "lltv_iKun",
       "name": "IK┃短剧",
       "type": 1,
@@ -89,20 +72,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "爽文短剧",
-	"短片"
+        "短片",
+	    "爽文短剧"
       ]
-    },
-    {
-      "key": "lltv_Bili短剧",
-      "name": "哔哩┃短剧",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "./jar/ttkx240722.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./json/Bili短剧.json"
     },
     {
       "key": "lltv_吾爱短剧",
@@ -122,7 +94,7 @@
       "key": "lltv_49",
       "name": "49┃短剧",
       "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+      "api": "https://49zyw.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -146,12 +118,23 @@
         "女频恋爱",
         "成长逆袭"
       ] 
-	  },
+	},
+    {
+      "key": "lltv_Bili短剧",
+      "name": "哔哩┃短剧",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jar/ttkx240722.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/Bili短剧.json"
+    },
     {
       "key": "lltv_非凡",
       "name": "非凡┃短剧",
       "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -270,7 +253,7 @@
       "key": "lltv_量子",
       "name": "量子┃短剧",
       "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
