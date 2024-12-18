@@ -54,6 +54,13 @@
       "filterable": 0
     },
     {
+      "key": "吉吉短剧",
+      "name": "吉吉┃短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./json/JJDJ.json"
+    },
+    {
       "key": "lltv_天堂短剧",
       "name": "天堂┃短剧",
       "type": 3,
@@ -68,6 +75,16 @@
       "ext": "./js/ANDJ.js"
     },
     {
+      "key": "lltv_爱我短剧",
+      "name": "爱我┃短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/AWDJ.json"
+    },
+    {
       "key": "lltv_短剧屋",
       "name": "短剧屋┃短剧",
       "type": 3,
@@ -77,6 +94,14 @@
       "filterable": 1,
       "ext": "./json/DJW.json"
     },
+    {
+      "key": "lltv_短剧网",
+      "name": "短剧网┃短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./json/DJWang.json"
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key":"lltv_短剧tv-夜猫",
       "name":"AI┃短剧",
