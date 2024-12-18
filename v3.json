@@ -129,12 +129,12 @@
       "name": "66⚡️RB弹幕",
       "type": 3,
       "api": "csp_ReBo",
-      "jar": "./jar/66tv241215.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true
+          "danmu": true,
+          "site": "aHR0cDovL3YucmJvdHYuY24="
       }
     },
     {
@@ -142,12 +142,12 @@
       "name": "66⚡️TT弹幕",
       "type": 3,
       "api": "csp_TianTian",
-      "jar": "./jar/66tv241215.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true
+        "danmu": true,
+        "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
       }
     },
     {
