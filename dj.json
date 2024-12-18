@@ -24,7 +24,7 @@
       "name": "无忧┃短剧",
       "type": 3,
       "api": "csp_Duanj",
-      "jar": "./jar/66tv241215.txt",
+      "jar": "./jar/66tv241126.txt",
       "searchable": 1,
       "changeable": 0
     },
@@ -33,7 +33,7 @@
       "name": "在线┃短剧",
       "type": 3,
       "api": "csp_Duanju",
-      "jar": "./jar/66tv241215.txt",
+      "jar": "./jar/66tv241126.txt",
       "searchable": 1,
       "changeable": 0
     },
@@ -58,7 +58,7 @@
       "name": "河马┃短剧",
       "type": 3,
       "api": "csp_AppHMDJ",
-      "jar": "./jar/66tv241215.txt",
+      "jar": "./jar/66tv241126.txt",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
