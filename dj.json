@@ -81,15 +81,6 @@
       ] 
 	},
     {
-      "key": "lltv_iKun",
-      "name": "爱看┃短剧",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_Bili短剧",
       "name": "哔哩┃短剧",
       "type": 3,
@@ -105,18 +96,6 @@
       "name": "非凡┃短剧",
       "type": 1,
       "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧"
-      ]
-    },
-    {
-      "key": "lltv_飞速",
-      "name":"飞速┃短剧",
-      "type":1,
-      "api":"https://www.feisuzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -188,7 +167,7 @@
       "key": "lltv_金鹰",
       "name":"金鹰┃短剧",
       "type":1,
-      "api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/",
+      "api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -205,20 +184,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "短剧"
+        "爽文短剧"
       ]
     },
-    {
-      "key": "lltv_乐视-夜猫",
-      "name": "乐视┃短剧",
-      "type": 1,
-      "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "短剧"
-      ]
-    }, 
     {
       "key": "lltv_量子",
       "name": "量子┃短剧",
@@ -231,36 +199,11 @@
         "短剧"
       ]
     },
-    {
-      "key": "lltv_奇虎",
-      "name":"奇虎┃短剧",
-      "type":1,
-      "api":"https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/",
-      "playUrl":"",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1,
-      "categories": [
-        "短剧"
-      ]
-    },
     { 
       "key": "lltv_速播",
       "name":"速播┃短剧",
       "type":1,
-      "api":"https://subocaiji.com/api.php/provide/vod/from/subm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧"
-      ]
-    },
-    {
-      "key": "lltv_闪电",
-      "name":"闪电┃短剧",
-      "type":1,
-      "api":"https://sdzyapi.com/api.php/provide/vod/",
+      "api":"https://subocaiji.com/api.php/provide/vod/from/subm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -281,18 +224,6 @@
       ]
     },
     {
-      "key": "lltv_U酷",
-      "name":"U酷┃短剧",
-      "type":1,
-      "api":"https://api.ukuapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧"
-      ]
-    },
-    {
       "key": "lltv_无尽",
       "name":"无尽┃短剧",
       "type":1,
@@ -300,30 +231,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "categories": [
-        "短剧"
-      ]
-    },
-    {
-      "key": "lltv_新浪",
-      "name": "新浪┃短剧",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧"
-      ]
-    },
-    {
-      "key": "lltv_优质",
-      "name": "优质┃短剧",
-      "type": 0,
-      "api": "https://api.1080zyku.com/inc/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
       "categories": [
         "短剧"
       ]
