@@ -118,6 +118,18 @@
       "ext": "./js/MGDM.js"
     },
     {
+      "key": "lltv_糯米弹幕",
+      "name": "66⚡️NM弹幕",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+          "danmu": true
+         }
+    },
+    {
       "key": "lltv_爱奇异弹幕",
       "name": "66⚡️QY弹幕",
       "type": 3,
@@ -133,7 +145,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true
+          "danmu": true,
+          "site": "http://v.rbotv.cn"
       }
     },
     {
@@ -145,7 +158,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true
+        "danmu": true,
+        "site": "http://op.ysdqjs.cn"
       }
     },
     {
@@ -166,13 +180,6 @@
       "ext": {
         "danmu": true
       }
-    },
-    {
-      "key": "lltv_小虎斑弹幕",
-      "name": "66⚡️XH弹幕",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/XHBDM.js"
     },
     {
       "key": "lltv_小熊弹幕",
@@ -305,6 +312,42 @@
       "ext": "./json/电影港.json"
     },
     {
+      "key": "lltv_非凡",
+      "name": "66⚡️FF",
+      "type": 1,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",   
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "香港剧",
+        "台湾剧",
+        "韩国剧",
+        "日本剧",
+        "泰国剧",
+        "欧美剧",
+        "海外剧",
+        "国产动漫",
+        "港台动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+    {
       "key": "lltv_腐剧视频",
       "name": "66⚡️FJ",
       "type": 3,
@@ -327,7 +370,6 @@
       "name": "66⚡️HH",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/",
-      "playurl": "https://hhjiexi.com/play/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -372,50 +414,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_iKun",
-      "name": "66⚡️IK",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
-      "playurl": "json:https://www.ikdmjx.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "爽文短剧",
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "泰国剧",
-        "海外剧",
-        "动作片",
-        "喜剧片",
-        "古装片",
-        "爱情片",
-        "科幻片",
-        "犯罪片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "惊悚片",
-        "家庭片",
-        "历史片",
-        "悬疑片",
-        "灾难片",
-        "纪录片",
-        "动画片",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "国产动漫",
-        "欧美动漫",
-        "日本动漫"
-      ]
-    },
-    {
       "key": "lltv_JP-道长-天天-鸭-巧技",
       "name": "66⚡️JP",
       "type": 3,
@@ -430,7 +428,6 @@
       "name": "66⚡️JS",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
-      "playurl": "json:https://jsjiexi.com/play/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -518,6 +515,95 @@
       "ext": "./js/闪雷影视.js"
     },
     {
+      "key": "lltv_量子",
+      "name": "66⚡️LZ",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "台湾剧",
+        "韩国剧",
+        "日本剧",
+        "马泰剧",
+        "欧美剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "奇幻片",
+        "战争片",
+        "爱情片",
+        "犯罪片",
+        "恐怖片",
+        "悬疑片",
+        "灾难片",
+        "剧情片",
+        "记录片",
+        "动画片",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "lltv_黑木耳-巧技",
+      "name": "66⚡️ME",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "经典片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "犯罪片",
+        "悬疑片",
+        "犯罪片",
+        "奇幻片",
+        "纪录片",
+        "歌舞片",
+        "同性片",
+        "网络电影",
+        "动画电影",
+        "国产剧",
+        "港剧",
+        "台剧",
+        "日剧",
+        "韩剧",
+        "泰剧",
+        "欧美剧",
+        "新马剧",
+        "其他剧",
+        "动画片",
+        "国产动漫",
+        "港台动漫",
+        "韩国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "其他动漫",
+        "国产综艺",
+        "港台综艺",
+        "韩国综艺",
+        "日本综艺",
+        "欧美综艺",
+        "新马泰综艺",
+        "其他综艺"
+      ]
+    },
+    {
       "key": "lltv_美剧天堂",
       "name": "66⚡️MJ",
       "type": 3,
@@ -566,15 +652,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_农民影视",
-      "name": "66⚡️NM",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_洽洽影视",
       "name": "66⚡️QQ",
       "type": 3,
@@ -618,6 +695,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/55.json"
+    },
+    {
+      "key": "lltv_小虎斑弹幕",
+      "name": "66⚡️XH",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/XHBDM.js"
     },
     {
       "key": "lltv_桜之空影视-欧歌",
@@ -1110,7 +1194,7 @@
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/3",
-      "url": "https://d.kstore.dev/download/7910/main/live.txt",
+      "url": "aHR0cHM6Ly9kLmtzdG9yZS5kZXYvZG93bmxvYWQvNzkxMC9tYWluL2xpdmUudHh0",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     }
