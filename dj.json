@@ -10,6 +10,16 @@
 "sites":[ 
 //短剧~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_夜猫短剧-夜猫子",
+      "name": "夜猫┃短剧",
+      "type": 3,
+      "api": "csp_YMduanju",
+      "jar": "./jar/ymdj.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_黑木耳-巧技",
       "name": "黑木耳┃短剧",
       "type": 1,
@@ -29,18 +39,9 @@
         "强者短剧",
         "萌宝短剧",
         "合集短剧",
+        "古装短剧",
         "其它短剧"
       ]
-    },
-    {
-      "key": "lltv_夜猫短剧-夜猫子",
-      "name": "夜猫┃短剧",
-      "type": 3,
-      "api": "csp_YMduanju",
-      "jar": "./jar/ymdj.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "lltv_星芽短剧",
