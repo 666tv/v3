@@ -652,15 +652,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_农民影视",
-      "name": "66⚡️NM",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_洽洽影视",
       "name": "66⚡️QQ",
       "type": 3,
