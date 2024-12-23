@@ -690,33 +690,6 @@
       "ext": "./json/黑狐.json"
     },
     {
-      "key": "lltv_索尼",
-      "name": "66⚡️SN",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "剧情片",
-        "恐怖片",
-        "纪录片",
-        "动漫电影",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "泰剧"
-      ]
-    },
-    {
       "key": "lltv_大师兄影视-天天-道长-运输车",
       "name": "66⚡️SX",
       "type": 3,
