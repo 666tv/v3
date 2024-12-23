@@ -652,6 +652,16 @@
       "filterable": 1
     },
     {
+      "key": "lltv_皮皮虾",
+      "name": "66⚡️PP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://38.55.250.149:1314/api.php/app/"
+    },
+    {
       "key": "lltv_洽洽影视",
       "name": "66⚡️QQ",
       "type": 3,
@@ -678,6 +688,33 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/黑狐.json"
+    },
+    {
+      "key": "lltv_索尼",
+      "name": "66⚡️SN",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "剧情片",
+        "恐怖片",
+        "纪录片",
+        "动漫电影",
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "泰剧"
+      ]
     },
     {
       "key": "lltv_大师兄影视-天天-道长-运输车",
@@ -948,6 +985,17 @@
         "header": {
           "User-Agent": "okhttp/4.9.1"
         }
+      }
+    },
+    {
+      "name": "LLTV_PPX",
+      "type": "1",
+      "url": "http://45.207.215.101:5423/index.php?url=",
+      "ext": {
+        "flag": [
+          "PPXLG",
+          "皮皮虾4K"
+        ]
       }
     }
 ],
