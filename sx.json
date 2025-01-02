@@ -23,14 +23,14 @@
       "key": "lltv_人人-心动-以一敌十-道长-潇洒",
       "name": "66⚡️RR",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/人人影视.js"
     },
     {
       "key": "lltv_拳王争霸-鸭",
       "name": "66❤️拳王争霸",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -50,7 +50,7 @@
       "key": "lltv_4KAV-道长-天天",
       "name": "66⚡️4K",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -62,7 +62,7 @@
       "name": "66⚡️DD",
       "type": 3,
       "playerType": 2,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/低端影视.js"
     },
     {
@@ -199,7 +199,7 @@
       "key": "lltv_欧帝影院",
       "name": "66⚡️OD",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/欧帝影院.js"
     },
     {
@@ -356,7 +356,7 @@
       "key": "lltv_NY影院-道长",
       "name": "NY┃资源",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/NY影院.js"
     },
     {
@@ -375,7 +375,7 @@
       "key": "lltv_Voflix-道长-鸭",
       "name": "Voflix┃资源",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/voflix.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -444,7 +444,7 @@
       "key": "lltv_大米星球-道长-鸭",
       "name": "大米┃资源",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/大米星球.js"
     },
     {
@@ -452,14 +452,14 @@
       "name": "多瑙┃资源",
       "type": 3,
       "playerType": "2",
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/多瑙影视.js"
     },
     {
       "key": "lltv_乐鱼-道长",
       "name": "乐鱼┃资源",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
       "ext": "./js/乐鱼影视.js"
@@ -468,14 +468,14 @@
       "key": "lltv_胖虎-道长-鸭",
       "name": "胖虎┃资源",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/胖虎.js"
     },
     {
       "key": "lltv_QX-道长-鸭",
       "name": "秋霞┃资源",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/秋霞.js"
     },
     {
@@ -510,7 +510,7 @@
       "key": "lltv_柒之社",
       "name": "07┃资源",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/柒之社.js"
     },
     {
@@ -561,7 +561,7 @@
       "key": "lltv_69美剧-道长-鸭",
       "name": "69┃资源",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
       "ext": "./js/69美剧.js"
@@ -570,7 +570,7 @@
       "key": "lltv_555",
       "name": "555┃资源",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -591,7 +591,7 @@
       "key": "lltv_9U-鸭",
       "name": "9U┃资源",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -611,7 +611,7 @@
       "key": "lltv_KOK-道长",
       "name": "KOK┃资源",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/KOK影院.js"
     },
     {
@@ -630,7 +630,7 @@
       "key": "lltv_dyxs-鸭",
       "name": "SIR┃资源",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -649,14 +649,14 @@
       "key": "lltv_Cokemv-潇洒",
       "name": "Cokemv┃资源",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/cokemv.js"
     },
     {
       "key": "lltv_短视频-鸭",
       "name": "吾爱┃短视频",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -687,7 +687,7 @@
       "key": "lltv_漫岛-鸭",
       "name": "漫岛┃动漫",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -697,28 +697,28 @@
       "key": "lltv_喵次元-摸鱼",
       "name": "喵喵┃动漫",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./dongman/喵次元.js"
     },
     {
       "key": "lltv_驴番动漫",
       "name": "驴番┃动漫",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./dongman/驴番动漫.js"
     },
     {
       "key": "lltv_妮可",
       "name": "妮可┃动漫",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./dongman/妮可动漫.js"
     },
     {
       "key": "lltv_曲奇",
       "name": "曲奇┃动漫",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./dongman/曲奇动漫.js"
     },
     {
@@ -766,7 +766,7 @@
       "key": "lltv_路漫漫-鸭",
       "name": "路漫漫┃动漫",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./dongman/路漫漫.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -785,7 +785,7 @@
       "name": "66⚡️JP",
       "type": 3,
       "playerType": 1,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/JP.js"
     },
     {
@@ -1051,7 +1051,7 @@
       "key": "厂长-道长",
       "name": "厂长┃资源",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/厂长.js"
     },
     {
