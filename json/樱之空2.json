@@ -1,8 +1,0 @@
-    {
-      "线路标题": "<*>LLTV</*>",
-      "线路数组": ">&&<",
-      "播放标题": "+>&&</a>",
-    //"搜索url": "https://www.eien.cc/vodsearch/-------------/?wd={wd}",
-      "分类url": "https://www.eien.cc/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-      "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-    }
