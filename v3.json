@@ -654,22 +654,15 @@
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
     {
-      "key": "lltv_木叶-巧技",
-      "name": "66⚡️MY",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "saHR0cHM6Ly94Y2Jhb3RhLm9zcy1jbi1xaW5nZGFvLmFsaXl1bmNzLmNvbS9nZXRhcHBfdjQudHh0fDZ2YXhqbjR2YmtyaHN6cDh8NnZheGpuNHZia3Joc3pwOHwxMDA="
-    },
-    {
       "key": "lltv_南瓜-巧技",
       "name": "66⚡️NG",
       "type": 3,
-      "api": "csp_Nangua",
-      "jar": "./jar/qiaoji241213.jar",
+      "api": "csp_NanGua",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "playerType": 2,
+      "filterable": 1,
+      "ext": ""
     },
     {
       "key": "lltv_皮皮虾",
