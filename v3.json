@@ -13,7 +13,7 @@
       "key": "lltv_豆瓣推荐",
       "name": "👇点主页切换资源•推荐电信网络",
       "type": 3,
-      "api": "./js/drpy/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -94,7 +94,7 @@
       "name": "66💙斗鱼直播",
       "type": 3,
       "playerType": 1,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "ext": "https://d.kstore.dev/download/7910/js/斗鱼直播.js"
@@ -103,7 +103,7 @@
       "key": "lltv_虎牙-道长-ok-鸭",
       "name": "66💙虎牙直播",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -114,7 +114,7 @@
       "key": "lltv_芒果弹幕",
       "name": "66⚡️MG弹幕",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/MGDM.js"
     },
     {
@@ -133,7 +133,7 @@
       "key": "lltv_爱奇异弹幕",
       "name": "66⚡️QY弹幕",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/AQYDM.js"
     },
     {
@@ -166,7 +166,7 @@
       "key": "lltv_腾讯弹幕",
       "name": "66⚡️TX弹幕",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/TXDM.js"
     },
     {
@@ -185,14 +185,14 @@
       "key": "lltv_小熊弹幕",
       "name": "66⚡️XX弹幕",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/XXDM.js"
     },
     {
       "key": "lltv_优酷弹幕",
       "name": "66⚡️YK弹幕",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/YKDM.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -210,7 +210,7 @@
       "key": "lltv_哔哩影视[官]-道长",
       "name": "66⚡️BI",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -248,7 +248,7 @@
       "key": "lltv_采集之王-天天",
       "name": "66⚡️CJ",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -260,7 +260,7 @@
       "key": "lltv_采集之王-PizazzGY-天天",
       "name": "66⚡️CJ2",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "./js/采集之王.js?type=url&params=./json/采集静态2.json$1$1"
@@ -270,7 +270,7 @@
       "key": "lltv_CM",
       "name": "66⚡️CM",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -298,7 +298,7 @@
       "key": "lltv_大米星球",
       "name": "66⚡️DM",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/APPV2.js?type=url&params=https://damifan.wiki"
     },
     {
@@ -472,7 +472,7 @@
       "key": "lltv_金牌影视",
       "name": "66⚡️JY",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/金牌影视.js"
     },
     {
@@ -527,7 +527,7 @@
       "key": "lltv_闪雷影视-天天",
       "name": "66⚡️LY",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/闪雷影视.js"
     },
     {
@@ -632,7 +632,7 @@
       "key": "lltv_魔力高清",
       "name": "66⚡️ML",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/魔力高清.js"
     },
     {
@@ -738,7 +738,7 @@
       "key": "lltv_小虎斑弹幕",
       "name": "66⚡️XH",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/XHBDM.js"
     },
      {
@@ -768,7 +768,7 @@
       "key": "lltv_追剧迷",
       "name": "66⚡️ZJ",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/追剧迷.js"
     },
     {
