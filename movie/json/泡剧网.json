@@ -1,0 +1,5 @@
+{
+    "分类":"大陆剧&香港剧&台湾剧&韩国剧&欧美剧&日本剧&泰国剧",
+    "分类值":"1&2&5&6&7&8&9",
+    "分类url":"https://www.paojuw.com/search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}[https://www.paojuw.com/lid/{cateId}.html]"
+}
