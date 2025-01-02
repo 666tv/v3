@@ -764,18 +764,6 @@
       "api": "./js/drpy_xs/drpy2.min.js",
       "ext": "./js/追剧迷.js"
     },
-    {
-      "key": "lltv_在线之家-巧技-鸭-道长",
-      "name": "66⚡️ZX",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_Zxzj",
-      "jar": "./jar/qiaoji241229.jar",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_本地-PG-鸭",
