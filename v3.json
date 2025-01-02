@@ -83,7 +83,7 @@
       "key": "lltv_Bili-道长-鸭",
       "name": "66💙哔哩直播",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy_xs/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
