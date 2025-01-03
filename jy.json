@@ -16,7 +16,8 @@
       "name": "👇点主页切换资源•推荐电信网络",
       "type": 3,
       "api": "csp_Bili2",
-      "jar": "./jiaoyu/qx.jar",
+      "jar": "./jiaoyu/jy.jar",
+      //"jar": "./jiaoyu/qx.jar",
       "searchable": 0,
       "ext": "https://d.kstore.dev/download/7910/mov/json/宝宝趣学.json"
     },
@@ -25,7 +26,8 @@
       "name": "哔哩┃学堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/qiaoji240620.jar",
+      "jar": "./jiaoyu/jy.jar",
+      //"jar": "./jar/qiaoji240620.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
@@ -36,7 +38,8 @@
       "name": "兴趣┃培养",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/PizazzGY.jar",
+      "jar": "./jiaoyu/jy.jar",
+      //"jar": "./jar/PizazzGY.jar",
       "style": {
       "type": "rect",
       "ratio": 1.597
