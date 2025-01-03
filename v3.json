@@ -200,7 +200,7 @@
       "key": "lltv_热播弹幕",
       "name": "66⚡️RB弹幕",
       "type": 3,
-      "api": "csp_ReBo",
+      "api": "csp_TianTian",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
