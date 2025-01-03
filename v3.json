@@ -862,39 +862,29 @@
       "url": "Sequence"
     },
     {
-      "name": "LLTV_1",
-      "type": 1,
+      "name": "LLTV",
+      "type": 0,
       "url": "https://bd.jx.cn/?url=",
       "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905",
-          "NetFilx"
-        ],
         "header": {
-          "User-Agent": "okhttp/4.9.1"
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "LLTV_1",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
         }
       }
     },
     {
       "name": "LLTV_2",
       "type": 1,
-      "url": "https://jx.playerjy.com/?url=",
+      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -922,33 +912,14 @@
       }
     },
     {
-      "name": "LLTV_3",
-      "type": 1,
-      "url": "https://yparse.ik9.cc/index.php?url=",
+      "name": "LLTV_PPX",
+      "type": "1",
+      "url": "http://45.207.215.101:5423/index.php?url=",
       "ext": {
         "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905",
-          "NetFilx"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
+          "PPXLG",
+          "皮皮虾4K"
+        ]
       }
     }
 ],
