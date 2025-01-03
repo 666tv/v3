@@ -68,21 +68,15 @@
       "ext": "./mov/json/哔哩音乐.json"
     },
     {
-      "key": "lltv_哔哩哔哩小品",
-      "name": "66❤️小品",
+      "key": "lltv_企鹅-荷城-鸭-饭",
+      "name": "66❤️体育",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_XPath",
+      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-        "json": "./mov/json/BLXP.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
+      "filterable": 1,
+      "ext": "https://d.kstore.dev/download/7910/json/企鹅体育.json"
     },
     {
       "key": "lltv_哔哩哔哩相声",
@@ -102,15 +96,21 @@
       }
     },
     {
-      "key": "lltv_企鹅-荷城-鸭-饭",
-      "name": "66❤️体育",
+      "key": "lltv_哔哩哔哩小品",
+      "name": "66❤️小品",
       "type": 3,
-      "api": "csp_XPath",
-      "jar": "./jar/66tv240812.jar",
+      "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://d.kstore.dev/download/7910/json/企鹅体育.json"
+      "filterable": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+        "json": "./mov/json/BLXP.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
     {
       "key": "lltv_武享吧",
