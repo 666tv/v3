@@ -873,6 +873,16 @@
     },
     {
       "name": "LLTV_2",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "LLTV_3",
       "type": 1,
       "url": "https://zy.qiaoji8.com/gouzi.php?url=",
       "ext": {
@@ -902,7 +912,7 @@
       }
     },
     {
-      "name": "LLTV_PP",
+      "name": "LLTV_PPX",
       "type": "1",
       "url": "http://45.207.215.101:5423/index.php?url=",
       "ext": {
@@ -910,36 +920,6 @@
           "PPXLG",
           "皮皮虾4K"
         ]
-      }
-    },
-        {
-      "name": "LLTV_BD",
-      "type": 0,
-      "url": "https://bd.jx.cn/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "LLTV_Cloud",
-      "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "LLTV_PlayerJY",
-      "type": 0,
-      "url": "https://jx.playerjy.com/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
       }
     }
 ],
