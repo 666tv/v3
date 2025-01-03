@@ -117,10 +117,13 @@
       "name": "66❤️格斗",
       "type": 3,
       "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./mov/js/WXB.js",
       "style": {
         "type": "list"
-      },
-      "ext": "./mov/js/WXB.js"
+      }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -138,7 +141,7 @@
       "name": "66💙抖音直播",
       "type": 3,
       "api": "csp_AmuDouYin",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
