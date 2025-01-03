@@ -18,7 +18,7 @@
       "api": "csp_Bili2",
       "jar": "./jiaoyu/qx.jar",
       "searchable": 0,
-      "ext": "./jiaoyu/宝宝趣学.json"
+      "ext": "https://d.kstore.dev/download/7910/mov/json/宝宝趣学.json"
     },
     {
       "key": "lltv_哔哩学堂",
