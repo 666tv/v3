@@ -148,6 +148,20 @@
       "ext": "./dongman/奇米动漫.js"
     },
     {
+      "key": "lltv_怡萱动漫",
+      "name": "怡萱┃动漫",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./dongman/YXDM.js"
+    },
+    {
+      "key": "lltv_樱花动漫",
+      "name": "樱花┃动漫",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./dongman/YHDM.js"
+    },
+    {
        "key": "lltv_桜空-欧歌",
        "name": "桜空┃资源",
        "type": 3,
@@ -177,6 +191,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./dongman/看吧动漫.js"
+    },
+    {
+      "key": "lltv_异世界",
+      "name": "异世界┃动漫",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./dongman/YSJ.js"
     }
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ],
