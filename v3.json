@@ -62,8 +62,8 @@
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/66tv240812.jar",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/哔哩音乐.json"
     },
@@ -83,9 +83,9 @@
       "name": "66❤️相声",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
         "json": "./mov/json/BLXS.json"
@@ -100,9 +100,9 @@
       "name": "66❤️小品",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
         "json": "./mov/json/BLXP.json"
