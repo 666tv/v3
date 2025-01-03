@@ -10,10 +10,19 @@
 
 "sites":[ 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  qiaoji.jar
+//以下需适配  qx.jar/qiaoji.jar
+    {
+      "key": "lltv_Bili21",
+      "name": "👇点主页切换资源•推荐电信网络",
+      "type": 3,
+      "api": "csp_Bili2",
+      "jar": "./jar/qx.jar",
+      "searchable": 0,
+      "ext": "./jiaoyu/宝宝趣学.json"
+    },
     {
       "key": "lltv_哔哩学堂",
-      "name": "👇点主页切换资源•推荐电信网络",
+      "name": "哔哩┃学堂",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/qiaoji240620.jar",
@@ -27,17 +36,9 @@
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  HeChengChaXiu.jar/jy.jar
-   {
-      "key": "lltv_Bili21",
-      "name": "宝宝┃趣学",
-      "type": 3,
-      "api": "csp_Bili2",
-      "jar": "./jar/qx.jar",
-      "searchable": 0,
-      "ext": "./jiaoyu/宝宝趣学.json"
-    },
-   {
+//以下需适配  jy.jar
+    
+    {
       "key": "lltv_知识",
       "name": "知识┃学堂",
       "type": 3,
@@ -47,6 +48,28 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "./jiaoyu/知识.json"
+    },
+    {
+      "key": "lltv_益智",
+      "name": "益智┃动画",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jiaoyu/jy.jar",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./jiaoyu/益智动画.json"
+    },
+    {
+      "key": "lltv_央视经典-荷城",
+      "name": "央视┃经典",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jiaoyu/jy.jar",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./jiaoyu/央视经典.json"
     },
     {
       "key": "lltv_幼小衔接",
@@ -159,38 +182,6 @@
       "ext": "./jiaoyu/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%AB%98%E8%80%83.json?sign=lD2DA8pGV9tw7DKYRqaQh9sy6aQnDcsR69ooAeCfpHc%3D%3A0",
       "spider": "./jar/wuai0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  pg.jar/PizazzGY.jar
-    {
-      "key": "lltv_FirstAid",
-      "name": "急救┃知识 ",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "jar": "./jar/pg240722.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
-    },
-    {
-      "key": "lltv_兴趣",
-      "name": "兴趣┃培养",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "./jar/PizazzGY.jar",
-      "style": {
-      "type": "rect",
-      "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./jiaoyu/兴趣课堂.json"
-    },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_编程",
       "name": "儿童┃编程",
@@ -279,27 +270,36 @@
       "filterable": 1,
       "ext": "./jiaoyu/儿童英语.json"
     },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//以下需适配  pg.jar/PizazzGY.jar
     {
-      "key": "lltv_益智",
-      "name": "益智┃动画",
+      "key": "lltv_FirstAid",
+      "name": "急救┃知识 ",
       "type": 3,
-      "api": "csp_Bili",
-      "jar": "./jiaoyu/jy.jar",
+      "api": "csp_FirstAid",
+      "jar": "./jar/pg240722.jar",
       "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./jiaoyu/益智动画.json"
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
     },
     {
-      "key": "lltv_央视经典-荷城",
-      "name": "央视┃经典",
+      "key": "lltv_兴趣",
+      "name": "兴趣┃培养",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jiaoyu/jy.jar",
+      "jar": "./jar/PizazzGY.jar",
+      "style": {
+      "type": "rect",
+      "ratio": 1.597
+      },
       "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./jiaoyu/央视经典.json"
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./jiaoyu/兴趣课堂.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
