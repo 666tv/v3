@@ -76,7 +76,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://d.kstore.dev/download/7910/json/企鹅体育.json"
+      "ext": "https://d.kstore.dev/download/7910/mov/json/企鹅体育.json"
     },
     {
       "key": "lltv_哔哩哔哩相声",
@@ -131,8 +131,23 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://d.kstore.dev/download/7910/js/哔哩直播.js"
+      "ext": "https://d.kstore.dev/download/7910/mov/js/哔哩直播.js"
     },
+    {
+      "key": "lltv_抖音",
+      "name": "66💙抖音直播",
+      "type": 3,
+      "api": "csp_AmuDouYin",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    /*
     {
       "key": "lltv_斗鱼-菜妮丝-FM-运输车-鸭",
       "name": "66💙斗鱼直播",
@@ -141,8 +156,9 @@
       "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://d.kstore.dev/download/7910/js/斗鱼直播.js"
+      "ext": "https://d.kstore.dev/download/7910/mov/js/斗鱼直播.js"
     },
+    */
     {
       "key": "lltv_虎牙-道长-ok-鸭",
       "name": "66💙虎牙直播",
@@ -151,7 +167,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://d.kstore.dev/download/7910/js/虎牙直播.js"
+      "ext": "https://d.kstore.dev/download/7910/mov/js/虎牙直播.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
