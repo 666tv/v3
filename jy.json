@@ -10,7 +10,7 @@
 
 "sites":[ 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  qx.jar/qiaoji.jar
+//以下需适配  qx.jar/qiaoji.jar/pg.jar/PizazzGY.jar
     {
       "key": "lltv_Bili21",
       "name": "👇点主页切换资源•推荐电信网络",
@@ -30,6 +30,35 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./jiaoyu/哔哩学堂.json"
+    },
+    {
+      "key": "lltv_FirstAid",
+      "name": "急救┃知识 ",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "jar": "./jar/pg240722.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+    {
+      "key": "lltv_兴趣",
+      "name": "兴趣┃培养",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jar/PizazzGY.jar",
+      "style": {
+      "type": "rect",
+      "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./jiaoyu/兴趣课堂.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -269,37 +298,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/儿童英语.json"
-    },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  pg.jar/PizazzGY.jar
-    {
-      "key": "lltv_FirstAid",
-      "name": "急救┃知识 ",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "jar": "./jar/pg240722.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
-    },
-    {
-      "key": "lltv_兴趣",
-      "name": "兴趣┃培养",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "./jar/PizazzGY.jar",
-      "style": {
-      "type": "rect",
-      "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./jiaoyu/兴趣课堂.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
