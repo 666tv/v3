@@ -206,8 +206,8 @@
       "filterable": 1,
       "ext": {
           "danmu": true,
-          "site": "http://v.rbotv.cn"
-      }
+          "site": "aHR0cDovL3YucmJvdHYuY24="
+        }
     },
     {
       "key": "lltv_天天弹幕",
@@ -218,9 +218,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true,
-        "site": "http://op.ysdqjs.cn"
-      }
+          "danmu": true,
+          "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
+        }
     },
     {
       "key": "lltv_腾讯弹幕",
