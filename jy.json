@@ -10,28 +10,43 @@
 
 "sites":[ 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  qx.jar/qiaoji.jar/PizazzGY.jar/pg.jar
+//以下需适配  qx.jar
     {
       "key": "lltv_Bili21",
       "name": "👇点主页切换资源•推荐电信网络",
       "type": 3,
       "api": "csp_Bili2",
-      "jar": "./jiaoyu/jy.jar",
-      //"jar": "./jiaoyu/qx.jar",
+      "jar": "./jiaoyu/qx.jar",
       "searchable": 0,
       "ext": "https://d.kstore.dev/download/7910/mov/json/宝宝趣学.json"
     },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//以下需适配  jy.jar/pg.jar
     {
       "key": "lltv_哔哩学堂",
       "name": "哔哩┃学堂",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jiaoyu/jy.jar",
-      //"jar": "./jar/qiaoji240620.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./jiaoyu/哔哩学堂.json"
+    },
+    {
+      "key": "lltv_知识",
+      "name": "知识┃学堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jiaoyu/jy.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./jiaoyu/知识.json"
     },
     {
       "key": "lltv_兴趣",
@@ -39,7 +54,6 @@
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jiaoyu/jy.jar",
-      //"jar": "./jar/PizazzGY.jar",
       "style": {
       "type": "rect",
       "ratio": 1.597
@@ -48,6 +62,17 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./jiaoyu/兴趣课堂.json"
+    },
+    {
+      "key": "lltv_益智",
+      "name": "益智┃动画",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jiaoyu/jy.jar",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./jiaoyu/益智动画.json"
     },
     {
       "key": "lltv_FirstAid",
@@ -62,35 +87,6 @@
         "type": "rect",
         "ratio": 3.8
       }
-    },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  jy.jar
-    
-    {
-      "key": "lltv_知识",
-      "name": "知识┃学堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "./jiaoyu/jy.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./jiaoyu/知识.json"
-    },
-    {
-      "key": "lltv_益智",
-      "name": "益智┃动画",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "./jiaoyu/jy.jar",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./jiaoyu/益智动画.json"
     },
     {
       "key": "lltv_央视经典-荷城",
