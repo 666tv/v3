@@ -2,7 +2,8 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
-//"spider": "./jar/66tv.jar",
+"spider": "./jar/66tv.jar",
+//"spider": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt",
 //"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/lltv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
@@ -340,7 +341,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 210,
-      "ext": "./mov/json/采集之王.js?type=url&params=./json/采集静态.json"
+      "ext": "./mov/js/采集之王.js?type=url&params=./json/采集静态.json"
     },
     /*
     {
@@ -353,16 +354,6 @@
       "ext": "./mov/js/采集之王.js?type=url&params=./json/采集静态2.json$1$1"
     },
     */
-    {
-      "key": "lltv_CM",
-      "name": "66⚡️CM",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/js/畅梦.js"
-    },
     {
       "key": "lltv_厂长弹幕",
       "name": "66⚡️CZ",
@@ -384,13 +375,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "lltv_大米星球",
-      "name": "66⚡️DM",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/APPV2.js?type=url&params=https://damifan.wiki"
-    },
+    
     {
       "key": "lltv_电影港-夜猫-巧技-不良",
       "name": "66⚡️DY",
@@ -405,7 +390,7 @@
       "key": "lltv_非凡",
       "name": "66⚡️FF",
       "type": 1,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",   
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -594,8 +579,8 @@
       "key": "lltv_客星-巧技",
       "name": "66⚡️KX",
       "type": 3,
-      "api": "csp_Xdai",
       "playerType": 1,
+      "api": "csp_Xdai",
       "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWN8MTAw"
     },
     {
@@ -619,13 +604,6 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": ""
-    },
-    {
-      "key": "lltv_闪雷影视-天天",
-      "name": "66⚡️LY",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/闪雷影视.js"
     },
     {
       "key": "lltv_量子",
@@ -664,13 +642,6 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
-    {
-      "key": "lltv_梦米弹幕",
-      "name": "66⚡️MD",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/梦米弹幕.js"
     },
     {
       "key": "lltv_黑木耳-巧技",
@@ -740,14 +711,11 @@
       "ext": "./mov/js/魔力高清.js"
     },
     {
-      "key": "lltv_米米影视",
+      "key": "lltv_梦米弹幕",
       "name": "66⚡️MM",
       "type": 3,
-      "api": "csp_AppZX",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "KhY021WelCEl+6MsvwnzaLK5sg6yEQRc8CLY+R2wReBS99eCRx9APeYSJ5VWzBI5XnVfjFiTSsduqSYOWQC3AqI3+tLwmZ/aT2z/PZuRbHjEUNX8RMiGfg8bkgTbOVjmN6hVB1V3ZE4DTbUbATLmIUci/wOblS2T54u1dxfP2owIfTg1nKSiYD1ndF3VotBmw5u8hM7jpJZ3Ugcaqy/mTj7oMr8="
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/梦米弹幕.js"
     },
     {
       "key": "lltv_木头-巧技",
@@ -806,17 +774,8 @@
       "api": "csp_Qiyou",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_黑狐_神马-天天-肥猫-鸭",
-      "name": "66⚡️SM",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1,
-      "ext": "./mov/json/黑狐.json"
+      "ext": "http://www.dyxz2.com/"
     },
     {
       "key": "lltv_大师兄影视-天天-道长-运输车",
@@ -839,8 +798,8 @@
       "key": "lltv_现代-巧技",
       "name": "66⚡️XD",
       "type": 3,
-      "api": "csp_Xdai",
       "playerType": 1,
+      "api": "csp_Xdai",
       "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
     },
     {
@@ -861,8 +820,8 @@
       "key": "lltv_雨滴-巧技",
       "name": "66⚡️YD",
       "type": 3,
-      "api": "csp_Xdai",
       "playerType": 1,
+      "api": "csp_Xdai",
       "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
     },
     {
@@ -1233,7 +1192,7 @@
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-"spider": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt",
+
 
 //广告~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "ads": [
