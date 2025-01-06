@@ -576,24 +576,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_客星-巧技",
-      "name": "66⚡️KX",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Xdai",
-      "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWN8MTAw"
-    },
-    {
-      "key": "lltv_酷影视",
-      "name": "66⚡️KY",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.tvkuys.xyz/api.php/app/"
-    },
-    {
       "key": "lltv_360-巧技-yytt",
       "name": "66⚡️LL",
       "type": 3,
@@ -768,16 +750,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_奇优影视",
-      "name": "66⚡️QY",
-      "type": 3,
-      "api": "csp_Qiyou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.dyxz2.com/"
-    },
-    {
       "key": "lltv_大师兄影视-天天-道长-运输车",
       "name": "66⚡️SX",
       "type": 3,
@@ -795,34 +767,11 @@
       "ext": "./mov/json/55.json"
     },
     {
-      "key": "lltv_现代-巧技",
-      "name": "66⚡️XD",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Xdai",
-      "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
-    },
-    {
       "key": "lltv_小虎斑弹幕",
       "name": "66⚡️XH",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/XHBDM.js"
-    },
-    {
-      "key": "lltv_小熊弹幕",
-      "name": "66⚡️XX",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/XXDM.js"
-    },
-    {
-      "key": "lltv_雨滴-巧技",
-      "name": "66⚡️YD",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Xdai",
-      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
     },
     {
       "key": "lltv_桜之空影视-欧歌",
