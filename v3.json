@@ -2,7 +2,7 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
-//"spider": "./jar/66tv.txt",
+//"spider": "./jar/66tv.jar",
 //"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/lltv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
@@ -175,6 +175,19 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_浪酷弹幕",
+      "name": "66⚡️LK弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+          "danmu": true,
+          "site": "aHR0cDovL3YubGt1eXMuY24="
+        }
+    },
+    {
       "key": "lltv_芒果弹幕",
       "name": "66⚡️MG弹幕",
       "type": 3,
@@ -246,13 +259,6 @@
       }
     },
     {
-      "key": "lltv_小熊弹幕",
-      "name": "66⚡️XX弹幕",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/XXDM.js"
-    },
-    {
       "key": "lltv_优酷弹幕",
       "name": "66⚡️YK弹幕",
       "type": 3,
@@ -280,6 +286,23 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./mov/js/哔哩影视[官].js"
+    },
+    {
+      "key": "lltv_哔哩弹幕",
+      "name": "66⚡️BL",
+      "type": 3,
+      "api": "csp_Bilimd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+            "type": "rect",
+            "ratio": 1.597
+        },
+      "ext": {
+          "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
+        },
+      "timeout": 10
     },
     {
       "key": "lltv_农民影视2-天天",
@@ -347,7 +370,10 @@
       "api": "csp_Czzy",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": {
+          "danmu": true
+        }
     },
     {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
@@ -484,6 +510,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_追剧迷",
+      "name": "66⚡️JM",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/追剧迷.js"
     },
     {
       "key": "lltv_JP-道长-天天-鸭-巧技",
@@ -633,6 +666,13 @@
       ]
     },
     {
+      "key": "lltv_梦米弹幕",
+      "name": "66⚡️MD",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/梦米弹幕.js"
+    },
+    {
       "key": "lltv_黑木耳-巧技",
       "name": "66⚡️ME",
       "type": 1,
@@ -729,6 +769,18 @@
       "ext": ""
     },
     {
+      "key": "lltv_小苹果弹幕",
+      "name": "66⚡️PG",
+      "type": 3,
+      "api": "csp_Xpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+          "danmu": true
+        }
+    },
+    {
       "key": "lltv_皮皮虾",
       "name": "66⚡️PP",
       "type": 3,
@@ -798,7 +850,14 @@
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/XHBDM.js"
     },
-     {
+    {
+      "key": "lltv_小熊弹幕",
+      "name": "66⚡️XX",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/XXDM.js"
+    },
+    {
       "key": "lltv_雨滴-巧技",
       "name": "66⚡️YD",
       "type": 3,
@@ -822,11 +881,11 @@
       "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
     },
     {
-      "key": "lltv_追剧迷",
+      "key": "lltv_追剧弹幕",
       "name": "66⚡️ZJ",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/追剧迷.js"
+      "ext": "./mov/js/追剧弹幕.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -874,16 +933,6 @@
     },
     {
       "name": "LLTV_2",
-      "type": 0,
-      "url": "https://bd.jx.cn/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "LLTV_3",
       "type": 1,
       "url": "https://zy.qiaoji8.com/gouzi.php?url=",
       "ext": {
@@ -909,6 +958,16 @@
         ],
         "header": {
           "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "LLTV_3",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
         }
       }
     },
