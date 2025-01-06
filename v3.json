@@ -333,28 +333,6 @@
       "ext": "./mov/json/茶狐杯.json"
     },
     {
-      "key": "lltv_采集之王-天天",
-      "name": "66⚡️CJ",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 210,
-      "ext": "./mov/js/采集之王.js?type=url&params=./json/采集静态.json"
-    },
-    /*
-    {
-      "key": "lltv_采集之王-PizazzGY-天天",
-      "name": "66⚡️CJ2",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "./mov/js/采集之王.js?type=url&params=./json/采集静态2.json$1$1"
-    },
-    */
-    {
       "key": "lltv_厂长弹幕",
       "name": "66⚡️CZ",
       "type": 3,
@@ -745,6 +723,7 @@
       "name": "66⚡️PP",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playurl": "json:http://45.207.215.101:5423/index.php?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
