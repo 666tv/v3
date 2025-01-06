@@ -449,6 +449,16 @@
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
     {
+      "key": "lltv_HG影视",
+      "name": "66⚡️HG",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+    },
+    {
       "key": "lltv_HH",
       "name": "66⚡️HH",
       "type": 1,
@@ -745,6 +755,15 @@
       "name": "66⚡️QQ",
       "type": 3,
       "api": "csp_AppGZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_骚火影视",
+      "name": "66⚡️SH",
+      "type": 3,
+      "api": "csp_SaoHuo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
