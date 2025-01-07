@@ -1123,7 +1123,8 @@
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/3",
-      "url": "aHR0cHM6Ly9kLmtzdG9yZS5kZXYvZG93bmxvYWQvNzkxMC9tYWluL2xpdmUudHh0",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/666tv/iptv/refs/heads/master/output/user_result.txt",
+      //"url": "aHR0cHM6Ly9kLmtzdG9yZS5kZXYvZG93bmxvYWQvNzkxMC9tYWluL2xpdmUudHh0",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     }
