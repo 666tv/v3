@@ -1119,7 +1119,7 @@
 //直播~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "lives": [
     {
-      "name": "TV",
+      "name": "IPTV",
       "type": 0,
       "playerType": 1,
       "url": "aHR0cHM6Ly9naC54eG9vby5jZi9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vNjY2dHYvaXB0di9tYXN0ZXIvb3V0cHV0L3VzZXJfcmVzdWx0LnR4dA==",
