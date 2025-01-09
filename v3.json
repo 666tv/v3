@@ -193,7 +193,7 @@
       "name": "66⚡️MG弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/MGDM.js"
+      "ext": "./mov/js/芒果弹幕.js"
     },
     {
       "key": "lltv_糯米弹幕",
@@ -212,7 +212,7 @@
       "name": "66⚡️QY弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/AQYDM.js"
+      "ext": "./mov/js/爱奇艺弹幕.js"
     },
     {
       "key": "lltv_热播弹幕",
@@ -245,7 +245,7 @@
       "name": "66⚡️TX弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/TXDM.js"
+      "ext": "./mov/js/腾讯弹幕.js"
     },
     {
       "key": "lltv_文才弹幕",
@@ -264,7 +264,7 @@
       "name": "66⚡️YK弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/YKDM.js"
+      "ext": "./mov/js/优酷弹幕.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -558,18 +558,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_360-巧技-yytt",
-      "name": "66⚡️LL",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_SP360",
-      "jar": "./jar/qiaoji241229.jar",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
-    {
       "key": "lltv_量子",
       "name": "66⚡️LZ",
       "type": 1,
@@ -735,6 +723,18 @@
       "playerType": 1,
       "api": "csp_Xdai",
       "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS9qaWVrb3UudHh0fEY1MUY1RDUyRDIzQ0JGMjd8RjUxRjVENTJEMjNDQkYyN3wxOTE="
+    },
+    {
+      "key": "lltv_360弹幕-巧技-yytt",
+      "name": "66⚡️SL",
+      "type": 3,
+      "api": "csp_Sp360",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+      "danmu": true
+        }
     },
     {
       "key": "lltv_大师兄影视-天天-道长-运输车",
