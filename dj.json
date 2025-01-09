@@ -60,7 +60,7 @@
       "name": "吉吉┃短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./mov/json/吉吉短剧.json"
+      "ext": "./mov/json/JJDJ.json"
     },
     {
       "key": "lltv_爱我短剧",
@@ -70,14 +70,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./mov/json/爱我短剧.json"
+      "ext": "./mov/json/AWDJ.json"
     },
     {
       "key": "lltv_短剧网",
       "name": "短剧网┃短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./mov/json/短剧网.json"
+      "ext": "./mov/json/DJWang.json"
     },
     {
       "key": "lltv_短剧屋",
@@ -87,7 +87,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./mov/json/短剧屋.json"
+      "ext": "./mov/json/DJW.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
