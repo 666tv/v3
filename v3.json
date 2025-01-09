@@ -723,6 +723,13 @@
       "ext": "http://38.55.250.149:1314/api.php/app/"
     },
     {
+      "key": "lltv_皮皮虾",
+      "name": "66⚡️PP",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/皮皮虾.json"
+    },
+    {
       "key": "lltv_洽洽影视",
       "name": "66⚡️QQ",
       "type": 3,
@@ -865,13 +872,13 @@
     {
       "name": "LLTV_PPX",
       "type": "1",
-      "url": "http://45.207.215.101:5423/index.php?url=",
+      "url": "http://jiexi.52ppx.top/index.php?url=",
       "ext": {
-        "flag": [
-          "PPXLG",
-          "皮皮虾4K"
-        ]
-      }
+      "flag": [
+        "PPXLG",
+        "皮皮虾4K"
+            ]
+        }
     }
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
