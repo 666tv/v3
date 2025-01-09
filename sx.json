@@ -866,6 +866,18 @@
       "ext": ""
     },
     {
+      "key": "lltv_360-巧技-yytt",
+      "name": "66⚡️SL",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_SP360",
+      "jar": "./jar/qiaoji241229.jar",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": ""
+    },
+    {
       "key": "lltv_JP-道长-天天-鸭-巧技",
       "name": "66⚡️JP",
       "type": 3,
