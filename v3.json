@@ -23,14 +23,14 @@
     },
     {
       "key": "lltv_豆瓣预告",
-      "name": "66⚡️豆瓣预告",
+      "name": "66🌟豆瓣预告",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0
     },
     {
       "key": "lltv_糯米弹幕",
-      "name": "66⚡️TV",
+      "name": "66🌟TV",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
