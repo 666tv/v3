@@ -744,6 +744,22 @@
       "ext": "./mov/json/大师兄.json"
     },
     {
+      "key": "lltv_追剧网-公子",
+      "name": "66⚡️TV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+            "副标题": "66tv",
+            "线路标题": "66tv",
+            "分类url": "https://www.njshunma.com/vodtype/{cateId}/page/{catePg}.html",
+            "分类": "全网短剧&电影&电视剧&动漫&综艺&动画片&邵氏电影&电影解说",
+            "分类值": "41&1&2&4&3&37&38&39"
+      }
+    },
+    {
       "key": "lltv_五五-天天-鸭",
       "name": "66⚡️WW",
       "type": 3,
