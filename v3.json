@@ -28,6 +28,18 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+    {
+      "key": "lltv_糯米弹幕",
+      "name": "66⚡️TV",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+          "danmu": true
+         }
+    },
     /*{
       "key": "lltv_DBYGP",
       "name": "66⚡️预告",
@@ -36,7 +48,7 @@
       "api": "csp_XBPQ",
       "searchable": 0,
       "ext": "./mov/json/豆瓣预告.json"
-    },*/
+    },
     {
       "key": "lltv_1905",
       "name": "66⚡️1905",
@@ -45,7 +57,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    },*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_哔哩MV",
@@ -176,16 +188,16 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_糯米弹幕",
-      "name": "66⚡️TV弹幕",
+      "key": "lltv_厂长弹幕",
+      "name": "66⚡️CZ弹幕",
       "type": 3,
-      "api": "csp_Nmys",
+      "api": "csp_Czzy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
           "danmu": true
-         }
+        }
     },
     {
       "key": "lltv_浪酷弹幕",
@@ -325,18 +337,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/茶狐杯.json"
-    },
-    {
-      "key": "lltv_厂长弹幕",
-      "name": "66⚡️CZ",
-      "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-          "danmu": true
-        }
     },
     {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
