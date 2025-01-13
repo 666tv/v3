@@ -59,6 +59,14 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "世纪",
+      "name": "世纪┃App",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Drama",
+      "ext": "saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUa3wyMQ=="
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_lltv_KungFu404",
