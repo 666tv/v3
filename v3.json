@@ -81,7 +81,7 @@
       "filterable": 1,
       "ext": "./mov/json/哔哩音乐.json"
     },
-    /*{
+    {
       "key": "lltv_企鹅-荷城-鸭-饭",
       "name": "66❤️体育",
       "type": 3,
@@ -91,16 +91,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/7910/mov/json/企鹅体育.json"
-    },*/
-    {
-      "key": "lltv_JRK体育",
-      "name": "66❤️体育",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./mov/js/JRK体育.js"
     },
     {
       "key": "lltv_哔哩哔哩相声",
