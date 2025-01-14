@@ -151,7 +151,7 @@
       "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/哔哩直播.js"
     },
     {
-      "key": "lltv_快手直播",
+      "key": "lltv_快手直播-天天",
       "name": "66💙快手直播",
       "type": 3,
       "api": "csp_KsLive",
@@ -178,8 +178,8 @@
         "ratio": 1.597
       }
     },
-    {
-      "key": "lltv_斗鱼-菜妮丝-FM-运输车-鸭",
+    /*{
+      "key": "lltv_斗鱼-天天-菜妮丝-FM-运输车-鸭",
       "name": "66💙斗鱼直播",
       "type": 3,
       "playerType": 1,
@@ -189,7 +189,7 @@
       "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/斗鱼直播.js"
     },
     {
-      "key": "lltv_虎牙-道长-ok-鸭",
+      "key": "lltv_虎牙-天天-道长-ok-鸭",
       "name": "66💙虎牙直播",
       "type": 3,
       "api": "./js/drpy2.min.js",
@@ -197,7 +197,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/虎牙直播.js"
-    },
+    },*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_厂长弹幕",
@@ -208,8 +208,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-          "danmu": true
-        }
+        "danmu": true
+      }
     },
     {
       "key": "lltv_浪酷弹幕",
