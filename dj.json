@@ -91,6 +91,26 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_爱你短剧-天天",
+      "name": "爱你┃短剧",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./duanju/爱你短剧.json"
+    },
+    {
+      "key": "lltv_河马短剧-天天",
+      "name": "河马┃短剧",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./duanju/河马短剧.json"
+    },
+    {
       "key": "lltv_360采集-夜猫",
       "name": "360┃短剧",
       "type": 1,
