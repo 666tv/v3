@@ -2,8 +2,8 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
-"spider": "./jar/spider.jar",
-//"spider": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt",
+//"spider": "./jar/spider.jar",
+"spider": "http://ttkx.cc:55/lib/ttkx.jar",
 //"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/lltv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
@@ -148,7 +148,21 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://d.kstore.dev/download/7910/mov/js/哔哩直播.js"
+      "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/哔哩直播.js"
+    },
+    {
+      "key": "lltv_快手直播",
+      "name": "66💙快手直播",
+      "type": 3,
+      "api": "csp_KsLive",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "timeout": 10
     },
     {
       "key": "lltv_抖音",
@@ -164,7 +178,6 @@
         "ratio": 1.597
       }
     },
-    /*
     {
       "key": "lltv_斗鱼-菜妮丝-FM-运输车-鸭",
       "name": "66💙斗鱼直播",
@@ -173,9 +186,8 @@
       "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://d.kstore.dev/download/7910/mov/js/斗鱼直播.js"
+      "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/斗鱼直播.js"
     },
-    */
     {
       "key": "lltv_虎牙-道长-ok-鸭",
       "name": "66💙虎牙直播",
@@ -184,7 +196,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://d.kstore.dev/download/7910/mov/js/虎牙直播.js"
+      "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/虎牙直播.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
