@@ -98,7 +98,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./duanju/爱你短剧.json"
+      "ext": "./mov/json/爱你短剧.json"
     },
     {
       "key": "lltv_河马短剧-天天",
@@ -108,7 +108,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./duanju/河马短剧.json"
+      "ext": "./mov/json/河马短剧.json"
     },
     {
       "key": "lltv_你好帅-天天",
