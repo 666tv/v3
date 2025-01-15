@@ -60,7 +60,7 @@
       "name": "吉吉┃短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./mov/json/JJDJ.json"
+      "ext": "./duanju/JJDJ.json"
     },
     {
       "key": "lltv_爱我短剧",
@@ -70,14 +70,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./mov/json/AWDJ.json"
+      "ext": "./duanju/AWDJ.json"
     },
     {
       "key": "lltv_短剧网",
       "name": "短剧网┃短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./mov/json/DJWang.json"
+      "ext": "./duanju/DJWang.json"
     },
     {
       "key": "lltv_短剧屋",
@@ -87,7 +87,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./mov/json/DJW.json"
+      "ext": "./duanju/DJW.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -98,7 +98,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./mov/json/爱你短剧.json"
+      "ext": "./duanju/爱你短剧.json"
     },
     {
       "key": "lltv_河马短剧-天天",
@@ -108,7 +108,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./mov/json/河马短剧.json"
+      "ext": "./duanju/河马短剧.json"
     },
     {
       "key": "lltv_你好帅-天天",
@@ -147,7 +147,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./mov/json/Bili短剧.json"
+      "ext": "./duanju/Bili短剧.json"
     },
     {
       "key": "lltv_非凡",
