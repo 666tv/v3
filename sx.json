@@ -866,6 +866,14 @@
       "ext": ""
     },
     {
+      "key": "lltv_JP-道长-天天-鸭-巧技",
+      "name": "66⚡️JP弹幕",
+      "type": 3,
+      "playerType": 1,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/JP.js"
+    },
+    {
       "key": "lltv_360-巧技-yytt",
       "name": "66⚡️SL",
       "type": 3,
