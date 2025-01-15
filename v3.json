@@ -503,6 +503,7 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_Jianpian",
+      "jar": "./jar/spider250113.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
