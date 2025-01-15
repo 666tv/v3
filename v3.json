@@ -200,16 +200,12 @@
     },*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_厂长弹幕",
-      "name": "66⚡️CZ弹幕",
+      "key": "lltv_JP-道长-天天-鸭-巧技",
+      "name": "66⚡️JP弹幕",
       "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
+      "playerType": 1,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/JP.js"
     },
     {
       "key": "lltv_浪酷弹幕",
@@ -496,17 +492,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/追剧迷.js"
-    },
-    {
-      "key": "lltv_JP-道长-天天-鸭-巧技",
-      "name": "66⚡️JP",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Jianpian",
-      "jar": "./jar/66tv.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "lltv_极速",
