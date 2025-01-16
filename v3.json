@@ -28,9 +28,28 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+    /*{
+      "key": "lltv_DBYGP",
+      "name": "66⭐预告",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "ext": "./mov/json/豆瓣预告.json"
+    },*/
+    {
+      "key": "lltv_1905",
+      "name": "66⭐1905",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_糯米弹幕",
-      "name": "66⭐TV",
+      "name": "66⭐Tv¹",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -40,24 +59,21 @@
           "danmu": true
          }
     },
-    /*{
-      "key": "lltv_DBYGP",
-      "name": "66⭐预告",
+    {
+      "key": "lltv_皮皮虾",
+      "name": "66⭐Tv²",
       "type": 3,
-      "playerType": 2,
       "api": "csp_XBPQ",
-      "searchable": 0,
-      "ext": "./mov/json/豆瓣预告.json"
+      "ext": "./mov/json/皮皮虾.json"
     },
     {
-      "key": "lltv_1905",
-      "name": "66⭐1905",
+      "key": "lltv_人人",
+      "name": "66⭐Tv³",
       "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },*/
+      "playerType": 1,
+      "api": "csp_Xdai",
+      "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS9qaWVrb3UudHh0fEY1MUY1RDUyRDIzQ0JGMjd8RjUxRjVENTJEMjNDQkYyN3wxOTE="
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_哔哩MV",
@@ -229,12 +245,21 @@
     },*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_JP-道长-天天-鸭-巧技",
-      "name": "66⚡️JP弹幕",
+      "key": "lltv_哔哩弹幕",
+      "name": "66⚡️BI弹幕",
       "type": 3,
-      "playerType": 1,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/JP.js"
+      "api": "csp_Bilimd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+          "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
+        },
+      "style": {
+            "type": "rect",
+            "ratio": 1.597
+        },
+      "timeout": 10
     },
     {
       "key": "lltv_浪酷弹幕",
@@ -325,23 +350,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://v.aikanbot.com"
-    },
-    {
-      "key": "lltv_哔哩弹幕",
-      "name": "66⚡️BI",
-      "type": 3,
-      "api": "csp_Bilimd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-          "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
-        },
-      "style": {
-            "type": "rect",
-            "ratio": 1.597
-        },
-      "timeout": 10
     },
     {
       "key": "lltv_哔哩影视[官]-道长",
@@ -521,6 +529,14 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/追剧迷.js"
+    },
+    {
+      "key": "lltv_JP-道长-天天-鸭-巧技",
+      "name": "66⚡️JP",
+      "type": 3,
+      "playerType": 1,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/JP.js"
     },
     {
       "key": "lltv_极速",
@@ -728,13 +744,6 @@
         }
     },
     {
-      "key": "lltv_皮皮虾",
-      "name": "66⚡️PP",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/皮皮虾.json"
-    },
-    {
       "key": "lltv_洽洽影视",
       "name": "66⚡️QQ",
       "type": 3,
@@ -742,14 +751,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "lltv_人人",
-      "name": "66⚡️RR",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Xdai",
-      "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS9qaWVrb3UudHh0fEY1MUY1RDUyRDIzQ0JGMjd8RjUxRjVENTJEMjNDQkYyN3wxOTE="
     },
     {
       "key": "lltv_世纪-巧技",
