@@ -155,13 +155,13 @@
       "name": "66💙抖音直播",
       "type": 3,
       "api": "csp_AmuDouYin",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
       "style": {
-        "type": "rect",
-        "ratio": 1.597
+          "type": "rect",
+          "ratio": 1.597
       }
     },
     {
@@ -173,10 +173,9 @@
       "quickSearch": 0,
       "filterable": 1,
       "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "timeout": 10
+            "type": "rect",
+            "ratio": 1.597
+        }
     },
     /*{
       "key": "lltv_斗鱼-天天-菜妮丝-FM-运输车-鸭",
@@ -197,6 +196,36 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/虎牙直播.js"
+    },
+    {
+      "key": "lltv_斗鱼直播",
+      "name": "66💙斗鱼直播",
+      "type": 3,
+      "api": "csp_AmuDouYu",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+          "type": "rect",
+          "ratio": 1.597
+        },
+      "ext": "./mov/json/斗鱼直播.json"
+    },
+    {
+      "key": "lltv_虎牙直播",
+      "name": "66💙虎牙直播",
+      "type": 3,
+      "api": "csp_AmuHuYa",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+          "type": "rect",
+          "ratio": 1.597
+        },
+      "ext": "./mov/json/虎牙直播.json"
     },*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
