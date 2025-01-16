@@ -23,14 +23,14 @@
     },
     {
       "key": "lltv_豆瓣预告",
-      "name": "66⭐豆瓣预告",
+      "name": "66⚡️豆瓣预告",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0
     },
     /*{
       "key": "lltv_DBYGP",
-      "name": "66⭐预告",
+      "name": "66⚡️预告",
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
@@ -39,7 +39,7 @@
     },*/
     {
       "key": "lltv_1905",
-      "name": "66⭐1905",
+      "name": "66⚡️1905",
       "type": 3,
       "api": "csp_Web1905",
       "searchable": 1,
@@ -67,13 +67,23 @@
       "ext": "./mov/json/皮皮虾.json"
     },
     {
-      "key": "lltv_人人",
+      "key": "lltv_人人影视",
+      "name": "66⭐Tv³",
+      "type": 3,
+      "api": "csp_AppGetApp",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoMKjwrPCosKpw6PDo8KYwpvCn8KlwqbCpMKtwqrCrmNlZGbCssKswqjDnMOpwqZewpHCoMKmw5bDosOow6jCmsKhwpnCnsOgwqHDp8Oyw6vClsKcwp/CpcOdwqHDncOow6diwprCmcKVw6TDosOvwqfDrsKrwqRSXMKbwrzDqMOiw67CisKfwqLClMKbwq3CnMOiw6jCnMKkwoZhwqrCrMKcwqXCnMKnwpnCoFLCs8KVw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKbwp/CnMK6w5/CpnvClcKpwpvCrcKcwr/Cr2R2ZXTCrsKlwr7Cq8KtdnJ2YsKwwpXCpsKbwrvCmMKjecKmwpvCrcKcwr/Cr2R2ZXTCrsKlwr7Cq8KtdnJ2YsKwwpXCpsKbw43CnMKkwpXChcOrw5/CnMKzwpxVwq0="
+    },
+    /*{
+      "key": "lltv_荣荣",
       "name": "66⭐Tv³",
       "type": 3,
       "playerType": 1,
       "api": "csp_Xdai",
       "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS9qaWVrb3UudHh0fEY1MUY1RDUyRDIzQ0JGMjd8RjUxRjVENTJEMjNDQkYyN3wxOTE="
-    },
+    },*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_哔哩MV",
