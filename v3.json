@@ -402,17 +402,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
-    {
-      "key": "lltv_电影港-夜猫-巧技-不良",
-      "name": "66⚡️DY",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/电影港.json"
-    },
     {
       "key": "lltv_非凡",
       "name": "66⚡️FF",
