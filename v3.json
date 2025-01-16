@@ -72,8 +72,8 @@
       "type": 3,
       "api": "csp_AppGetApp",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoMKjwrPCosKpw6PDo8KYwpvCn8KlwqbCpMKtwqrCrmNlZGbCssKswqjDnMOpwqZewpHCoMKmw5bDosOow6jCmsKhwpnCnsOgwqHDp8Oyw6vClsKcwp/CpcOdwqHDncOow6diwprCmcKVw6TDosOvwqfDrsKrwqRSXMKbwrzDqMOiw67CisKfwqLClMKbwq3CnMOiw6jCnMKkwoZhwqrCrMKcwqXCnMKnwpnCoFLCs8KVw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKbwp/CnMK6w5/CpnvClcKpwpvCrcKcwr/Cr2R2ZXTCrsKlwr7Cq8KtdnJ2YsKwwpXCpsKbwrvCmMKjecKmwpvCrcKcwr/Cr2R2ZXTCrsKlwr7Cq8KtdnJ2YsKwwpXCpsKbw43CnMKkwpXChcOrw5/CnMKzwpxVwq0="
     },
     /*{
