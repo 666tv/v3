@@ -272,18 +272,6 @@
       "timeout": 10
     },
     {
-      "key": "lltv_厂长弹幕",
-      "name": "66⚡️CZ弹幕",
-      "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-          "danmu": true
-        }
-    },
-    {
       "key": "lltv_浪酷弹幕",
       "name": "66⚡️LK弹幕",
       "type": 3,
