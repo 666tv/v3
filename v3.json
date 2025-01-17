@@ -67,6 +67,16 @@
       "ext": "./mov/json/皮皮虾.json"
     },
     {
+      "key": "lltv_茶狐杯-天天",
+      "name": "66⚡️Tv³",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./mov/json/茶狐杯.json"
+    },
+    /*{
       "key": "lltv_人人影视",
       "name": "66⭐Tv³",
       "type": 3,
@@ -76,7 +86,7 @@
       "filterable": 0,
       "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoMKjwrPCosKpw6PDo8KYwpvCn8KlwqbCpMKtwqrCrmNlZGbCssKswqjDnMOpwqZewpHCoMKmw5bDosOow6jCmsKhwpnCnsOgwqHDp8Oyw6vClsKcwp/CpcOdwqHDncOow6diwprCmcKVw6TDosOvwqfDrsKrwqRSXMKbwrzDqMOiw67CisKfwqLClMKbwq3CnMOiw6jCnMKkwoZhwqrCrMKcwqXCnMKnwpnCoFLCs8KVw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKbwp/CnMK6w5/CpnvClcKpwpvCrcKcwr/Cr2R2ZXTCrsKlwr7Cq8KtdnJ2YsKwwpXCpsKbwrvCmMKjecKmwpvCrcKcwr/Cr2R2ZXTCrsKlwr7Cq8KtdnJ2YsKwwpXCpsKbw43CnMKkwpXChcOrw5/CnMKzwpxVwq0="
     },
-    /*{
+    {
       "key": "lltv_荣荣",
       "name": "66⭐Tv³",
       "type": 3,
@@ -389,16 +399,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/百度.json"
-    },
-    {
-      "key": "lltv_茶狐杯-天天",
-      "name": "66⚡️CB",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/茶狐杯.json"
     },
     {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
