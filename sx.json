@@ -1027,13 +1027,13 @@
       "name": "66⚡️CZ",
       "type": 3,
       "api": "csp_NewCz",
-      "jar": "./jar/ttkx240909.jar;md5;56ffe5fc72be5f94267be472b59540a7",
+      "jar": "./jar/ttkx.jar",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy77.com/"
+      "ext": "https://www.czzyvideo.com/"
     },
     {
       "key": "lltv_小苹果",
