@@ -255,13 +255,6 @@
     },*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_素白白",
-      "name": "66⚡️BB",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/素白白.js"
-    },
-    {
       "key": "lltv_哔哩弹幕",
       "name": "66⚡️BI弹幕",
       "type": 3,
@@ -367,6 +360,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://v.aikanbot.com"
+    },
+    {
+      "key": "lltv_素白白",
+      "name": "66⚡️BB",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/素白白.js"
     },
     {
       "key": "lltv_哔哩影视[官]-道长",
