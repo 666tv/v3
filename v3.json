@@ -49,7 +49,7 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_糯米弹幕",
-      "name": "66⭐Tv¹",
+      "name": "66⭐Tvᴳᴶ",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -60,21 +60,22 @@
          }
     },
     {
-      "key": "lltv_皮皮虾",
-      "name": "66⭐Tv²",
+      "key": "韩小圈",
+      "name": "66⭐Tvᴴᴶ",
       "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/皮皮虾.json"
-    },
-    {
-      "key": "lltv_茶狐杯-天天",
-      "name": "66⚡️Tv³",
-      "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_HanXiaoQuan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/茶狐杯.json"
+      "filterable": 1
+    },
+    {
+      "key": "lltv_美剧迷",
+      "name": "66⭐Tvᴹᴶ",
+      "type": 3,
+      "api": "csp_MeijuMi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     /*{
       "key": "lltv_人人影视",
@@ -401,6 +402,16 @@
       "ext": "./mov/json/百度.json"
     },
     {
+      "key": "lltv_茶狐杯-天天",
+      "name": "66⚡️CB",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./mov/json/茶狐杯.json"
+    },
+    {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⚡️DD",
       "type": 3,
@@ -519,15 +530,6 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
-    {
-      "key": "lltv_韩小圈",
-      "name": "66⚡️HJ",
-      "type": 3,
-      "api": "csp_HanXiaoQuan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "lltv_追剧迷",
@@ -748,6 +750,13 @@
       "ext": {
           "danmu": true
         }
+    },
+    {
+      "key": "lltv_皮皮虾",
+      "name": "66⚡PP",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/皮皮虾.json"
     },
     {
       "key": "lltv_洽洽影视",
