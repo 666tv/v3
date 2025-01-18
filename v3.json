@@ -60,7 +60,7 @@
          }
     },
     {
-      "key": "韩小圈",
+      "key": "lltv_韩小圈",
       "name": "66⭐Tvᴴᴶ",
       "type": 3,
       "api": "csp_HanXiaoQuan",
@@ -69,10 +69,10 @@
       "filterable": 1
     },
     {
-      "key": "lltv_美剧迷",
+      "key": "lltv_美剧天堂",
       "name": "66⭐Tvᴹᴶ",
       "type": 3,
-      "api": "csp_MeijuMi",
+      "api": "csp_MeijuTT",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -696,15 +696,6 @@
         "新马泰综艺",
         "其他综艺"
       ]
-    },
-    {
-      "key": "lltv_美剧天堂",
-      "name": "66⚡️MJ",
-      "type": 3,
-      "api": "csp_MeijuTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "lltv_魔力高清",
