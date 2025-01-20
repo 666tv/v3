@@ -783,6 +783,17 @@
       "ext": "./mov/json/皮皮虾.json"
     },
     {
+      "key": "lltv_皮皮虾-摸鱼",
+      "name": "66⚡PX",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.ppxys.vip/api.php/app/"
+    },
+    {
       "key": "lltv_洽洽影视",
       "name": "66⚡️QQ",
       "type": 3,
@@ -838,6 +849,14 @@
       "ext": "./mov/json/大师兄.json"
     },
     {
+      "key": "lltv_图图",
+      "name": "66⚡️TU",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_APPTT",
+      "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
+    },
+    {
       "key": "lltv_五五-天天-鸭",
       "name": "66⚡️WW",
       "type": 3,
@@ -879,6 +898,14 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/永乐影视.json"
+    },
+    {
+      "key": "lltv_玉米",
+      "name": "66⚡️YM",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Xdai",
+      "ext": "jaHR0cDovLzIxMS4xMDEuMjM3LjIyMDo3Nzg4L3lteXMudHh0fDF2ZmZzZGFzZGFzZGFzZDJ8MXZmZnNkYXNkYXNkYXNkMnwxMDU="
     },
     {
       "key": "lltv_电影牛",
