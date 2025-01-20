@@ -404,6 +404,13 @@
       "ext": "./mov/json/茶狐杯.json"
     },
     {
+      "key": "lltv_采集之王",
+      "name": "66⚡️CJ",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/采集之王.js?type=url&params=../mov/json/采集静态.json$1$1"
+    },
+    {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⚡️DD",
       "type": 3,
