@@ -783,18 +783,6 @@
       "ext": "./mov/json/皮皮虾.json"
     },
     {
-      "key": "lltv_皮皮虾-摸鱼",
-      "name": "66⚡PX",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_AppYsV2",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.ppxys.vip/api.php/app/"
-    },
-    {
       "key": "lltv_洽洽影视",
       "name": "66⚡️QQ",
       "type": 3,
