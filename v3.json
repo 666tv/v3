@@ -608,6 +608,14 @@
       "filterable": 1
     },
     {
+      "key": "lltv_客星",
+      "name": "66⚡️KX",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cDovLzIxMS45OS45OC40Nzo5OTk5L2FwaS50eHR8ZTQ2MWM3YzBlZjBiNmNkMXxlNDYxYzdjMGVmMGI2Y2QxfDEwNg=="
+    },
+    {
       "key": "lltv_量子",
       "name": "66⚡️LZ",
       "type": 1,
@@ -802,6 +810,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/55.json"
+    },
+    {
+      "key": "lltv_现代",
+      "name": "66⚡️XD",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
     },
     {
       "key": "lltv_修罗影视",
