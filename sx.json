@@ -22,6 +22,13 @@
       "ext": ""
     },
     {
+      "key": "lltv_皮皮虾",
+      "name": "66⚡PP",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/皮皮虾.json"
+    },
+    {
       "key": "lltv_白嫖者-天天",
       "name": "66⚡️BP",
       "type": 3,
