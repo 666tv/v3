@@ -2511,8 +2511,8 @@
       "name": "IPTV",
       "type": 0,
       "playerType": 1,
-      "url": "https://raw.gitmirror.com/666tv/iptv/master/output/user_result.txt",
-      //"url": "aHR0cHM6Ly9kLmtzdG9yZS5kZXYvZG93bmxvYWQvNzkxMC9tYWluL2xpdmUudHh0",
+      "url": "https://gitee.com/ll8000/iptv/raw/master/output/66tv_result.txt",
+      //"url": "https://raw.gitmirror.com/666tv/iptv/master/output/user_result.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "timeout": 10
@@ -2520,7 +2520,7 @@
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //https://gh.xxooo.cf/
-//https://gh.aptv.app/
+//https://ghproxy.net/
 //https://github.moeyy.xyz/
 //广告~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "ads": [
