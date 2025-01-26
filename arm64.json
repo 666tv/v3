@@ -169,20 +169,7 @@
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/哔哩直播.js"
     },
-    {
-      "key": "lltv_抖音",
-      "name": "66💙抖音直播",
-      "type": 3,
-      "api": "csp_AmuDouYin",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-          "type": "rect",
-          "ratio": 1.597
-      }
-    },
+    
     {
       "key": "lltv_快手直播-天天",
       "name": "66💙快手直播",
@@ -195,6 +182,21 @@
             "type": "rect",
             "ratio": 1.597
         }
+    },
+    {
+      "key": "lltv_虎牙直播",
+      "name": "66💙虎牙直播",
+      "type": 3,
+      "api": "csp_AmuHuYa",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+          "type": "rect",
+          "ratio": 1.597
+        },
+      "ext": "./mov/json/虎牙直播.json"
     },
     /*{
       "key": "lltv_斗鱼-天天-菜妮丝-FM-运输车-鸭",
@@ -217,6 +219,20 @@
       "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/虎牙直播.js"
     },
     {
+      "key": "lltv_抖音",
+      "name": "66💙抖音直播",
+      "type": 3,
+      "api": "csp_AmuDouYin",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+          "type": "rect",
+          "ratio": 1.597
+      }
+    },
+    {
       "key": "lltv_斗鱼直播",
       "name": "66💙斗鱼直播",
       "type": 3,
@@ -230,21 +246,6 @@
           "ratio": 1.597
         },
       "ext": "./mov/json/斗鱼直播.json"
-    },
-    {
-      "key": "lltv_虎牙直播",
-      "name": "66💙虎牙直播",
-      "type": 3,
-      "api": "csp_AmuHuYa",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-          "type": "rect",
-          "ratio": 1.597
-        },
-      "ext": "./mov/json/虎牙直播.json"
     },*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -815,15 +816,6 @@
       "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
     },
     {
-      "key": "lltv_世纪-巧技",
-      "name": "66⚡️SJ",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_Drama",
-      "jar": "./jar/qiaoji.jar",
-      "ext": "saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUa3wyMQ=="
-    },
-    {
       "key": "lltv_360弹幕-巧技-yytt",
       "name": "66⚡️SL",
       "type": 3,
@@ -859,14 +851,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/55.json"
-    },
-    {
-      "key": "lltv_现代",
-      "name": "66⚡️XD",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
     },
     {
       "key": "lltv_修罗影视",
