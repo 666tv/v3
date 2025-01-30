@@ -3,8 +3,6 @@
 
 {
 "spider": "./jar/spider.jar",
-//"spider": "http://ttkx.cc:55/lib/ttkx.jar",
-//"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/lltv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
 "logo": "https://gitee.com/lltv/by/raw/main/logo.png",
@@ -12,14 +10,11 @@
 "sites": [
 
     {
-      "key": "lltv_豆瓣推荐",
-      "name": "👇长按主页刷新资源•推荐电信网络",
+      "key": "lltv_豆瓣",
+      "name": "👇长按这里刷新资源•推荐电信网络",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./mov/js/douban.js"
+      "api": "csp_Douban",
+      "searchable": 0
     },
     {
       "key": "lltv_豆瓣预告",
