@@ -959,9 +959,9 @@
       "url": "Sequence"
     },
     {
-      "name": "LLTV_QJ",
+      "name": "LLTV_1",
       "type": 1,
-      "url": "https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url=",
+      "url": "https://zy.qiaoji8.com/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -989,9 +989,9 @@
       }
     },
     {
-      "name": "LLTV_CF",
+      "name": "LLTV_2",
       "type": 1,
-      "url": "https://jx.cfwlgzs.cn/api/?key=z57RI2Ju1udRhU3D0v&url=",
+      "url": "https://jx.cfwlgzs.cn/api/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -1019,7 +1019,7 @@
       }
     },
     {
-      "name": "LLTV_XM",
+      "name": "LLTV_3",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -1027,21 +1027,6 @@
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
         }
       }
-    },
-    {
-      "name": "LLTV_XY",
-      "type": 0,
-      "url": "https://jx.xymp4.cc/?url="
-    },
-    {
-      "name": "LLTV_IK",
-      "type": 0,
-      "url": "https://jx.hls.one/?url="
-    },
-    {
-      "name": "LLTV_77",
-      "type": 0,
-      "url": "https://jx.77flv.cc/?url="
     }
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
