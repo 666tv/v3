@@ -2001,7 +2001,7 @@
     {
       "name": "LLTV_1",
       "type": 1,
-      "url": "https://jx.cfwlgzs.cn/api/?key=z57RI2Ju1udRhU3D0v&url=",
+      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -2030,6 +2030,11 @@
     },
     {
       "name": "LLTV_2",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "LLTV_3",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
