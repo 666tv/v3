@@ -373,17 +373,6 @@
       "order_num": 0,
       "ext": "./mov/js/哔哩影视[官].js"
     },
-    
-    {
-      "key": "lltv_农民影视2-天天",
-      "name": "66⚡️BD",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/百度.json"
-    },
     {
       "key": "lltv_茶狐杯-天天",
       "name": "66⚡️CB",
@@ -431,14 +420,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgwrPCosKpwqvCq2ReaWnCp8KswrLCp8KuamppacKywqzCqcOaw6rCnF7CpMKow63CmsKmwpnCocKGwpnCpMKVw47DpcOmwqDCtFNXV1zCmcKaw4PDp8OjwqfCh8KfwqLDncKawrTCmcKhwpzCnsKZwqTDj8KkwqvCssKhX1BXwqTDosOjwqHCs8KaWsKL5Ya16YSY5pCe5ZGWwqblh6XkvpHlkKpq5b6h6Ke26La95ryD562Tw5bCoV9QV3HDnsOmw4XDnsOzWmpQV8OewqfCsMKqw51qwpNgwpXDn8Kjw5zCr8OdwpdhV1zCmcKawrvDnsOtfMKmV2rCmcKaw5/CrcKwZMKTZ8KTwqnDmMOgwqnDnGnCk8KUYcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7LDlMOpw7DDm8KhwpdgYcKrwqnCocO2"
-    },
-    {
-      "key": "lltv_小米电影",
-      "name": "66⚡DY",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_MovieApp"
     },
     {
       "key": "lltv_非凡",
@@ -627,15 +608,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/金牌影视.js"
-    },
-    {
-      "key": "lltv_饺子影视",
-      "name": "66⚡️JZ",
-      "type": 3,
-      "api": "csp_Jiaozi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "lltv_看客影视",
@@ -841,14 +813,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.dyxz2.com/"
-    },
-    {
-      "key": "lltv_荣荣",
-      "name": "66⚡️RR",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Xdai",
-      "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
     },
     {
       "key": "lltv_360弹幕-巧技-yytt",
