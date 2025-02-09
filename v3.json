@@ -433,6 +433,14 @@
       "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgwrPCosKpwqvCq2ReaWnCp8KswrLCp8KuamppacKywqzCqcOaw6rCnF7CpMKow63CmsKmwpnCocKGwpnCpMKVw47DpcOmwqDCtFNXV1zCmcKaw4PDp8OjwqfCh8KfwqLDncKawrTCmcKhwpzCnsKZwqTDj8KkwqvCssKhX1BXwqTDosOjwqHCs8KaWsKL5Ya16YSY5pCe5ZGWwqblh6XkvpHlkKpq5b6h6Ke26La95ryD562Tw5bCoV9QV3HDnsOmw4XDnsOzWmpQV8OewqfCsMKqw51qwpNgwpXDn8Kjw5zCr8OdwpdhV1zCmcKawrvDnsOtfMKmV2rCmcKaw5/CrcKwZMKTZ8KTwqnDmMOgwqnDnGnCk8KUYcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7LDlMOpw7DDm8KhwpdgYcKrwqnCocO2"
     },
     {
+      "key": "lltv_小米电影",
+      "name": "66⚡DY",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_MovieApp"
+    },
+    {
       "key": "lltv_非凡",
       "name": "66⚡️FF",
       "type": 1,
@@ -552,6 +560,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/海纳影视.json"
+    },
+    {
+      "key": "lltv_小米虎虎",
+      "name": "66⚡HU",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_AppHuhu"
     },
     {
       "key": "lltv_追剧迷",
@@ -765,6 +781,14 @@
       ]
     },
     {
+      "key": "lltv_小米米兔",
+      "name": "66⚡MI",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_MiTuApp"
+    },
+    {
       "key": "lltv_魔力高清",
       "name": "66⚡️ML",
       "type": 3,
@@ -887,6 +911,14 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/樱花影视.json"
+    },
+    {
+      "key": "lltv_小米眼镜",
+      "name": "66⚡YJ",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_AppYanjing"
     },
     {
       "key": "lltv_永乐影视",
