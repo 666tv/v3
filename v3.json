@@ -347,13 +347,12 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_Ikanbot-XYQ-PG",
-      "name": "66⚡️AI",
+      "name": "66⚡️AK",
       "type": 3,
-      "api": "csp_Ikanbot",
+      "api": "csp_IkanBot",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://v.aikanbot.com"
+      "filterable": 1
     },
     {
       "key": "lltv_素白白",
