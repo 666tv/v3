@@ -346,14 +346,13 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_Ikanbot-XYQ-PG",
+      "key": "lltv_爱看机器人",
       "name": "66⚡️AI",
       "type": 3,
-      "api": "csp_Ikanbot",
+      "api": "csp_IkanBot",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://v.aikanbot.com"
+      "filterable": 1
     },
     {
       "key": "lltv_素白白",
@@ -781,6 +780,24 @@
       "playerType": 1,
       "api": "csp_Shark",
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
+    },
+    {
+      "key": "lltv_南瓜影视",
+      "name": "66⚡️NG",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_闹闹",
+      "name": "66⚡️NN",
+      "type": 3,
+      "api": "csp_Xdai",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "caHR0cDovLzExMC40Mi4zLjE5NTo4OTg5fEQ2cTdoamI4N0ZKMDlGNzd8RDZxN2hqYjg3RkowOUY3Nw"
     },
     {
       "key": "lltv_小苹果弹幕",
