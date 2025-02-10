@@ -883,6 +883,16 @@
       "ext": ""
     },
     {
+      "key": "lltv_Ikanbot-XYQ-PG",
+      "name": "66⚡️AI",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://v.aikanbot.com"
+    },
+    {
       "key": "lltv_JP-道长-天天-鸭-巧技",
       "name": "66⚡️JP弹幕",
       "type": 3,
