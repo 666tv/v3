@@ -101,6 +101,17 @@
       "ext": "./mov/json/哔哩音乐.json"
     },
     {
+      "key": "lltv_88看球",
+      "name": "66❤️看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 0,
+      "style": {
+            "type": "list"
+        }
+    },
+    /*
+    {
       "key": "lltv_企鹅-荷城-鸭-饭",
       "name": "66❤️体育",
       "type": 3,
@@ -111,6 +122,7 @@
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/666tv/66/main/mov/json/企鹅体育.json"
     },
+    */
     {
       "key": "lltv_哔哩哔哩相声",
       "name": "66❤️相声",
