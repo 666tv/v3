@@ -358,15 +358,6 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_Ikanbot-XYQ-PG",
-      "name": "66⚡️AK",
-      "type": 3,
-      "api": "csp_IkanBot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_哔哩影视[官]-道长",
       "name": "66⚡️BL",
       "type": 3,
