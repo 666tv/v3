@@ -48,16 +48,14 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_糯米弹幕",
+      "key": "lltv_农民影视",
       "name": "66⭐Tvᴳᴶ",
       "type": 3,
-      "api": "csp_Nmys",
+      "api": "csp_Wwys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-          "danmu": true
-         }
+      "ext": "https://m.wwgz.cn"
     },
     {
       "key": "lltv_韩小圈",
@@ -583,6 +581,14 @@
       "ext": "./mov/json/55.json"
     },
     {
+      "key": "lltv_现代-巧技",
+      "name": "66⚡️XD",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Xdai",
+      "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="
+    },
+    {
       "key": "lltv_星河",
       "name": "66⚡️XH",
       "type": 3,
@@ -619,6 +625,14 @@
       "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44"
     },
     {
+      "key": "lltv_玉米",
+      "name": "66⚡️YM",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Xdai",
+      "ext": "jaHR0cDovL3NkeXMudXMvc2QudHh0fDdmOWI0OWRhZjkyOGNjZTd8N2Y5YjQ5ZGFmOTI4Y2NlN3w0NDI="
+    },
+    {
       "key": "lltv_优质-巧技",
       "name": "66⚡️YZ",
       "type": 3,
@@ -627,11 +641,28 @@
       "ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
     },
     {
+      "key": "lltv_桜之空影视-欧歌",
+      "name": "66⚡️YY",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/樱之空2.json"
+    },
+    {
       "key": "lltv_追剧弹幕",
       "name": "66⚡️ZJ",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/追剧弹幕.js"
+    },
+    {
+      "key": "lltv_站长影视",
+      "name": "66⚡ZZ",
+      "type": 3,
+      "api": "csp_AppGetApp",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KdacOcw57CrMKxw6DCqmbCnmPDpsKow6XCsMKywpRhYMKUwqfDl8Ozw7LDtGVewpPCn8Omwq3Cr8KvwrJsX8KRwqDDosKhw6rDocOqVVxSecOnw5zDrsOQw6nCpcKUUmrCm8KVwqbCm8OuwpzCoFJqwpvDjuWHv+mFoeaQn+WQllzlhpzkvYflkbDCreW/q+iov+i2vua7g+esicKNUsKlwpXCu8Oew61+wpXCqVLCs8KVw57DssOzwq3CpMKmwpHDqcOcw5vDqcOqwqzCqcKUwqPCm8KfwpzCusOfwqZ5wqZSwrPClcOew7LDs8KtwqTCpsKRw6nDnMObw6nDqsKswqnClMKjwpvDsA=="
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
