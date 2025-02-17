@@ -367,13 +367,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_素白白",
-      "name": "66⚡️BB",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/素白白.js"
-    },
-    {
       "key": "lltv_哔哩影视[官]-道长",
       "name": "66⚡️BL",
       "type": 3,
@@ -402,86 +395,18 @@
       "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
     },
     {
-      "key": "lltv_厂长弹幕",
-      "name": "66⚡️CZ",
+      "key": "lltv_小米尘落",
+      "name": "66⚡️CL",
       "type": 3,
-      "api": "csp_Czzy",
+      "api": "csp_Wetv",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-          "danmu": true
-        }
+      "quickSearch": 1
     },
     {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⚡️DD",
       "type": 3,
       "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_多多影视",
-      "name": "66⚡DU",
-      "type": 3,
-      "api": "csp_AppGetApp",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgwrPCosKpwqvCq2ReaWnCp8KswrLCp8KuamppacKywqzCqcOaw6rCnF7CpMKow63CmsKmwpnCocKGwpnCpMKVw47DpcOmwqDCtFNXV1zCmcKaw4PDp8OjwqfCh8KfwqLDncKawrTCmcKhwpzCnsKZwqTDj8KkwqvCssKhX1BXwqTDosOjwqHCs8KaWsKL5Ya16YSY5pCe5ZGWwqblh6XkvpHlkKpq5b6h6Ke26La95ryD562Tw5bCoV9QV3HDnsOmw4XDnsOzWmpQV8OewqfCsMKqw51qwpNgwpXDn8Kjw5zCr8OdwpdhV1zCmcKawrvDnsOtfMKmV2rCmcKaw5/CrcKwZMKTZ8KTwqnDmMOgwqnDnGnCk8KUYcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7LDlMOpw7DDm8KhwpdgYcKrwqnCocO2"
-    },
-    {
-      "key": "lltv_非凡",
-      "name": "66⚡️FF",
-      "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "韩国剧",
-        "日本剧",
-        "泰国剧",
-        "欧美剧",
-        "海外剧",
-        "国产动漫",
-        "港台动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
-    },
-    {
-      "key": "lltv_腐剧视频",
-      "name": "66⚡️FJ",
-      "type": 3,
-      "api": "csp_WexFujutv",
-      "jar": "./jar/66tv240812.jar",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "lltv_瓜子影视",
-      "name": "66⚡️GZ",
-      "type": 3,
-      "api": "csp_Gz360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -505,70 +430,6 @@
       "ext": "https://cs.hgyx.vip/api2/api.php/app/"
     },
     {
-      "key": "lltv_HH",
-      "name": "66⚡️HH",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧",
-        "内地剧",
-        "香港剧",
-        "台湾剧",
-        "韩剧",
-        "日剧",
-        "欧美剧",
-        "马泰剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "奇幻片",
-        "战争片",
-        "爱情片",
-        "犯罪片",
-        "恐怖片",
-        "悬疑片",
-        "灾难片",
-        "剧情片",
-        "记录片",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
-    },
-    {
-      "key": "lltv_海纳影视",
-      "name": "66⚡️HN",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/海纳影视.json"
-    },
-    {
-      "key": "lltv_小米虎虎",
-      "name": "66⚡HU",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_AppHuhu"
-    },
-    {
-      "key": "lltv_追剧迷",
-      "name": "66⚡️JM",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/追剧迷.js"
-    },
-    {
       "key": "lltv_JP-道长-天天-鸭-巧技",
       "name": "66⚡️JP",
       "type": 3,
@@ -577,57 +438,11 @@
       "ext": "./mov/js/JP.js"
     },
     {
-      "key": "lltv_极速",
-      "name": "66⚡️JS",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "短剧",
-        "内地剧",
-        "香港剧",
-        "台湾剧",
-        "韩剧",
-        "日剧",
-        "马泰剧",
-        "欧美剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "战争片",
-        "爱情片",
-        "犯罪片",
-        "恐怖片",
-        "悬疑片",
-        "灾难片",
-        "剧情片",
-        "记录片",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
-    },
-    {
       "key": "lltv_金牌影视",
       "name": "66⚡️JY",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/金牌影视.js"
-    },
-    {
-      "key": "lltv_看客影视",
-      "name": "66⚡️KA",
-      "type": 3,
-      "api": "csp_Kanke",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "lltv_可可影视",
@@ -649,30 +464,14 @@
       "filterable": 1
     },
     {
-      "key": "lltv_快看",
-      "name": "66⚡KU",
+      "key": "lltv_良人影视",
+      "name": "66⚡️LR",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_AppGetApp",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "http://kkwk123.top/api.php/app/"
-    },
-    {
-      "key": "lltv_客星",
-      "name": "66⚡️KX",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "caHR0cDovLzIxMS45OS45OC40Nzo5OTk5L2FwaS50eHR8ZTQ2MWM3YzBlZjBiNmNkMXxlNDYxYzdjMGVmMGI2Y2QxfDEwNg=="
-    },
-     {
-      "key": "lltv_流光影视",
-      "name": "66⚡️LG",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/流光影视.json"
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgw6zCrcKpwqjDpsKcwpHCnsKXw6vDmMOowqbCq2ZhZ2fCqsKqwrDCscKsYcKTwp/Co8Knw5TDqsKmw6HCqMKRwp7Cl8Ozw5vDqcOuwqjCoMKpwqHCk8Olw6LDr8OdwqjClsKfwp1fw6XDnMObw6fDocKlwpXCnl7DrcOrw67CoMKmU1fCg8KZw63DmMOPw6vDplpqUFfCoMKfwprCoMOuwpzCoFdqwpnCmsOV5Ye+6YWi5o+Y5ZCTXOWGnOS+kOWRqsK05b+q6KmA6LW35ruA56yJwo3CoMKfwprCoMK7wpjCo3vClcOywprCtMKZwqF3ZsKhZ8Ohw53DnMKxwrF5emBpwr/CqsKxwqDCplNXccKVw6zCvMOwwqDCtFNXdGbDqsKqw6LDo8Oca2d2esKpwqzDgMKwwrFaXFBXw53DmMOdw6vDs8KjwqR7wpXDssKawrTCmcKhwqzCkcKfwqfDmsOhw6HCqcKrZWZXwq0="
     },
     {
       "key": "lltv_量子",
@@ -713,72 +512,6 @@
       ]
     },
     {
-      "key": "lltv_黑木耳-巧技",
-      "name": "66⚡️ME",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "经典片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "犯罪片",
-        "悬疑片",
-        "犯罪片",
-        "奇幻片",
-        "纪录片",
-        "歌舞片",
-        "同性片",
-        "网络电影",
-        "动画电影",
-        "国产剧",
-        "港剧",
-        "台剧",
-        "日剧",
-        "韩剧",
-        "泰剧",
-        "欧美剧",
-        "新马剧",
-        "其他剧",
-        "动画片",
-        "国产动漫",
-        "港台动漫",
-        "韩国动漫",
-        "日本动漫",
-        "欧美动漫",
-        "其他动漫",
-        "国产综艺",
-        "港台综艺",
-        "韩国综艺",
-        "日本综艺",
-        "欧美综艺",
-        "新马泰综艺",
-        "其他综艺"
-      ]
-    },
-    {
-      "key": "lltv_小米米兔",
-      "name": "66⚡MI",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_MiTuApp"
-    },
-    {
-      "key": "lltv_魔力高清",
-      "name": "66⚡️ML",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/魔力高清.js"
-    },
-    {
       "key": "lltv_梦米弹幕",
       "name": "66⚡️MM",
       "type": 3,
@@ -794,15 +527,6 @@
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
     {
-      "key": "lltv_南瓜影视",
-      "name": "66⚡️NG",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_闹闹",
       "name": "66⚡️NN",
       "type": 3,
@@ -812,44 +536,12 @@
       "ext": "caHR0cDovLzExMC40Mi4zLjE5NTo4OTg5fEQ2cTdoamI4N0ZKMDlGNzd8RDZxN2hqYjg3RkowOUY3Nw"
     },
     {
-      "key": "lltv_小苹果弹幕",
-      "name": "66⚡️PG",
-      "type": 3,
-      "api": "csp_Xpg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-          "danmu": true
-        }
-    },
-    {
       "key": "lltv_巧技",
       "name": "66⚡QJ",
       "type": 3,
       "playerType": 2,
       "api": "csp_qiao2",
       "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739517660808/cksp.txt"
-    },
-    {
-      "key": "lltv_洽洽影视",
-      "name": "66⚡️QQ",
-      "type": 3,
-      "api": "csp_AppGZ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
-    },
-    {
-      "key": "lltv_奇优影视",
-      "name": "66⚡️QY",
-      "type": 3,
-      "api": "csp_Qiyou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.dyxz2.com/"
     },
     {
       "key": "lltv_360弹幕-巧技-yytt",
@@ -864,21 +556,6 @@
         }
     },
     {
-      "key": "lltv_大师兄影视-天天-道长-运输车",
-      "name": "66⚡️SX",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/大师兄.json"
-    },
-    {
-      "key": "lltv_图图",
-      "name": "66⚡️TU",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_APPTT",
-      "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
-    },
-    {
       "key": "lltv_五五-天天-鸭",
       "name": "66⚡️WW",
       "type": 3,
@@ -887,6 +564,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/55.json"
+    },
+    {
+      "key": "lltv_星河",
+      "name": "66⚡️XH",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Muou",
+      "ext": "caHR0cHM6Ly9odC5tb3liay5jbnzphZLlrqLlvbHop4Z8NC4xLjg="
     },
     {
       "key": "lltv_修罗影视",
@@ -899,6 +584,16 @@
       "ext": "./mov/json/修罗影视.json"
     },
     {
+      "key": "lltv_云播影视",
+      "name": "66⚡️YB",
+      "type": 3,
+      "api": "csp_AppGetApp",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjal9fw6DDmMOuw5rDqsKjXsKkwqbDssOVw5vDqcOqYcKTwp/CncKow5TDqsOiwqjCo8KYwqBXwqXCk8Khw4LDqMKcwqTCh8Kfw6vDl8KhwrPCmlrCmcKewpnDrcOJwqvCqsKzWlxQV8Otw5zDqsKgwrRTV8KL5Ya16YWh5pCY5ZGdwqXlh6bkvYrlkKdq5b6h6Ki/6La35ryK562Sw5daXFBXwrrDmMOtw4TDn8KsV2pQwqDDoMOjw5zDpWVkZWjDpsOcw53DpMKsZ2VoV8KlwpPCocK6w5/CpnnCplfCs8KTwqHDpsOjwpbCm2Jkwq7Cq8Onw6LDncKeYmRlwrHCmsKmwpnCocKbwpXCkcKUw57DpcOtwqDCtFPCq1fCpcOsw5jDrMKmw5vCmsKVwp7CpMKgwq3CmsKgw4fCosKqwpnCnMOlw5TCqcKuwqhjUFjCh8Oiw6HDnsOow7HCplB+woTCmcKkwqrCp8KqblDCh8KZw6fCqcKuwrTCmsKrZmRZwpnCtMOqw6nDpsKYwofClcKSw4TDnMOuwqjCr2ZnXmPCr8KTwqLDhMOCwod9fFzCmcOfw6PDpMOfU3fClcKTw6TDosKjwpnCvcKbwqLCn8Kdw57CosKrwqrCrGFgXmDCp8KjwprDjMObwpnCkcKiwpnCqMKowq3CsMKoZmZXXMKZwprDm8Olw6bCosKnc8Kiw6jDpsOtw4nDrMKiwqTCn8KTw6jDn8OMw57DnsKcwqLClcKTw63DpsKhwrPCmsKHwqLCpcKVw7bCn8KawqDDnsKYwpPCosKpw6nDp8OFw57Ds1pqUFfDssOUw6nDsMObwqHCl2BhwqvCqcKhw7Y="
+    },
+    {
       "key": "lltv_永夜",
       "name": "66⚡️YE",
       "type": 3,
@@ -907,59 +602,12 @@
       "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44"
     },
     {
-      "key": "lltv_樱花影视",
-      "name": "66⚡YH",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/樱花影视.json"
-    },
-    {
-      "key": "lltv_小米眼镜",
-      "name": "66⚡YJ",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_AppYanjing"
-    },
-    {
-      "key": "lltv_永乐影视",
-      "name": "66⚡️YL",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/永乐影视.json"
-    },
-    {
-      "key": "lltv_玉米",
-      "name": "66⚡️YM",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Xdai",
-      "ext": "jaHR0cDovLzIxMS4xMDEuMjM3LjIyMDo3Nzg4L3lteXMudHh0fDF2ZmZzZGFzZGFzZGFzZDJ8MXZmZnNkYXNkYXNkYXNkMnwxMDU="
-    },
-    {
-      "key": "lltv_电影牛",
-      "name": "66⚡️YN",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/电影牛.json"
-    },
-    {
-      "key": "lltv_桜之空影视-欧歌",
-      "name": "66⚡️YY",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/樱之空2.json"
-    },
-    {
       "key": "lltv_优质-巧技",
       "name": "66⚡️YZ",
       "type": 3,
-      "api": "csp_Xdai",
       "playerType": 1,
-      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
+      "api": "csp_Xdai",
+      "ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
     },
     {
       "key": "lltv_追剧弹幕",
@@ -967,16 +615,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/追剧弹幕.js"
-    },
-    {
-      "key": "lltv_站长影视",
-      "name": "66⚡ZZ",
-      "type": 3,
-      "api": "csp_AppGetApp",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KdacOcw57CrMKxw6DCqmbCnmPDpsKow6XCsMKywpRhYMKUwqfDl8Ozw7LDtGVewpPCn8Omwq3Cr8KvwrJsX8KRwqDDosKhw6rDocOqVVxSecOnw5zDrsOQw6nCpcKUUmrCm8KVwqbCm8OuwpzCoFJqwpvDjuWHv+mFoeaQn+WQllzlhpzkvYflkbDCreW/q+iov+i2vua7g+esicKNUsKlwpXCu8Oew61+wpXCqVLCs8KVw57DssOzwq3CpMKmwpHDqcOcw5vDqcOqwqzCqcKUwqPCm8KfwpzCusOfwqZ5wqZSwrPClcOew7LDs8KtwqTCpsKRw6nDnMObw6nDqsKswqnClMKjwpvDsA=="
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
