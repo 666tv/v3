@@ -48,7 +48,7 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_农民影视",
+      "key": "lltv_农民糯米影视",
       "name": "66⭐Tvᴳᴶ",
       "type": 3,
       "api": "csp_Wwys",
@@ -266,13 +266,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-          "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
-        },
       "style": {
-            "type": "rect",
-            "ratio": 1.597
-        },
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
+      },
       "timeout": 10
     },
     {
@@ -284,9 +284,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-          "danmu": true,
-          "site": "aHR0cDovL3YubGt1eXMuY24="
-        }
+        "danmu": true,
+        "site": "aHR0cDovL3YubGt1eXMuY24="
+      }
     },
     {
       "key": "lltv_芒果弹幕",
@@ -311,9 +311,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-          "danmu": true,
-          "site": "aHR0cDovL3YucmJvdHYuY24="
-        }
+        "danmu": true,
+        "site": "aHR0cDovL3YucmJvdHYuY24="
+      }
     },
     {
       "key": "lltv_天天弹幕",
@@ -324,9 +324,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-          "danmu": true,
-          "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
-        }
+        "danmu": true,
+        "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
+      }
     },
     {
       "key": "lltv_腾讯弹幕",
@@ -551,6 +551,18 @@
       "ext": "caHR0cDovLzExMC40Mi4zLjE5NTo4OTg5fEQ2cTdoamI4N0ZKMDlGNzd8RDZxN2hqYjg3RkowOUY3Nw"
     },
     {
+      "key": "lltv_小苹果弹幕",
+      "name": "66⚡️PG",
+      "type": 3,
+      "api": "csp_Xpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
       "key": "lltv_巧技",
       "name": "66⚡QJ",
       "type": 3,
@@ -617,14 +629,6 @@
       "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjal9fw6DDmMOuw5rDqsKjXsKkwqbDssOVw5vDqcOqYcKTwp/CncKow5TDqsOiwqjCo8KYwqBXwqXCk8Khw4LDqMKcwqTCh8Kfw6vDl8KhwrPCmlrCmcKewpnDrcOJwqvCqsKzWlxQV8Otw5zDqsKgwrRTV8KL5Ya16YWh5pCY5ZGdwqXlh6bkvYrlkKdq5b6h6Ki/6La35ryK562Sw5daXFBXwrrDmMOtw4TDn8KsV2pQwqDDoMOjw5zDpWVkZWjDpsOcw53DpMKsZ2VoV8KlwpPCocK6w5/CpnnCplfCs8KTwqHDpsOjwpbCm2Jkwq7Cq8Onw6LDncKeYmRlwrHCmsKmwpnCocKbwpXCkcKUw57DpcOtwqDCtFPCq1fCpcOsw5jDrMKmw5vCmsKVwp7CpMKgwq3CmsKgw4fCosKqwpnCnMOlw5TCqcKuwqhjUFjCh8Oiw6HDnsOow7HCplB+woTCmcKkwqrCp8KqblDCh8KZw6fCqcKuwrTCmsKrZmRZwpnCtMOqw6nDpsKYwofClcKSw4TDnMOuwqjCr2ZnXmPCr8KTwqLDhMOCwod9fFzCmcOfw6PDpMOfU3fClcKTw6TDosKjwpnCvcKbwqLCn8Kdw57CosKrwqrCrGFgXmDCp8KjwprDjMObwpnCkcKiwpnCqMKowq3CsMKoZmZXXMKZwprDm8Olw6bCosKnc8Kiw6jDpsOtw4nDrMKiwqTCn8KTw6jDn8OMw57DnsKcwqLClcKTw63DpsKhwrPCmsKHwqLCpcKVw7bCn8KawqDDnsKYwpPCosKpw6nDp8OFw57Ds1pqUFfDssOUw6nDsMObwqHCl2BhwqvCqcKhw7Y="
     },
     {
-      "key": "lltv_永夜",
-      "name": "66⚡️YE",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_Muou",
-      "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44"
-    },
-    {
       "key": "lltv_玉米",
       "name": "66⚡️YM",
       "type": 3,
@@ -641,11 +645,12 @@
       "ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
     },
     {
-      "key": "lltv_桜之空影视-欧歌",
+      "key": "lltv_永夜",
       "name": "66⚡️YY",
       "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/樱之空2.json"
+      "playerType": 2,
+      "api": "csp_Muou",
+      "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44"
     },
     {
       "key": "lltv_追剧弹幕",
