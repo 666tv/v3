@@ -436,6 +436,14 @@
       "ext": "./mov/js/金牌影视.js"
     },
     {
+      "key": "lltv_剧评",
+      "name": "66⚡️JU",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Jpys",
+      "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
+    },
+    {
       "key": "lltv_可可影视",
       "name": "66⚡️KE",
       "type": 3,
