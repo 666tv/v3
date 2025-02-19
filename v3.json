@@ -198,7 +198,7 @@
       "name": "66💙虎牙直播",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/虎牙直播.js",
+      "ext": "./mov/js/虎牙直播.js",
       "style": {
           "type": "rect",
           "ratio": 1.597
