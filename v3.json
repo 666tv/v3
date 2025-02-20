@@ -174,12 +174,12 @@
       "name": "66💙哔哩直播",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/哔哩直播.js"
+      "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/哔哩直播.js",
+      "style": {
+            "type": "rect",
+            "ratio": 1.597
+        }
     },
-    
     {
       "key": "lltv_快手直播-天天",
       "name": "66💙快手直播",
@@ -208,21 +208,12 @@
       "key": "lltv_斗鱼-天天-菜妮丝-FM-运输车-鸭",
       "name": "66💙斗鱼直播",
       "type": 3,
-      "playerType": 1,
       "api": "./js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/斗鱼直播.js"
-    },
-    {
-      "key": "lltv_虎牙-天天-道长-ok-鸭",
-      "name": "66💙虎牙直播",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/虎牙直播.js"
+      "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/斗鱼直播.js",
+      "style": {
+            "type": "rect",
+            "ratio": 1.597
+        }
     },
     {
       "key": "lltv_抖音",
@@ -237,21 +228,6 @@
           "type": "rect",
           "ratio": 1.597
       }
-    },
-    {
-      "key": "lltv_斗鱼直播",
-      "name": "66💙斗鱼直播",
-      "type": 3,
-      "api": "csp_AmuDouYu",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-          "type": "rect",
-          "ratio": 1.597
-        },
-      "ext": "./mov/json/斗鱼直播.json"
     },*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
