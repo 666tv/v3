@@ -118,7 +118,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/666tv/66/main/mov/json/企鹅体育.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/json/企鹅体育.json"
     },
     */
     {
@@ -176,7 +176,7 @@
       "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/666tv/66/main/mov/js/哔哩直播.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/js/哔哩直播.js",
       "style": {
             "type": "rect",
             "ratio": 1.597
@@ -202,7 +202,7 @@
       "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/666tv/66/main/mov/js/虎牙直播.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/js/虎牙直播.js",
       "style": {
           "type": "rect",
           "ratio": 1.597
@@ -213,7 +213,9 @@
       "name": "66💙斗鱼直播",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/666tv/66/main/mov/js/斗鱼直播.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/js/斗鱼直播.js",
       "style": {
             "type": "rect",
             "ratio": 1.597
@@ -269,14 +271,14 @@
       "name": "66⚡️MG弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/666tv/66/main/mov/js/芒果弹幕.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/js/芒果弹幕.js"
     },
     {
       "key": "lltv_爱奇异弹幕",
       "name": "66⚡️QY弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/666tv/66/main/mov/js/爱奇艺弹幕.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/js/爱奇艺弹幕.js"
     },
     {
       "key": "lltv_热播弹幕",
@@ -309,7 +311,7 @@
       "name": "66⚡️TX弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/666tv/66/main/mov/js/腾讯弹幕.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/js/腾讯弹幕.js"
     },
     {
       "key": "lltv_文才弹幕",
@@ -328,7 +330,7 @@
       "name": "66⚡️YK弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/666tv/66/main/mov/js/优酷弹幕.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/js/优酷弹幕.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -1368,7 +1370,7 @@
       "type": 0,
       "playerType": 1,
       "url": "https://gitee.com/ll8000/iptv/raw/master/output/66tv_result.txt",
-      //"url": "https://ghfast.top/https://raw.githubusercontent.com/666tv/iptv/master/output/66tv_result.txt",
+      //"url": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/iptv/master/output/66tv_result.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "timeout": 10
