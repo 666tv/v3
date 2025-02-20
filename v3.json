@@ -583,6 +583,16 @@
       "ext": "caHR0cHM6Ly9odC5tb3liay5jbnzphZLlrqLlvbHop4Z8NC4xLjg="
     },
     {
+      "key": "lltv_修罗影视",
+      "name": "66⚡️XL",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./mov/json/修罗影视.json"
+    },
+    {
       "key": "lltv_云播影视",
       "name": "66⚡️YB",
       "type": 3,
@@ -825,6 +835,15 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/大师兄.json"
+    },
+    {
+      "key": "lltv_迅雷吧",
+      "name": "(GD)66⚡️XL",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_桜之空影视-欧歌",
