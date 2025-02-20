@@ -265,14 +265,14 @@
       "name": "66⚡️MG弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/芒果弹幕.js"
+      "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/芒果弹幕.js"
     },
     {
       "key": "lltv_爱奇异弹幕",
       "name": "66⚡️QY弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/爱奇艺弹幕.js"
+      "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/爱奇艺弹幕.js"
     },
     {
       "key": "lltv_热播弹幕",
@@ -305,7 +305,7 @@
       "name": "66⚡️TX弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/腾讯弹幕.js"
+      "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/腾讯弹幕.js"
     },
     {
       "key": "lltv_文才弹幕",
@@ -324,7 +324,7 @@
       "name": "66⚡️YK弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/优酷弹幕.js"
+      "ext": "https://raw.gitmirror.com/666tv/66/main/mov/js/优酷弹幕.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
