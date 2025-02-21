@@ -649,6 +649,13 @@
       "quickSearch": 0
     },
     {
+      "key": "lltv_素白白",
+      "name": "(GD)66⚡️BB",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/素白白.js"
+    },
+    {
       "key": "lltv_厂长弹幕",
       "name": "(GD)66⚡️CZ",
       "type": 3,
@@ -659,6 +666,23 @@
       "ext": {
           "danmu": true
         }
+    },
+    {
+      "key": "lltv_小米电影",
+      "name": "(GD)66⚡️DY",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_MovieApp"
+    },
+    {
+      "key": "lltv_瓜子影视",
+      "name": "(GD)66⚡️GZ",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_HH采集",
@@ -698,6 +722,13 @@
         "日韩综艺",
         "欧美综艺"
       ]
+    },
+    {
+      "key": "lltv_海纳影视",
+      "name": "(GD)66⚡️HN",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/海纳影视.json"
     },
     {
       "key": "lltv_追剧迷",
@@ -847,6 +878,15 @@
       "name": "(GD)66⚡️XL",
       "type": 3,
       "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_樱花影视",
+      "name": "(GD)66⚡YH",
+      "type": 3,
+      "api": "csp_Lggys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
