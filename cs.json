@@ -19,7 +19,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./mov/js/douban.js"
+      "ext": "./js/douban.js"
     },
     {
       "key": "lltv_DB2-MaoTv",
