@@ -19,7 +19,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./mov/js/douban.js"
+      "ext": "./js/豆瓣.js"
     },
     {
       "key": "lltv_豆瓣预告",
