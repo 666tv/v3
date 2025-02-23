@@ -16,9 +16,10 @@
       "name": "👇长按主页刷新资源•推荐电信网络",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
       "ext": "./js/豆瓣.js"
     },
     {
