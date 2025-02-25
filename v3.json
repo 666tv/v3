@@ -918,6 +918,15 @@
       "ext": "./mov/json/电影牛.json"
     },
     {
+      "key": "lltv_真心-天天",
+      "name": "(GD)66⚡️ZX",
+      "type": 3,
+      "api": "csp_WebGZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_站长影视",
       "name": "(GD)66⚡ZZ",
       "type": 3,
