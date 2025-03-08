@@ -441,6 +441,17 @@
       "ext": "https://cs.hgyx.vip/api2/api.php/app/"
     },
     {
+      "key": "lltv_狐狸君",
+      "name": "66⚡HL",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./mov/json/狐狸君.json"
+    },
+    {
       "key": "lltv_荐片",
       "name": "66⚡️JP",
       "type": 3,
@@ -629,6 +640,14 @@
       "quickSearch": 1
     },
     {
+      "key": "lltv_油条",
+      "name": "66⚡YT",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Muou",
+      "ext": "caHR0cDovL3UzYS50dHhnenMuY2585LyY5LyY5YWUfDQuMS45"
+    },
+    {
       "key": "lltv_永夜",
       "name": "66⚡️YY",
       "type": 3,
@@ -659,6 +678,20 @@
       "api": "",
       "searchable": 0,
       "quickSearch": 0
+    },
+    {
+      "key": "lltv_农民影视",
+      "name": "(GD)66⚡Tvᴳᴶ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/农民影视.json"
+    },
+    {
+      "key": "lltv_秀儿影视",
+      "name": "(GD)66⚡ER",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/秀儿影视.json"
     },
     {
       "key": "lltv_厂长弹幕",
