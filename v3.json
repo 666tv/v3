@@ -694,7 +694,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./mov/json/百思派.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/百思派.json"
     },
     {
       "key": "lltv_秀儿影视",
