@@ -185,7 +185,7 @@
       "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/js/哔哩直播.js",
+      "ext": "./mov/zbdm/哔哩直播.js",
       "style": {
             "type": "rect",
             "ratio": 1.597
@@ -211,7 +211,7 @@
       "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/js/虎牙直播.js",
+      "ext": "./mov/zbdm/虎牙直播.js",
       "style": {
           "type": "rect",
           "ratio": 1.597
@@ -224,7 +224,7 @@
       "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/js/斗鱼直播.js",
+      "ext": "./mov/zbdm/斗鱼直播.js",
       "style": {
             "type": "rect",
             "ratio": 1.597
@@ -280,14 +280,14 @@
       "name": "66⚡️MG弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/js/芒果弹幕.js"
+      "ext": "./mov/zbdm/芒果弹幕.js"
     },
     {
       "key": "lltv_爱奇异弹幕",
       "name": "66⚡️QY弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/js/爱奇艺弹幕.js"
+      "ext": "./mov/zbdm/爱奇艺弹幕.js"
     },
     {
       "key": "lltv_热播弹幕",
@@ -320,7 +320,7 @@
       "name": "66⚡️TX弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/js/腾讯弹幕.js"
+      "ext": "./mov/zbdm/腾讯弹幕.js"
     },
     {
       "key": "lltv_文才弹幕",
@@ -339,7 +339,7 @@
       "name": "66⚡️YK弹幕",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/js/优酷弹幕.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/v3/main/mov/zbdm/优酷弹幕.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
