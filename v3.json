@@ -127,7 +127,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/666tv/66/main/mov/json/企鹅体育.json"
+      "ext": "./mov/json/企鹅体育.json"
     },
     */
     {
