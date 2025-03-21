@@ -34,40 +34,77 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_追剧网-公子",
-      "name": "66⚡️ZJ",
+      "key": "lltv_DBYGP",
+      "name": "66⚡️预告",
       "type": 3,
+      "playerType": 2,
       "api": "csp_XBPQ",
+      "searchable": 0,
+      "ext": "./mov/json/豆瓣预告.json"
+    },
+    {
+      "key": "lltv_农民影视-讴歌",
+      "name": "66⭐Tvᴳᴶ讴歌",
+      "type": 3,
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-            "副标题": "66tv",
-            "线路标题": "66tv",
-            "分类url": "https://www.njshunma.com/vodtype/{cateId}/page/{catePg}.html",
-            "分类": "全网短剧&电影&电视剧&动漫&综艺&动画片&邵氏电影&电影解说",
-            "分类值": "41&1&2&4&3&37&38&39"
+      "ext": "./mov/json/nmys.json"
+    },
+    {
+      "key": "lltv_农民影视-小米",
+      "name": "66⭐Tvᴳᴶ小米",
+      "type": 3,
+      "api": "csp_Wwys",
+      "jar": "./jar/xm.jar",
+      "ext": "https://www.wwgz.cn"
+    },
+    {
+      "key": "lltv_JP-道长-天天-鸭-巧技",
+      "name": "66⚡️JP",
+      "type": 3,
+      "playerType": 1,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/JP.js"
+    },
+    {
+      "key": "lltv_企鹅-荷城-鸭-饭",
+      "name": "66❤️体育",
+      "type": 3,
+      "api": "csp_XPath",
+      "jar": "./jar/66tv240812.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./mov/zbdm/企鹅体育.json"
+    },
+    {
+      "key": "lltv_斗鱼-天天-菜妮丝-FM-运输车-鸭",
+      "name": "66💙斗鱼直播",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "./mov/zbdm/斗鱼直播.js",
+      "style": {
+            "type": "rect",
+            "ratio": 1.597
+        }
+    },
+    {
+      "key": "lltv_抖音",
+      "name": "66💙抖音直播",
+      "type": 3,
+      "api": "csp_AmuDouYin",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+          "type": "rect",
+          "ratio": 1.597
       }
-    },
-    {
-      "key": "csp_DUODUO",
-      "name": "💨多多┃1080P",
-      "type": 3,
-      "api": "csp_MITU2",
-      "jar": "./jar/qiaoji.jar",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn6HTjU76bdvB3up+9CiGGVZHR3fM8KlJPXSneStHrC+DgWIxl9G+rM70oCwdQkorhrIzUoY/hqgTn/n8VXBDfMYYJQXjRv4wnyIB9zbV+McOQuf9XquqTIYCrvZq2K/XN8gy3u6uGRNLRlVrwt2esQ5pwE+Y8C3ts7ivRub9bEpuB7nN4tthfe6L4f4RdQDHpA==",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "世纪",
-      "name": "世纪┃App",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_Drama",
-      "jar": "./jar/qiaoji.jar",
-      "ext": "saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUa3wyMQ=="
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
