@@ -1478,7 +1478,7 @@
     {
       "name": "天天开心",
       "type": 0,
-      "url": "https://wget.la/https://raw.githubusercontent.com/666tv/66/refs/heads/main/live.txt",
+      "url": "https://git.acwing.com/66tv/v3/-/raw/main/kx2024.txt",
       "ua": "okhttp/3",
       "playerType": 2,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
