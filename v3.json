@@ -415,6 +415,14 @@
       "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
     },
     {
+      "key": "lltv_光速",
+      "name": "66⚡️GS",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Xdai",
+      "ext": "jaHR0cDovLzU5LjE1My4xNjcuMTM3Ojg4OTl8NGQ4M2I4N2M0YzVlYTExMXw0ZDgzYjg3YzRjNWVhMTExfDQ2Mg=="
+    },
+    {
       "key": "lltv_蝴蝶-巧技",
       "name": "66⚡️HD",
       "type": 3,
@@ -494,6 +502,14 @@
       "filterable": 1
     },
     {
+      "key": "lltv_莉莉",
+      "name": "66⚡️LL",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Xdai",
+      "ext": "jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NDk0ODA4MDgwbGdneXNjb3w0OTQ4MDgwODBsZ2d5c2NvfDY2Ng=="
+    },
+    {
       "key": "lltv_量子采集",
       "name": "66⚡️LZ",
       "type": 1,
@@ -546,6 +562,14 @@
       "playerType": 1,
       "api": "csp_Xdai",
       "ext": "jaHR0cDovL3BweC5iangzNjUudG9wfHBpcGl4aWEyMTc1MjIzMjR8cGlwaXhpYTIxNzUyMjMyNHw1MDY="
+    },
+    {
+      "key": "lltv_起点",
+      "name": "66⚡️QD",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Xdai",
+      "ext": "jaHR0cDovL2NhaWppLm8wYS5jbnw3MGZkNjFkOTkxZjQzMjU3fDcwZmQ2MWQ5OTFmNDMyNTd8MTAw"
     },
     {
       "key": "lltv_七新影视",
@@ -624,6 +648,14 @@
       "playerType": 2,
       "api": "csp_Muou",
       "ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="
+    },
+    {
+      "key": "lltv_优秀",
+      "name": "66⚡YX",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Xdai",
+      "ext": "jaHR0cDovL2FpLnhpYW95dW4uaW5rfEtMckZxU2ptYzRPSWo3NkJ8S0xyRnFTam1jNE9Jajc2QnwzMDA="
     },
     {
       "key": "lltv_优质-巧技",
@@ -813,6 +845,14 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "http://kkwk123.top/api.php/app/"
+    },
+    {
+      "key": "lltv_米兔",
+      "name": "(GD)66⚡️MT",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly93d3cuempjLmFwcHxhYjRlOWE0MjE2NzVmMTRifGFiNGU5YTQyMTY3NWYxNGJ8NDQy"
     },
     {
       "key": "lltv_黑木耳采集-巧技",
