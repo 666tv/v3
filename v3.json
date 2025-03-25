@@ -49,32 +49,12 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_农民影视-讴歌",
-      "name": "66⭐Tvᴳᴶ",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/nmys.json"
-    },
-    /*
-    {
       "key": "lltv_农民影视",
       "name": "66⭐Tvᴳᴶ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/农民影视.json"
     },
-    {
-      "key": "lltv_农民影视-小米",
-      "name": "66⭐Tvᴳᴶ",
-      "type": 3,
-      "api": "csp_Wwys",
-      "jar": "./jar/xm.jar",
-      "ext": "https://www.wwgz.cn"
-    },
-    */
     {
       "key": "lltv_韩小圈",
       "name": "66⭐Tvᴴᴶ",
