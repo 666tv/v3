@@ -86,17 +86,6 @@
       "ext": "./mov/json/pan1.json?"
     },
     {
-      "key": "lltv_欧哥",
-      "name": "4K_OG⭐配置中心登录夸克",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./mov/json/og.json?"
-    },
-    {
       "key": "lltv_闪电",
       "name": "4K_SD⭐配置中心登录UC",
       "type": 3,
@@ -106,6 +95,21 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "./mov/json/sd.json?"
+    },
+    {
+      "key": "lltv_雷鲸",
+      "name": "4K_TY⭐配置中心登录天翼",
+      "type": 3,
+      "api": "csp_PanWebShareCloudLJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+            "type": "rect",
+            "ratio": 1.433
+        },
+      "ext": "./json/lj.json?"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
