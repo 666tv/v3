@@ -122,13 +122,13 @@
       "ext": "./mov/zbdm/企鹅体育.json"
     },
     {
-      "key": "lltv_斗鱼-天天-菜妮丝-FM-运输车-鸭",
-      "name": "66💙斗鱼直播",
+      "key": "lltv_Bili-道长-鸭",
+      "name": "66💙哔哩直播",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "./mov/zbdm/斗鱼直播.js",
+      "ext": "./mov/zbdm/哔哩直播.js",
       "style": {
             "type": "rect",
             "ratio": 1.597
