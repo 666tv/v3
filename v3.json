@@ -71,7 +71,7 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "Pan1",
+      "key": "lltv_Pan1",
       "name": "4K_123⭐配置中心登录123",
       "type": 3,
       "api": "csp_PanWebShareCloudHM",
@@ -86,7 +86,7 @@
       "ext": "./mov/json/pan1.json?"
     },
     {
-      "key": "欧哥",
+      "key": "lltv_欧哥",
       "name": "4K_OG⭐配置中心登录夸克",
       "type": 3,
       "api": "csp_PanWebShare",
@@ -97,7 +97,7 @@
       "ext": "./mov/json/og.json?"
     },
     {
-      "key": "闪电",
+      "key": "lltv_闪电",
       "name": "4K_SD⭐配置中心登录UC",
       "type": 3,
       "api": "csp_PanWebShare",
