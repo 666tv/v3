@@ -32,7 +32,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_DBYGP",
       "name": "66⚡️预告",
@@ -41,6 +40,14 @@
       "api": "csp_XBPQ",
       "searchable": 0,
       "ext": "./mov/json/豆瓣预告.json"
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "lltv_农民影视",
+      "name": "66⭐Tvᴳᴶ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/农民影视.json"
     },
     {
       "key": "lltv_农民影视-讴歌",
@@ -59,6 +66,16 @@
       "api": "csp_Wwys",
       "jar": "./jar/xm.jar",
       "ext": "https://www.wwgz.cn"
+    },
+    {
+      "key": "lltv_韩小圈",
+      "name": "66⭐Tvᴴᴶ",
+      "type": 3,
+      "api": "csp_HanXiaoQuan",
+      "jar": "./jar/ttkx250331.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_JP-道长-天天-鸭-巧技",
@@ -104,6 +121,45 @@
       "style": {
           "type": "rect",
           "ratio": 1.597
+      }
+    },
+    {
+      "key": "lltv_浪酷弹幕",
+      "name": "66⚡️LK弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YubGt1eXMuY24="
+      }
+    },
+    {
+      "key": "lltv_热播弹幕",
+      "name": "66⚡️RB弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YucmJvdHYuY24="
+      }
+    },
+    {
+      "key": "lltv_天天弹幕",
+      "name": "66⚡️TT弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
       }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
