@@ -21,30 +21,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "lltv_黑木耳短剧-巧技",
-      "name": "黑木耳┃短剧",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "虐恋短剧",
-        "逆袭短剧",
-        "悬疑短剧",
-        "神豪短剧",
-        "重生短剧",
-        "复仇短剧",
-        "穿越短剧",
-        "甜宠短剧",
-        "强者短剧",
-        "萌宝短剧",
-        "合集短剧",
-        "古装短剧",
-        "其它短剧"
-      ]
-    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_星芽短剧",
@@ -66,23 +42,6 @@
       "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
     },
     {
-      "key": "吉吉短剧",
-      "name": "吉吉┃短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./duanju/JJDJ.json"
-    },
-    {
-      "key": "lltv_爱我短剧",
-      "name": "爱我┃短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./duanju/AWDJ.json"
-    },
-    {
       "key": "lltv_短剧网",
       "name": "短剧网┃短剧",
       "type": 3,
@@ -100,16 +59,6 @@
       "ext": "./duanju/DJW.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
-      "key": "lltv_爱你短剧-天天",
-      "name": "爱你┃短剧",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./duanju/爱你短剧.json"
-    },
     /*{
       "key": "lltv_河马短剧-天天",
       "name": "河马┃短剧",
