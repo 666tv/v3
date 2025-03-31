@@ -83,7 +83,7 @@
             "type": "rect",
             "ratio": 1.433
         },
-      "ext": "./mov/4k/pan1.json?"
+      "ext": "./mov/json/pan1.json?"
     },
     {
       "key": "欧哥",
@@ -94,7 +94,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./mov/4k/og.json?"
+      "ext": "./mov/json/og.json?"
     },
     {
       "key": "闪电",
@@ -105,7 +105,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./mov/4k/sd.json?"
+      "ext": "./mov/json/sd.json?"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
