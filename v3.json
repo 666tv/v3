@@ -145,19 +145,6 @@
         }
     },
     /*{
-      "key": "lltv_武享吧",
-      "name": "66❤️格斗",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./mov/js/WXB.js",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
       "key": "lltv_企鹅-荷城-鸭-饭",
       "name": "66❤️体育",
       "type": 3,
@@ -167,7 +154,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./mov/zbdm/企鹅体育.json"
-    },
+    },*/
     {
       "key": "lltv_哔哩哔哩小品",
       "name": "66❤️小品",
@@ -201,7 +188,20 @@
           "type": "rect",
           "ratio": 1.597
         }
-    },*/
+    },
+    {
+      "key": "lltv_武享吧",
+      "name": "66❤️格斗",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./mov/js/WXB.js",
+      "style": {
+        "type": "list"
+      }
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_斗鱼-天天-菜妮丝-FM-运输车-鸭",
