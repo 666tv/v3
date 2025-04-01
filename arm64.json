@@ -120,7 +120,7 @@
       "jar": "./jiaoyu/jy2.jar",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 07,
+      "filterable": 0,
       "ext": "./jiaoyu/哔哩学堂.json"
     },
     {
