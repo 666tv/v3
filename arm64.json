@@ -29,12 +29,22 @@
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/66tv240812.jar",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/zbdm/哔哩音乐.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "lltv_韩小圈",
+      "name": "66⭐Tvᴴᴶ",
+      "type": 3,
+      "api": "csp_HanXiaoQuan",
+      "jar": "./jar/spider250321.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "lltv_荐片",
       "name": "66⚡️Tvᴶᴾ",
@@ -47,15 +57,6 @@
       "ext": {
         "danmu": false
       }
-    },
-    {
-      "key": "lltv_瓜子影视",
-      "name": "66⚡️Tvᴷᴴ",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "lltv_农民影视",
