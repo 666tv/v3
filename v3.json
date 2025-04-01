@@ -113,6 +113,24 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_哔哩合集",
+      "name": "66❤️哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+            "type": "rect",
+            "ratio": 1.433
+        },
+      "ext": {
+      "json": "./mov/json/哔哩合集.json",
+      "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+        }
+    },
+    {
       "key": "lltv_哔哩MV",
       "name": "66❤️MV",
       "type": 3,
@@ -135,22 +153,17 @@
       "ext": "./mov/zbdm/哔哩音乐.json"
     },
     {
-      "key": "lltv_哔哩合集",
-      "name": "66❤️哔哩",
+      "key": "lltv_武享吧",
+      "name": "66❤️格斗",
       "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
+      "filterable": 1,
+      "ext": "./mov/js/WXB.js",
       "style": {
-            "type": "rect",
-            "ratio": 1.433
-        },
-      "ext": {
-      "json": "./mov/json/哔哩合集.json",
-      "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-        }
+        "type": "list"
+      }
     },
     {
       "key": "lltv_88看球",
@@ -208,19 +221,6 @@
           "ratio": 1.597
         }
     },*/
-    {
-      "key": "lltv_武享吧",
-      "name": "66❤️格斗",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./mov/js/WXB.js",
-      "style": {
-        "type": "list"
-      }
-    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_斗鱼-天天-菜妮丝-FM-运输车-鸭",
