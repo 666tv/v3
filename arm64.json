@@ -111,16 +111,16 @@
       "filterable": 0
     },
 //教育~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  jy.jar/pg.jar
+//以下需适配  66tv240812.jar
     {
       "key": "lltv_哔哩学堂",
       "name": "哔哩┃学堂",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/66tv240812.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "./jiaoyu/哔哩学堂.json"
     },
     {
