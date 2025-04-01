@@ -113,26 +113,8 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_哔哩合集",
-      "name": "66❤️哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-            "type": "rect",
-            "ratio": 1.433
-        },
-      "ext": {
-      "json": "./mov/json/哔哩合集.json",
-      "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-        }
-    },
-    {
       "key": "lltv_哔哩MV",
-      "name": "66❤️MV",
+      "name": "66❤️Mv",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/66tv240812.jar",
@@ -143,7 +125,7 @@
     },
     {
       "key": "lltv_哔哩音乐",
-      "name": "66❤️音乐",
+      "name": "66❤️Music",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/66tv240812.jar",
@@ -153,6 +135,16 @@
       "ext": "./mov/zbdm/哔哩音乐.json"
     },
     {
+      "key": "lltv_88看球",
+      "name": "66❤️Sports",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 0,
+      "style": {
+            "type": "list"
+        }
+    },
+    /*{
       "key": "lltv_武享吧",
       "name": "66❤️格斗",
       "type": 3,
@@ -166,16 +158,6 @@
       }
     },
     {
-      "key": "lltv_88看球",
-      "name": "66❤️看球",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 0,
-      "style": {
-            "type": "list"
-        }
-    },
-    {
       "key": "lltv_企鹅-荷城-鸭-饭",
       "name": "66❤️体育",
       "type": 3,
@@ -186,7 +168,6 @@
       "filterable": 1,
       "ext": "./mov/zbdm/企鹅体育.json"
     },
-    /*
     {
       "key": "lltv_哔哩哔哩小品",
       "name": "66❤️小品",
