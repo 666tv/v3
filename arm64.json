@@ -10,7 +10,76 @@
 "logo": "https://gitee.com/lltv/by/raw/main/logo.png",
 
 "sites": [
-
+    
+    {
+      "key": "lltv_豆瓣推荐",
+      "name": "👇长按主页刷新资源•推荐电信网络",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    {
+      "key": "lltv_豆瓣预告",
+      "name": "66⚡️新片预告",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 0
+    },
+    {
+      "key": "lltv_配置中心",
+      "name": "配置⚙️中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+            "type": "rect",
+            "ratio": 1.597
+        }
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "lltv_Pan1",
+      "name": "4K_123⭐配置中心登录123",
+      "type": 3,
+      "api": "csp_PanWebShareCloudHM",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+            "type": "rect",
+            "ratio": 1.433
+        },
+      "ext": "./mov/json/pan1.json?"
+    },
+    {
+      "key": "lltv_雷鲸",
+      "name": "4K_TY⭐配置中心登录天翼",
+      "type": 3,
+      "api": "csp_PanWebShareCloudLJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+            "type": "rect",
+            "ratio": 1.433
+        },
+      "ext": "./mov/json/lj.json?"
+    },
+    {
+      "key": "lltv_闪电",
+      "name": "4K_UC⭐配置中心登录UC",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./mov/json/sd.json?"
+    },
 //教育~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  jy.jar/pg.jar
     {
