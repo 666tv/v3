@@ -44,33 +44,6 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_农民影视",
-      "name": "66⭐Tvᴳᴶ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/农民影视.json"
-    },
-    {
-      "key": "lltv_韩小圈",
-      "name": "66⭐Tvᴴᴶ",
-      "type": 3,
-      "api": "csp_HanXiaoQuan",
-      "jar": "./jar/spider250321.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_美剧天堂",
-      "name": "66⭐Tvᴹᴶ",
-      "type": 3,
-      "api": "csp_MeijuTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
       "key": "lltv_Pan1",
       "name": "4K_123⭐配置中心登录123",
       "type": 3,
@@ -110,6 +83,33 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "./mov/json/sd.json?"
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "lltv_农民影视",
+      "name": "66⭐Tvᴳᴶ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/农民影视.json"
+    },
+    {
+      "key": "lltv_韩小圈",
+      "name": "66⭐Tvᴴᴶ",
+      "type": 3,
+      "api": "csp_HanXiaoQuan",
+      "jar": "./jar/spider250321.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_美剧天堂",
+      "name": "66⭐Tvᴹᴶ",
+      "type": 3,
+      "api": "csp_MeijuTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -409,6 +409,15 @@
       "ext": "jaHR0cDovLzU5LjE1My4xNjcuMTM3Ojg4OTl8NGQ4M2I4N2M0YzVlYTExMXw0ZDgzYjg3YzRjNWVhMTExfDQ2Mg=="
     },
     {
+      "key": "lltv_瓜子影视",
+      "name": "66⚡️GZ",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_蝴蝶-巧技",
       "name": "66⚡️HD",
       "type": 3,
@@ -652,15 +661,6 @@
       "ext": {
           "danmu": true
         }
-    },
-    {
-      "key": "lltv_瓜子影视",
-      "name": "(GD)66⚡️GZ",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "lltv_HH采集",
