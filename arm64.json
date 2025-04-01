@@ -82,24 +82,24 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_浪酷弹幕",
-      "name": "66⚡️LK",
+      "key": "lltv_荐片",
+      "name": "66⚡️JP",
       "type": 3,
-      "api": "csp_AppRJ",
+      "playerType": 1,
+      "api": "csp_Jianpian",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://v.lkuys.cn"
+      "filterable": 1,
+      "ext": {
+        "danmu": false
+      }
     },
     {
-      "key": "lltv_糯米影视",
-      "name": "66⚡️NM",
+      "key": "lltv_农民影视",
+      "name": "66⭐NM",
       "type": 3,
-      "api": "csp_WebNM",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKawqpewpPDp8KawqbCmcKhwqfCmcKgV8KzwpPCocOU5Ye/6YSb5o+V5ZCTXOWHpeS+iuWRscKz5b+r6Ke56LW05ruA56yJw5bCmsKmwpnCocKXwpXCk8Kiw7LDo8Ouw4TDn8KsV2pQwqDDqsOvw7LDo2lmZlfDtg=="
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/农民影视.json"
     },
     {
       "key": "lltv_热播影视",
@@ -117,10 +117,10 @@
       "name": "哔哩┃学堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jiaoyu/jy.jar",
-      "searchable": 1,
+      "jar": "./jiaoyu/jy2.jar",
+      "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1,
+      "filterable": 07,
       "ext": "./jiaoyu/哔哩学堂.json"
     },
     {
