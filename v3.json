@@ -135,6 +135,24 @@
       "ext": "./mov/zbdm/哔哩音乐.json"
     },
     {
+      "key": "lltv_哔哩合集",
+      "name": "66❤️哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+            "type": "rect",
+            "ratio": 1.433
+        },
+      "ext": {
+      "json": "./mov/json/哔哩合集.json",
+      "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+        }
+    },
+    {
       "key": "lltv_88看球",
       "name": "66❤️看球",
       "type": 3,
@@ -144,7 +162,6 @@
             "type": "list"
         }
     },
-    /*
     {
       "key": "lltv_企鹅-荷城-鸭-饭",
       "name": "66❤️体育",
@@ -156,7 +173,7 @@
       "filterable": 1,
       "ext": "./mov/zbdm/企鹅体育.json"
     },
-    */
+    /*
     {
       "key": "lltv_哔哩哔哩小品",
       "name": "66❤️小品",
@@ -190,7 +207,7 @@
           "type": "rect",
           "ratio": 1.597
         }
-    },
+    },*/
     {
       "key": "lltv_武享吧",
       "name": "66❤️格斗",
@@ -593,6 +610,14 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgw6zCrcKpwqjDs8KXwqnCo8KUw7LDocObw6bDo8KWwpTCn8Kdw5rDnMOow6fDm8KgwpVeZsKxwqHDocOywrRkYGZnwrHCosOdwrLDp2XCmsKjYsKywqvDssKxwqzCm2ZfwpzCssOgwrLDm8OyZWPCmmLDqMKlw6rCssOrYsKUwqnCnsOaw6DDo8Ocw57CosKdwpHCmcOnw6HDm8Omw59hwqTCqMKkwqDCn8KawqDDjcKcwqTClcKFw6vDn8KhwrPCmlpXXFDCoMK8w6jDosOuworCn8KiwpTCoMKtwprCoMOjwqHCmcKkwobCqsKkwrPCoMKmU1fCpMKZw6nCmsK0wpnCocKO5Ya16YSY5o+V5ZGcwp/lh6bkvpDlkbFt5b6h6Ke26LW05ryJ562Mw5fCoMKmU1dxwpXDrMK+w5/DssKhbVBXwpvCssOiwq3DqcKswpZowpJnw6bCpsO0wqnDqWtXXFDCoMK0w5/DrMODwqlXalDCoMOewrPDqMKtwqNiwpNow5vCqsOnwqzDtGPCn2hXwqXCk8Khw53Dn8KWwqLCqcKgw63CvsOfw7LCoW1QV8Knw67DrMOjwq/CsGlXwq0="
+    },
+    {
+      "key": "lltv_优秀",
+      "name": "66⚡️YX",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cDovL2FpLnhpYW95dW4uaW5rfEtMckZxU2ptYzRPSWo3NkJ8S0xyRnFTam1jNE9Jajc2QnwzMDA="
     },
     {
       "key": "lltv_追剧弹幕",
