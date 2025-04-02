@@ -260,13 +260,14 @@
       "name": "66⚡️LK弹幕",
       "type": 3,
       "api": "csp_TianTian",
+      "jar": "./jar/spider250321.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true,
-        "site": "aHR0cDovL3YubGt1eXMuY24="
-      }
+          "danmu": true,
+          "site": "aHR0cDovL3YubGt1eXMuY24="
+        }
     },
     {
       "key": "lltv_糯米影视",
@@ -279,35 +280,32 @@
       "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKawqpewpPDp8KawqbCmcKhwqfCmcKgV8KzwpPCocOU5Ye/6YSb5o+V5ZCTXOWHpeS+iuWRscKz5b+r6Ke56LW05ruA56yJw5bCmsKmwpnCocKXwpXCk8Kiw7LDo8Ouw4TDn8KsV2pQwqDDqsOvw7LDo2lmZlfDtg=="
     },
     {
-      "key": "lltv_热播影视",
+      "key": "lltv_热播弹幕",
       "name": "66⚡️RB弹幕",
       "type": 3,
       "api": "csp_TianTian",
+      "jar": "./jar/spider250321.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true,
-        "site": "aHR0cDovL3YucmJvdHYuY24="
-      }
+          "danmu": true,
+          "site": "aHR0cDovL3YucmJvdHYuY24="
+        }
     },
-    /*{
-      "key": "lltv_天天影视",
-      "name": "66⚡️TT弹幕",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://tt.ysdqjs.cn"
-    },*/
     {
-      "key": "lltv_天天影视",
+      "key": "lltv_天天弹幕",
       "name": "66⚡️TT弹幕",
       "type": 3,
       "api": "csp_TianTian",
-      "playerType": 1,
-      "ext": "http://op.ysdqjs.cn"
+      "jar": "./jar/spider250321.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+          "danmu": true,
+          "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
+        }
     },
     {
       "key": "lltv_腾讯弹幕",
