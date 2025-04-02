@@ -297,15 +297,11 @@
       "key": "lltv_天天弹幕",
       "name": "66⚡️TT弹幕",
       "type": 3,
-      "api": "csp_TianTian",
-      "jar": "./jar/spider250321.jar",
+      "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-          "danmu": true,
-          "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
-        }
+      "filterable": 0,
+      "ext": "http://tt.ysdqjs.cn"
     },
     {
       "key": "lltv_腾讯弹幕",
