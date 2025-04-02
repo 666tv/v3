@@ -259,11 +259,14 @@
       "key": "lltv_浪酷弹幕",
       "name": "66⚡️LK弹幕",
       "type": 3,
-      "api": "csp_AppRJ",
+      "api": "csp_TianTian",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://v.lkuys.cn"
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YubGt1eXMuY24="
+      }
     },
     {
       "key": "lltv_糯米影视",
@@ -279,12 +282,16 @@
       "key": "lltv_热播影视",
       "name": "66⚡️RB弹幕",
       "type": 3,
-      "api": "csp_AppRJ",
+      "api": "csp_TianTian",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YucmJvdHYuY24="
+      }
     },
-    {
+    /*{
       "key": "lltv_天天影视",
       "name": "66⚡️TT弹幕",
       "type": 3,
@@ -293,6 +300,14 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://tt.ysdqjs.cn"
+    },*/
+    {
+      "key": "lltv_天天影视",
+      "name": "66⚡️TT弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "playerType": 1,
+      "ext": "http://op.ysdqjs.cn"
     },
     {
       "key": "lltv_腾讯弹幕",
