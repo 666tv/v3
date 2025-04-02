@@ -337,6 +337,24 @@
       "filterable": 1
     },
     {
+      "key": "lltv_哔哩合集",
+      "name": "66⚡️BB",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+            "type": "rect",
+            "ratio": 1.433
+        },
+      "ext": {
+      "json": "./json/哔哩合集.json",
+      "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+        }
+    },
+    {
       "key": "lltv_8号影院-天天",
       "name": "66⚡️BH",
       "type": 3,
@@ -381,6 +399,15 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
+    },
+    {
+      "key": "lltv_尘落影视",
+      "name": "66⚡️CL",
+      "type": 3,
+      "api": "csp_Wetv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://v.wetv.wang"
     },
     {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
@@ -589,6 +616,20 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/星辰影视.json"
+    },
+    {
+      "key": "lltv_西瓜视频",
+      "name": "66⚡️XG",
+      "type": 3,
+      "api": "csp_AmuXiguaV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+            "type": "rect",
+            "ratio": 1.597
+        }
     },
     {
       "key": "lltv_修罗影视",
