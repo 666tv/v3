@@ -91,13 +91,13 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+    /*{
       "key": "lltv_金牌影视",
       "name": "66⚡️JP",
       "type": 3,
       "api": "csp_Jpys"
-    },
-    /*{
+    },*/
+    {
       "key": "lltv_金牌影视",
       "name": "66⚡️JP",
       "type": 3,
@@ -107,7 +107,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKbwqPDp8Ohw6LDm8OkYcKTwp/CncKgwp/CmsKgw67CnMKgV2rCmcKaw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7DDqMOzw6LCsGlmV8Kt"
-    },*/
+    },
 //教育~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  66tv240812.jar
     {
