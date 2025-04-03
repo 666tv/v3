@@ -376,16 +376,6 @@
       "ext": "jaHR0cDovLzU5LjE1My4xNjcuMTM3Ojg4OTl8NGQ4M2I4N2M0YzVlYTExMXw0ZDgzYjg3YzRjNWVhMTExfDQ2Mg=="
     },
     {
-      "key": "lltv_瓜子影视",
-      "name": "66⚡️GZ",
-      "type": 3,
-      "api": "csp_Gz360",
-      "jar": "./jar/spider250401.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_蝴蝶-巧技",
       "name": "66⚡️HD",
       "type": 3,
@@ -662,6 +652,15 @@
         }
     },
     {
+      "key": "lltv_瓜子影视",
+      "name": "(GD)66⚡️GZ",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_HH采集",
       "name": "(GD)66⚡️HH",
       "type": 1,
@@ -777,6 +776,7 @@
       "name": "(GD)66⚡️QQ",
       "type": 3,
       "api": "csp_AppGZ",
+      "jar": "./jar/spider250401.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
