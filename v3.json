@@ -124,6 +124,13 @@
       "ext": "./mov/zbdm/哔哩MV.json"
     },
     {
+      "key": "lltv_酷奇MV",
+      "name": "66❤️酷奇",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/zbdm/酷奇MV.js"
+    },
+    {
       "key": "lltv_哔哩音乐",
       "name": "66❤️音乐",
       "type": 3,
@@ -191,14 +198,14 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./mov/zbdm/企鹅体育.json"
-    },*/
+    },
     {
       "key": "lltv_评书随身听",
       "name": "66❤️评书",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/zbdm/评书随身听.js"
-    },
+    },*/
     {
       "key": "lltv_戏曲多多",
       "name": "66❤️戏曲",
