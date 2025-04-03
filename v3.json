@@ -419,17 +419,18 @@
       "key": "lltv_金牌影视",
       "name": "66⚡️JY",
       "type": 3,
-      "api": "csp_WebJP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKbwqPDp8Ohw6LDm8OkYcKTwp/CncKgwp/CmsKgw67CnMKgV2rCmcKaw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7DDqMOzw6LCsGlmV8Kt"
+      "api": "csp_Jpys"
     },
     /*{
       "key": "lltv_金牌影视",
       "name": "66⚡️JY",
       "type": 3,
-      "api": "csp_Jpys"
+      "api": "csp_WebJP",
+      "jar": "./jar/spider250401.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKbwqPDp8Ohw6LDm8OkYcKTwp/CncKgwp/CmsKgw67CnMKgV2rCmcKaw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7DDqMOzw6LCsGlmV8Kt"
     },*/
     {
       "key": "lltv_快看影视-PG-XYQ-云星-Yu-巧技",
@@ -574,7 +575,22 @@
       "key": "lltv_云播影视",
       "name": "66⚡️YB",
       "type": 3,
+      "api": "csp_Tvyb"
+    },
+    {
+      "key": "lltv_云端",
+      "name": "66⚡️YD",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
+    },
+    /*{
+      "key": "lltv_云播影视",
+      "name": "66⚡️YB",
+      "type": 3,
       "api": "csp_AppGetApp",
+      "jar": "./jar/spider250401.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -585,24 +601,11 @@
       "name": "66⚡️YD",
       "type": 3,
       "api": "csp_AppGetApp",
+      "jar": "./jar/spider250401.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgw6zCrcKpwqjDs8KXwqnCo8KUw7LDocObw6bDo8KWwpTCn8Kdw5rDnMOow6fDm8KgwpVeZsKxwqHDocOywrRkYGZnwrHCosOdwrLDp2XCmsKjYsKywqvDssKxwqzCm2ZfwpzCssOgwrLDm8OyZWPCmmLDqMKlw6rCssOrYsKUwqnCnsOaw6DDo8Ocw57CosKdwpHCmcOnw6HDm8Omw59hwqTCqMKkwqDCn8KawqDDjcKcwqTClcKFw6vDn8KhwrPCmlpXXFDCoMK8w6jDosOuworCn8KiwpTCoMKtwprCoMOjwqHCmcKkwobCqsKkwrPCoMKmU1fCpMKZw6nCmsK0wpnCocKO5Ya16YSY5o+V5ZGcwp/lh6bkvpDlkbFt5b6h6Ke26LW05ryJ562Mw5fCoMKmU1dxwpXDrMK+w5/DssKhbVBXwpvCssOiwq3DqcKswpZowpJnw6bCpsO0wqnDqWtXXFDCoMK0w5/DrMODwqlXalDCoMOewrPDqMKtwqNiwpNow5vCqsOnwqzDtGPCn2hXwqXCk8Khw53Dn8KWwqLCqcKgw63CvsOfw7LCoW1QV8Knw67DrMOjwq/CsGlXwq0="
-    },
-    /*{
-      "key": "lltv_云播影视",
-      "name": "66⚡️YB",
-      "type": 3,
-      "api": "csp_Tvyb"
-    },
-    {
-      "key": "lltv_云端",
-      "name": "66⚡️YD",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
     },*/
     {
       "key": "lltv_优秀",
