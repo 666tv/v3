@@ -124,6 +124,20 @@
       "ext": "./mov/zbdm/哔哩MV.json"
     },
     {
+      "key": "lltv_西瓜视频",
+      "name": "66❤️西瓜",
+      "type": 3,
+      "api": "csp_AmuXiguaV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+            "type": "rect",
+            "ratio": 1.597
+        }
+    },
+    {
       "key": "lltv_哔哩音乐",
       "name": "66❤️音乐",
       "type": 3,
@@ -166,40 +180,6 @@
       "ext": "./mov/zbdm/企鹅体育.json"
     },*/
     {
-      "key": "lltv_哔哩哔哩小品",
-      "name": "66❤️小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-          "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-          "json": "./mov/zbdm/哔哩哔哩小品.json"
-        },
-      "style": {
-            "type": "rect",
-            "ratio": 1.597
-        }
-    },
-    {
-      "key": "lltv_哔哩哔哩相声",
-      "name": "66❤️相声",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-          "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-          "json": "./mov/zbdm/哔哩哔哩相声.json"
-        },
-      "style": {
-          "type": "rect",
-          "ratio": 1.597
-        }
-    },
-    {
       "key": "lltv_武享吧",
       "name": "66❤️格斗",
       "type": 3,
@@ -211,6 +191,23 @@
       "style": {
         "type": "list"
       }
+    },
+    {
+      "key": "lltv_哔哩哔哩小品",
+      "name": "66❤️戏曲小品相声",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+          "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+          "json": "./mov/zbdm/戏曲小品相声.json"
+        },
+      "style": {
+            "type": "rect",
+            "ratio": 1.597
+        }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -598,20 +595,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/星辰影视.json"
-    },
-    {
-      "key": "lltv_西瓜视频",
-      "name": "66⚡️XG",
-      "type": 3,
-      "api": "csp_AmuXiguaV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-            "type": "rect",
-            "ratio": 1.597
-        }
     },
     {
       "key": "lltv_修罗影视",
