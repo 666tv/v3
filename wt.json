@@ -13,7 +13,7 @@
 
     {
       "key": "lltv_哔哩MV",
-      "name": "66❤️哔哩MV",
+      "name": "哔哩┃MV",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/66tv240812.jar",
@@ -24,14 +24,14 @@
     },
     {
       "key": "lltv_酷奇MV",
-      "name": "66❤️酷奇MV",
+      "name": "酷奇┃MV",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/zbdm/酷奇MV.js"
     },
     {
       "key": "lltv_西瓜视频",
-      "name": "66❤️西瓜MV",
+      "name": "西瓜┃MV",
       "type": 3,
       "api": "csp_AmuXiguaV2",
       "searchable": 1,
@@ -45,7 +45,7 @@
     },
     {
       "key": "lltv_哔哩音乐",
-      "name": "66❤️哔哩音乐",
+      "name": "哔哩┃音乐",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/66tv240812.jar",
@@ -56,7 +56,7 @@
     },
     {
       "key": "lltv_哔哩哔哩小品",
-      "name": "66❤️哔哩小品",
+      "name": "哔哩┃小品",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -73,7 +73,7 @@
     },
     {
       "key": "lltv_哔哩哔哩相声",
-      "name": "66❤️哔哩相声",
+      "name": "哔哩┃相声",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -90,7 +90,7 @@
     },
     {
       "key": "lltv_哔哩哔哩戏曲",
-      "name": "66❤️哔哩戏曲",
+      "name": "哔哩┃戏曲",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -107,7 +107,7 @@
     },
     {
       "key": "lltv_戏曲多多",
-      "name": "66❤️戏曲多多",
+      "name": "戏曲┃多多",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -117,7 +117,7 @@
     },
     {
       "key": "lltv_老白听书",
-      "name": "66❤️老白听书",
+      "name": "老白┃听书",
       "type": 3,
       "api": "csp_BookLaoBai",
       "searchable": 1,
@@ -131,21 +131,21 @@
     },
     {
       "key": "lltv_六月听书",
-      "name": "66❤️六月听书",
+      "name": "六月┃听书",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/六月听书.js"
     },
     {
       "key": "lltv_评书随身听",
-      "name": "66❤️经典评书",
+      "name": "经典┃评书",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/zbdm/评书随身听.js"
     },
     {
       "key": "lltv_88看球",
-      "name": "66❤️88看球",
+      "name": "88┃看球",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "style": {
@@ -155,7 +155,7 @@
     },
     /*{
       "key": "lltv_88看球",
-      "name": "66❤️88看球",
+      "name": "88┃看球",
       "type": 3,
       "api": "csp_Kanqiu",
       "jar": "./jar/spider250321.jar",
@@ -166,7 +166,7 @@
     },*/
     {
       "key": "lltv_企鹅-荷城-鸭-饭",
-      "name": "66❤️企鹅体育",
+      "name": "企鹅┃体育",
       "type": 3,
       "api": "csp_XPath",
       "jar": "./jar/66tv240812.jar",
@@ -177,7 +177,7 @@
     },
     {
       "key": "lltv_武享吧",
-      "name": "66❤️拳王格斗",
+      "name": "拳王┃格斗",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 0,
