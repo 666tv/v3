@@ -47,7 +47,7 @@
     },
     {
       "key": "lltv_荐片",
-      "name": "66⚡️Tvᴶᴾ",
+      "name": "66⭐Tvᴶᴾ",
       "type": 3,
       "playerType": 1,
       "api": "csp_Jianpian",
@@ -65,6 +65,39 @@
       "api": "csp_XBPQ",
       "ext": "./mov/json/农民影视.json"
     },
+    {
+      "key": "lltv_菲儿影视",
+      "name": "66⚡️FF",
+      "type": 3,
+      "api": "csp_AppFerr",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn/M3t4AXAKTrZj3tfhm1t/gMT3dOrHqIzUNqLUEOIDMvllTbX6e1hMhB2mfpOaCmHNOL1yBB3SmxNyqXlai90EIpdnwOOgCR9Z+YwCTj6ySjzJ2VBiH3eXeOGcavcNeVRA=="
+    },
+    {
+      "key": "lltv_瓜子影视",
+      "name": "66⚡️GZ",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_金牌影视",
+      "name": "66⚡️JP",
+      "type": 3,
+      "api": "csp_Jpys"
+    },
+    /*{
+      "key": "lltv_金牌影视",
+      "name": "66⚡️JP",
+      "type": 3,
+      "api": "csp_WebJP",
+      "jar": "./jar/spider250401.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKbwqPDp8Ohw6LDm8OkYcKTwp/CncKgwp/CmsKgw67CnMKgV2rCmcKaw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7DDqMOzw6LCsGlmV8Kt"
+    },*/
 //教育~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  66tv240812.jar
     {
