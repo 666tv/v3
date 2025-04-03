@@ -12,76 +12,15 @@
 "sites":[ 
 
     {
-      "key": "lltv_88看球",
-      "name": "66❤️88看球",
+      "key": "lltv_哔哩MV",
+      "name": "66❤️哔哩MV",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "style": {
-            "type": "list"
-        },
-      "ext": "./mov/zbdm/88看球.js"
-    },
-    /*{
-      "key": "lltv_88看球",
-      "name": "66❤️88看球",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 0,
-      "style": {
-            "type": "list"
-        }
-    },*/
-    {
-      "key": "lltv_企鹅-荷城-鸭-饭",
-      "name": "66❤️企鹅体育",
-      "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_Bili",
       "jar": "./jar/66tv240812.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./mov/zbdm/企鹅体育.json"
-    },
-    {
-      "key": "lltv_武享吧",
-      "name": "66❤️拳王格斗",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./mov/js/WXB.js",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "lltv_老白听书",
-      "name": "66❤️老白听书",
-      "type": 3,
-      "api": "csp_BookLaoBai",
       "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-            "type": "rect",
-            "ratio": 1.433
-          },
-      "ext": "https://apk-lb-json.fodexin.com##"
-    },
-    {
-      "key": "lltv_六月听书",
-      "name": "66❤️六月听书",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/六月听书.js"
-    },
-    {
-      "key": "lltv_评书随身听",
-      "name": "66❤️经典评书",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/zbdm/评书随身听.js"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./mov/zbdm/哔哩MV.json"
     },
     {
       "key": "lltv_酷奇MV",
@@ -103,17 +42,6 @@
             "type": "rect",
             "ratio": 1.597
         }
-    },
-    {
-      "key": "lltv_哔哩MV",
-      "name": "66❤️哔哩MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/zbdm/哔哩MV.json"
     },
     {
       "key": "lltv_哔哩音乐",
@@ -186,6 +114,79 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/zbdm/戏曲多多.json"
+    },
+    {
+      "key": "lltv_老白听书",
+      "name": "66❤️老白听书",
+      "type": 3,
+      "api": "csp_BookLaoBai",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+            "type": "rect",
+            "ratio": 1.433
+          },
+      "ext": "https://apk-lb-json.fodexin.com##"
+    },
+    {
+      "key": "lltv_六月听书",
+      "name": "66❤️六月听书",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/六月听书.js"
+    },
+    {
+      "key": "lltv_评书随身听",
+      "name": "66❤️经典评书",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/zbdm/评书随身听.js"
+    },
+    {
+      "key": "lltv_88看球",
+      "name": "66❤️88看球",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "style": {
+            "type": "list"
+        },
+      "ext": "./mov/zbdm/88看球.js"
+    },
+    /*{
+      "key": "lltv_88看球",
+      "name": "66❤️88看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "jar": "./jar/spider250321.jar",
+      "searchable": 0,
+      "style": {
+            "type": "list"
+        }
+    },*/
+    {
+      "key": "lltv_企鹅-荷城-鸭-饭",
+      "name": "66❤️企鹅体育",
+      "type": 3,
+      "api": "csp_XPath",
+      "jar": "./jar/66tv240812.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./mov/zbdm/企鹅体育.json"
+    },
+    {
+      "key": "lltv_武享吧",
+      "name": "66❤️拳王格斗",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./mov/js/WXB.js",
+      "style": {
+        "type": "list"
+      }
     }
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
