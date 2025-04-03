@@ -380,6 +380,7 @@
       "name": "66⚡️GZ",
       "type": 3,
       "api": "csp_Gz360",
+      "jar": "./jar/spider250401.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -513,15 +514,6 @@
       "playerType": 1,
       "api": "csp_Shark",
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
-    },
-    {
-      "key": "lltv_苹果影视",
-      "name": "66⚡️PG",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "lltv_奇迹影视",
@@ -770,6 +762,15 @@
       "api": "csp_Xdai",
       "playerType": 1,
       "ext": "jaHR0cHM6Ly93d3cuempjLmFwcHxhYjRlOWE0MjE2NzVmMTRifGFiNGU5YTQyMTY3NWYxNGJ8NDQy"
+    },
+    {
+      "key": "lltv_苹果影视",
+      "name": "(GD)66⚡️PG",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_洽洽影视",
