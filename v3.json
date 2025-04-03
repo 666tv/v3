@@ -635,18 +635,6 @@
       "ext": "./mov/json/秀儿影视.json"
     },
     {
-      "key": "lltv_厂长弹幕",
-      "name": "(GD)66⚡️CZ",
-      "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-          "danmu": true
-        }
-    },
-    {
       "key": "lltv_瓜子影视",
       "name": "(GD)66⚡️GZ",
       "type": 3,
