@@ -80,6 +80,7 @@
       "name": "66⚡️FF",
       "type": 3,
       "api": "csp_AppFerr",
+      "jar": "./jar/spider250402.jar",
       "ext": "sHR2rlsfjI4L3t4RXQMkn/M3t4AXAKTrZj3tfhm1t/gMT3dOrHqIzUNqLUEOIDMvllTbX6e1hMhB2mfpOaCmHNOL1yBB3SmxNyqXlai90EIpdnwOOgCR9Z+YwCTj6ySjzJ2VBiH3eXeOGcavcNeVRA=="
     },
     {
@@ -91,15 +92,9 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    /*{
-      "key": "lltv_金牌影视",
-      "name": "66⚡️JP",
-      "type": 3,
-      "api": "csp_Jpys"
-    },*/
     {
       "key": "lltv_金牌影视",
-      "name": "66⚡️JP",
+      "name": "66⚡️JY",
       "type": 3,
       "api": "csp_WebJP",
       "jar": "./jar/spider250401.jar",
