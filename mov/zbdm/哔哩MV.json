@@ -17,7 +17,7 @@
             "type_id": "一口气沙雕动漫"
         },
         {
-            "type_name": "解说",
+            "type_name": "影视解说",
             "type_id": "解说"
         },
         {
@@ -25,23 +25,23 @@
             "type_id": "性感MV"
         },
         {
-            "type_name": "热舞合集",
+            "type_name": "热舞MV",
             "type_id": "热舞合集"
         },
         {
-            "type_name": "舞蹈合集",
+            "type_name": "舞蹈MV",
             "type_id": "舞蹈合集"
         },
         {
-            "type_name": "美女合集",
-            "type_id": "美女合集"
-        },
-        {
-            "type_name": "女神合集",
+            "type_name": "女神MV",
             "type_id": "女神合集"
         },
         {
-            "type_name": "泳装合集",
+            "type_name": "美女MV",
+            "type_id": "美女合集"
+        },
+        {
+            "type_name": "泳装MV",
             "type_id": "泳装合集"
         },
         {
