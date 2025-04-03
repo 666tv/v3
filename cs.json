@@ -93,16 +93,6 @@
       "ext": "https://www.wwgz.cn"
     },
     {
-      "key": "lltv_韩小圈",
-      "name": "66⭐Tvᴴᴶ",
-      "type": 3,
-      "api": "csp_HanXiaoQuan",
-      "jar": "./jar/ttkx250331.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_JP-道长-天天-鸭-巧技",
       "name": "66⚡️JP",
       "type": 3,
@@ -153,6 +143,7 @@
       "name": "66⚡️LK弹幕",
       "type": 3,
       "api": "csp_TianTian",
+      "jar": "./jar/spider250321.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -166,6 +157,7 @@
       "name": "66⚡️RB弹幕",
       "type": 3,
       "api": "csp_TianTian",
+      "jar": "./jar/spider250321.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -179,6 +171,7 @@
       "name": "66⚡️TT弹幕",
       "type": 3,
       "api": "csp_TianTian",
+      "jar": "./jar/spider250321.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -197,51 +190,39 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_lltv_KungFu404",
-      "name": "阿里云┃设置",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "jar": "./jar/alibaba.jar",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "lltv_网盘及弹幕配置-PG-夜猫-如意",
-      "name": "👑网盘┃弹幕┃配置👑",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "./jar/pg240628.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-          "type": "rect",
-          "ratio": 1},
-      "ext":"./json/token.json"
-    },
-    {
-      "key": "lltv_Local-PG-鸭",
-      "name": "📛收集整理不易📛　　📛••拒绝白嫖••📛",
+      "key": "lltv_本地",
+      "name": "📛收集整理不易📛",
       "type": 3,
       "api": "csp_LocalFile",
-      "jar": "./jar/lltv5;md5;6120d08f4eb1edce507bfcd1b339c482",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "type_flag": 0
+      "quickSearch": 0
     },
     {
-      "key": "lltv",
-      "name": "📛•专人维护•📛　　　📛••定期更新••📛",
+      "key": "lltv1",
+      "name": "📛请多多支持📛",
       "type": 3,
       "api": "",
       "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": ""
+      "quickSearch": 0
+    },
+    {
+      "key": "lltv2",
+      "name": "📛高端精品尽在📛",
+      "type": 3,
+      "api": "",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "lltv3",
+      "name": "📛⑥⑥宝藏团📛",
+      "type": 3,
+      "api": "",
+      "searchable": 0,
+      "quickSearch": 0
     }
 ],
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
