@@ -430,13 +430,19 @@
       "key": "lltv_金牌影视",
       "name": "66⚡️JY",
       "type": 3,
+      "api": "csp_Jpys"
+    },
+    /*{
+      "key": "lltv_金牌影视",
+      "name": "66⚡️JY",
+      "type": 3,
       "api": "csp_WebJP",
       "jar": "./jar/spider250401.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKbwqPDp8Ohw6LDm8OkYcKTwp/CncKgwp/CmsKgw67CnMKgV2rCmcKaw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7DDqMOzw6LCsGlmV8Kt"
-    },
+    },*/
     {
       "key": "lltv_快看影视-PG-XYQ-云星-Yu-巧技",
       "name": "66⚡️KK",
