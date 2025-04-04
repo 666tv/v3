@@ -213,11 +213,8 @@
       "key": "lltv_糯米影视",
       "name": "66⚡️NM弹幕",
       "type": 3,
-      "api": "csp_WebNM",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKawqpewpPDp8KawqbCmcKhwqfCmcKgV8KzwpPCocOU5Ye/6YSb5o+V5ZCTXOWHpeS+iuWRscKz5b+r6Ke56LW05ruA56yJw5bCmsKmwpnCocKXwpXCk8Kiw7LDo8Ouw4TDn8KsV2pQwqDDqsOvw7LDo2lmZlfDtg=="
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn"
     },
     {
       "key": "lltv_热播弹幕",
@@ -334,6 +331,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "https://v.wetv.wang"
+    },
+    {
+      "key": "lltv_厂长影视",
+      "name": "66⚡️CZ",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.czzyvideo.com"
     },
     {
       "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
