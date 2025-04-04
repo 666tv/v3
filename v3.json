@@ -43,7 +43,7 @@
         }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
+        {
       "key": "lltv_Pan1",
       "name": "4K_123⭐配置中心登录123",
       "type": 3,
@@ -53,13 +53,13 @@
       "filterable": 1,
       "changeable": 1,
       "style": {
-            "type": "list",
+            "type": "rect",
             "ratio": 1.433
         },
       "ext": "./mov/json/pan1.json?"
     },
     {
-      "key": "海绵",
+      "key": "lltv_海绵",
       "name": "4K_HM⭐配置中心登录天翼",
       "type": 3,
       "api": "csp_PanWebShareCloudHM",
@@ -83,7 +83,7 @@
       "filterable": 1,
       "changeable": 1,
       "style": {
-            "type": "list",
+            "type": "rect",
             "ratio": 1.433
         },
       "ext": "./mov/json/lj.json?"
