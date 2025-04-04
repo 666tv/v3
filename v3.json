@@ -1,4 +1,4 @@
-//大部分资源来源于网络和各大佬整合，在此致敬！
+8//大部分资源来源于网络和各大佬整合，在此致敬！
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
@@ -53,7 +53,7 @@
       "filterable": 1,
       "changeable": 1,
       "style": {
-            "type": "rect",
+            "type": "list",
             "ratio": 1.433
         },
       "ext": "./mov/json/pan1.json?"
@@ -83,7 +83,7 @@
       "filterable": 1,
       "changeable": 1,
       "style": {
-            "type": "rect",
+            "type": "list",
             "ratio": 1.433
         },
       "ext": "./mov/json/lj.json?"
