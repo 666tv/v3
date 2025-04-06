@@ -2,8 +2,7 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
-"spider": "./jar/spider.jar",
-//"spider": "http://ttkx.cc:55/lib/ttkx.jar",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743870299964/spider.jar",
 //"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/66tv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
@@ -38,9 +37,9 @@
       "changeable": 0,
       "indexs": 0,
       "style": {
-            "type": "rect",
-            "ratio": 1.597
-        }
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -148,9 +147,9 @@
       "filterable": 0,
       "changeable": 0,
       "style": {
-            "type": "rect",
-            "ratio": 1.597
-        }
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -199,15 +198,11 @@
       "key": "lltv_浪酷弹幕",
       "name": "66⚡️LK弹幕",
       "type": 3,
-      "api": "csp_TianTian",
-      "jar": "./jar/spider250321.jar",
+      "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-          "danmu": true,
-          "site": "aHR0cDovL3YubGt1eXMuY24="
-        }
+      "filterable": 0,
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
     },
     {
       "key": "lltv_糯米影视",
@@ -220,29 +215,21 @@
       "key": "lltv_热播弹幕",
       "name": "66⚡️RB弹幕",
       "type": 3,
-      "api": "csp_TianTian",
-      "jar": "./jar/spider250321.jar",
+      "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-          "danmu": true,
-          "site": "aHR0cDovL3YucmJvdHYuY24="
-        }
+      "filterable": 0,
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
     },
     {
       "key": "lltv_天天弹幕",
       "name": "66⚡️TT弹幕",
       "type": 3,
-      "api": "csp_TianTian",
-      "jar": "./jar/spider250321.jar",
+      "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true,
-        "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
-      }
+      "filterable": 0,
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
     },
     {
       "key": "lltv_爱奇艺弹幕",
