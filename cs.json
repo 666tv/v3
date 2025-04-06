@@ -93,12 +93,17 @@
       "ext": "https://www.wwgz.cn"
     },
     {
-      "key": "lltv_JP-道长-天天-鸭-巧技",
+      "key": "lltv_荐片",
       "name": "66⚡️JP",
       "type": 3,
       "playerType": 1,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/JP.js"
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": false
+      }
     },
     {
       "key": "lltv_企鹅-荷城-鸭-饭",
