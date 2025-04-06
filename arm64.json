@@ -50,13 +50,8 @@
       "name": "66⭐Tvᴶᴾ",
       "type": 3,
       "playerType": 1,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": false
-      }
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/JP.js"
     },
     {
       "key": "lltv_农民影视",
