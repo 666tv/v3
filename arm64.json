@@ -61,23 +61,6 @@
       "ext": "./mov/json/农民影视.json"
     },
     /*{
-      "key": "lltv_糯米影视",
-      "name": "66⭐Tvᴺᴹ",
-      "type": 3,
-      "api": "csp_WebNM",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKawqpewpPDp8KawqbCmcKhwqfCmcKgV8KzwpPCocOU5Ye/6YSb5o+V5ZCTXOWHpeS+iuWRscKz5b+r6Ke56LW05ruA56yJw5bCmsKmwpnCocKXwpXCk8Kiw7LDo8Ouw4TDn8KsV2pQwqDDqsOvw7LDo2lmZlfDtg=="
-    },*/
-    {
-      "key": "lltv_菲儿影视",
-      "name": "66⚡️FF",
-      "type": 3,
-      "api": "csp_AppFerr",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn/M3t4AXAKTrZj3tfhm1t/gMT3dOrHqIzUNqLUEOIDMvllTbX6e1hMhB2mfpOaCmHNOL1yBB3SmxNyqXlai90EIpdnwOOgCR9Z+YwCTj6ySjzJ2VBiH3eXeOGcavcNeVRA=="
-    },
-    {
       "key": "lltv_瓜子影视",
       "name": "66⚡️GZ",
       "type": 3,
@@ -85,13 +68,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "lltv_金牌影视",
-      "name": "66⚡️JY",
-      "type": 3,
-      "api": "csp_Jpys"
-    },
+    },*/
 //教育~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  66tv240812.jar
     {
