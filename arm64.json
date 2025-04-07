@@ -2,8 +2,9 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
-//"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743870299964/spider.jar",
-"spider": "./jar/spider.jar;md5;1713006fbec95c1332b9b4e4ef4d2e4b",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743870299964/spider.jar",
+//"spider": "./jar/spider.jar;md5;1713006fbec95c1332b9b4e4ef4d2e4b",
+//"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/66tv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
 "logo": "https://gitee.com/lltv/by/raw/main/logo.png",
