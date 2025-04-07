@@ -59,6 +59,27 @@
       "ext": "./mov/json/pan1.json?"
     },
     {
+      "key": "lltv_二小",
+      "name": "4K_EX⭐配置中心登录夸克",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./mov/json/ex.json?"
+    },
+    {
+      "key": "lltv_玩偶哥哥",
+      "name": "4K_GG⭐配置中心登录UC",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./mov/json/wogg.json?"
+    },
+    {
       "key": "海绵",
       "name": "4K_HM⭐配置中心登录天翼",
       "type": 3,
@@ -87,6 +108,17 @@
             "ratio": 1.433
         },
       "ext": "./mov/json/lj.json?"
+    },
+    {
+      "key": "lltv_闪电",
+      "name": "4K_SD⭐配置中心登录UC",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./mov/json/sd.json?"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -206,13 +238,6 @@
       "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
     },
     {
-      "key": "lltv_糯米影视",
-      "name": "66⚡️NM弹幕",
-      "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn"
-    },
-    {
       "key": "lltv_热播弹幕",
       "name": "66⚡️RB弹幕",
       "type": 3,
@@ -233,18 +258,25 @@
       "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
     },
     {
-      "key": "lltv_爱奇艺弹幕",
-      "name": "66⚡️QY弹幕",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/zbdm/爱奇艺弹幕.js"
-    },
-    {
       "key": "lltv_腾讯弹幕",
-      "name": "66⚡️TX弹幕",
+      "name": "66⚡️腾讯",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/zbdm/腾讯弹幕.js"
+    },
+    {
+      "key": "lltv_优酷弹幕",
+      "name": "66⚡️优酷",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/zbdm/优酷弹幕.js"
+    },
+    {
+      "key": "lltv_爱奇艺弹幕",
+      "name": "66⚡️爱奇艺",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/zbdm/爱奇艺弹幕.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
