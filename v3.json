@@ -3,6 +3,7 @@
 
 {
 "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743870299964/spider.jar",
+//"spider": "./jar/spider.jar",
 //"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/66tv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
@@ -711,17 +712,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "lltv_洽洽影视",
-      "name": "(GD)66⚡️QQ",
-      "type": 3,
-      "api": "csp_AppGZ",
-      "jar": "./jar/spider250401.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw5rDqsKcXmnCk8Oew5bCscKyw55hwpPCn8KdwqDCn8KawqDDrsKcwqBXasKZwprDleWHvumFouaPmOWQk1zlhpzkvpDlkarCtOW/quipgOi1t+a7gOesicKNwqDCn8KawqDDnsKYwpPCosKpw6nDp8OFw57Ds1pqUFfDsMOow7PDosKwaWZXwq0="
     },
     {
       "key": "lltv_大师兄影视-天天-道长-运输车",
