@@ -258,6 +258,39 @@
       "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
     },
     {
+      "key": "lltv_火车影视",
+      "name": "PY⚡️HC",
+      "type": 3,
+      "api": "./py/火车影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "lltv_嗨皮影视",
+      "name": "PY⚡️HP",
+      "type": 3,
+      "api": "./py/嗨皮影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "lltv_猎手影视",
+      "name": "PY⚡️LS",
+      "type": 3,
+      "api": "./py/猎手影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
       "key": "lltv_腾讯弹幕",
       "name": "66⚡️腾讯",
       "type": 3,
