@@ -377,6 +377,14 @@
       "filterable": 1
     },
     {
+      "key": "lltv_电影",
+      "name": "66⚡️DY",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9jOHcyb3Y3dTV3ZzJ6MW84cDIxYy5hbGl5dW5jcy5jbGljazoyNzg5OXxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
+    },
+    {
       "key": "lltv_二三",
       "name": "66⚡️ES",
       "type": 3,
@@ -462,7 +470,7 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_Xdai",
-      "ext": "jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NDk0ODA4MDgwbGdneXNjb3w0OTQ4MDgwODBsZ2d5c2NvfDY2Ng=="
+      "ext": "jaHR0cDovLzU5LjE1My4xNjcuMTg2OjEwMDk5fFBNS2Faa0F2NFFwNTNFV258UE1LYVprQXY0UXA1M0VXbnw0MjU="
     },
     {
       "key": "lltv_量子采集",
@@ -524,6 +532,14 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/奇迹影视.json"
+    },
+    {
+      "key": "lltv_奇妙",
+      "name": "66⚡️QM",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cDovLzE1NC4xMi45MS4yMTE6NjY4fDEyMzQ1Njc4OUFCQ0RFRkd8MTIzNDU2Nzg5QUJDREVGR3wxMDY="
     },
     {
       "key": "lltv_七新影视",
