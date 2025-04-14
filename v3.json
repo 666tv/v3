@@ -149,11 +149,11 @@
       "ext": "./mov/js/JP.js"
     },
     {
-      "key": "lltv_农民影视",
+      "key": "lltv_糯米影视",
       "name": "66⭐糯米",
       "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/农民影视.json"
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn"
     },
     {
       "key": "lltv_影探影视",
@@ -539,11 +539,11 @@
       "ext": "saHR0cDovL2Ntcy5taXRvdHYuY29tL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
     {
-      "key": "lltv_糯米影视",
+      "key": "lltv_农民影视",
       "name": "66⚡️NM",
       "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn"
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/农民影视.json"
     },
     {
       "key": "lltv_奇迹影视",
