@@ -399,6 +399,13 @@
       "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
     },
     {
+      "key": "lltv_秀儿影视",
+      "name": "66⚡ER",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/秀儿影视.json"
+    },
+    {
       "key": "lltv_菲儿影视",
       "name": "66⚡️FF",
       "type": 3,
@@ -451,17 +458,6 @@
       "ext": "./mov/js/JP.js"
     },
     {
-      "key": "lltv_金牌影视",
-      "name": "66⚡️JY",
-      "type": 3,
-      "api": "csp_WebJP",
-      "jar": "./jar/spider250401.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKbwqPDp8Ohw6LDm8OkYcKTwp/CncKgwp/CmsKgw67CnMKgV2rCmcKaw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7DDqMOzw6LCsGlmV8Kt"
-    },
-    {
       "key": "lltv_快看影视-PG-XYQ-云星-Yu-巧技",
       "name": "66⚡️KK",
       "type": 3,
@@ -469,14 +465,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "lltv_莉莉",
-      "name": "66⚡️LL",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Xdai",
-      "ext": "jaHR0cDovLzU5LjE1My4xNjcuMTg2OjEwMDk5fFBNS2Faa0F2NFFwNTNFV258UE1LYVprQXY0UXA1M0VXbnw0MjU="
     },
     {
       "key": "lltv_量子采集",
@@ -517,19 +505,11 @@
       ]
     },
     {
-      "key": "lltv_主角",
-      "name": "66⚡️MC",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "caHR0cHM6Ly9kdHltLnpqeXkuY2MvZ2ctZ2V0YXBwL2dldC1nZy50eHR8UE1LYVprQXY0UXA1M0VXbnxQTUthWmtBdjRRcDUzRVdufDQyNQ=="
-    },
-    {
       "key": "lltv_木头-巧技",
       "name": "66⚡️MT",
       "type": 3,
-      "playerType": 1,
       "api": "csp_Shark",
+      "playerType": 1,
       "ext": "saHR0cDovL2Ntcy5taXRvdHYuY29tL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
     {
@@ -555,46 +535,10 @@
       "ext": "jaHR0cDovLzE1NC4xMi45MS4yMTE6NjY4fDEyMzQ1Njc4OUFCQ0RFRkd8MTIzNDU2Nzg5QUJDREVGR3wxMDY="
     },
     {
-      "key": "lltv_七新影视",
-      "name": "66⚡️QX",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/七新影视.json"
-    },
-    {
-      "key": "lltv_360弹幕-巧技-yytt",
+      "key": "lltv_三六零",
       "name": "66⚡️SL",
       "type": 3,
-      "api": "csp_Sp360",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-      "danmu": true
-        }
-    },
-    {
-      "key": "lltv_五五-天天-鸭",
-      "name": "66⚡️WW",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/55.json"
-    },
-    {
-      "key": "lltv_星辰影视",
-      "name": "66⚡️XC",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/星辰影视.json"
+      "api": "csp_SP360"
     },
     {
       "key": "lltv_修罗影视",
@@ -609,13 +553,8 @@
     {
       "key": "lltv_云播影视",
       "name": "66⚡️YB",
-      "type": 3,
-      "api": "csp_AppGetApp",
-      "jar": "./jar/spider250401.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjal9fw6DDmMOuw5rDqsKjXsKkwqbDssOVw5vDqcOqYcKTwp/CncKow5TDqsOiwqjCo8KYwqBXwqXCk8Khw4LDqMKcwqTCh8Kfw6vDl8KhwrPCmlrCmcKewpnDrcOJwqvCqsKzWlxQV8Otw5zDqsKgwrRTV8KL5Ya16YWh5pCY5ZGdwqXlh6bkvYrlkKdq5b6h6Ki/6La35ryK562Sw5daXFBXwrrDmMOtw4TDn8KsV2pQwqDDoMOjw5zDpWVkZWjDpsOcw53DpMKsZ2VoV8KlwpPCocK6w5/CpnnCplfCs8KTwqHDpsOjwpbCm2Jkwq7Cq8Onw6LDncKeYmRlwrHCmsKmwpnCocKbwpXCkcKUw57DpcOtwqDCtFPCq1fCpcOsw5jDrMKmw5vCmsKVwp7CpMKgwq3CmsKgw4fCosKqwpnCnMOlw5TCqcKuwqhjUFjCh8Oiw6HDnsOow7HCplB+woTCmcKkwqrCp8KqblDCh8KZw6fCqcKuwrTCmsKrZmRZwpnCtMOqw6nDpsKYwofClcKSw4TDnMOuwqjCr2ZnXmPCr8KTwqLDhMOCwod9fFzCmcOfw6PDpMOfU3fClcKTw6TDosKjwpnCvcKbwqLCn8Kdw57CosKrwqrCrGFgXmDCp8KjwprDjMObwpnCkcKiwpnCqMKowq3CsMKoZmZXXMKZwprDm8Olw6bCosKnc8Kiw6jDpsOtw4nDrMKiwqTCn8KTw6jDn8OMw57DnsKcwqLClcKTw63DpsKhwrPCmsKHwqLCpcKVw7bCn8KawqDDnsKYwpPCosKpw6nDp8OFw57Ds1pqUFfDssOUw6nDsMObwqHCl2BhwqvCqcKhw7Y="
+       "type": 3,
+      "api": "csp_Tvyb"
     },
     {
       "key": "lltv_云端",
@@ -636,6 +575,16 @@
       "filterable": 0,
       "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgw6zCrcKpwqjDs8KXwqnCo8KUw7LDocObw6bDo8KWwpTCn8Kdw5rDnMOow6fDm8KgwpVeZsKxwqHDocOywrRkYGZnwrHCosOdwrLDp2XCmsKjYsKywqvDssKxwqzCm2ZfwpzCssOgwrLDm8OyZWPCmmLDqMKlw6rCssOrYsKUwqnCnsOaw6DDo8Ocw57CosKdwpHCmcOnw6HDm8Omw59hwqTCqMKkwqDCn8KawqDDjcKcwqTClcKFw6vDn8KhwrPCmlpXXFDCoMK8w6jDosOuworCn8KiwpTCoMKtwprCoMOjwqHCmcKkwobCqsKkwrPCoMKmU1fCpMKZw6nCmsK0wpnCocKO5Ya16YSY5o+V5ZGcwp/lh6bkvpDlkbFt5b6h6Ke26LW05ryJ562Mw5fCoMKmU1dxwpXDrMK+w5/DssKhbVBXwpvCssOiwq3DqcKswpZowpJnw6bCpsO0wqnDqWtXXFDCoMK0w5/DrMODwqlXalDCoMOewrPDqMKtwqNiwpNow5vCqsOnwqzDtGPCn2hXwqXCk8Khw53Dn8KWwqLCqcKgw63CvsOfw7LCoW1QV8Knw67DrMOjwq/CsGlXwq0="
     },*/
+    {
+      "key": "lltv_影探影视",
+      "name": "66⚡️YT",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cmsyt114.lyyytv.cn/api.php/app/"
+    },
     {
       "key": "lltv_优秀",
       "name": "66⚡️YX",
@@ -660,32 +609,24 @@
       "searchable": 0
     },
     {
-      "key": "lltv_Ikanbot-XYQ-PG",
+      "key": "lltv_爱看机器人-XYQ-PG",
       "name": "(GD)66⚡️AK",
       "type": 3,
-      "api": "csp_IkanBot",
+      "api": "csp_Ikanbot",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "lltv_秀儿影视",
-      "name": "(GD)66⚡ER",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/秀儿影视.json"
-    },
-    {
       "key": "lltv_厂长弹幕",
       "name": "(GD)66⚡️CZ",
       "type": 3,
-      "api": "csp_Czzy",
+      "playerType": "2",
+      "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-          "danmu": true
-        }
+      "ext": "https://www.czzymovie.com/"
     },
     {
       "key": "lltv_瓜子影视",
