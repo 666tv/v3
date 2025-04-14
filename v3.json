@@ -122,15 +122,8 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_农民影视",
-      "name": "66⭐Tvᴳᴶ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/农民影视.json"
-    },
-    {
       "key": "lltv_韩小圈",
-      "name": "66⭐Tvᴴᴶ",
+      "name": "66⭐韩剧",
       "type": 3,
       "api": "csp_HanXiaoQuan",
       "jar": "./jar/spider250321.jar",
@@ -139,13 +132,45 @@
       "filterable": 1
     },
     {
-      "key": "lltv_美剧天堂",
-      "name": "66⭐Tvᴹᴶ",
+      "key": "lltv_瓜子影视",
+      "name": "66⭐瓜子",
       "type": 3,
-      "api": "csp_MeijuTT",
+      "api": "csp_Gz360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_JP-道长-天天-鸭-巧技",
+      "name": "66⭐荐片",
+      "type": 3,
+      "playerType": 1,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/JP.js"
+    },
+    {
+      "key": "lltv_农民影视",
+      "name": "66⭐农民",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/农民影视.json"
+    },
+    {
+      "key": "lltv_影探影视",
+      "name": "66⭐影探",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cmsyt114.lyyytv.cn/api.php/app/"
+    },
+    {
+      "key": "lltv_大师兄影视-天天-道长-运输车",
+      "name": "66⭐大师兄",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/大师兄.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -450,14 +475,6 @@
       "ext": "./mov/json/狐狸君.json"
     },
     {
-      "key": "lltv_JP-道长-天天-鸭-巧技",
-      "name": "66⚡️JP",
-      "type": 3,
-      "playerType": 1,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/JP.js"
-    },
-    {
       "key": "lltv_快看影视-PG-XYQ-云星-Yu-巧技",
       "name": "66⚡️KK",
       "type": 3,
@@ -503,6 +520,15 @@
         "日韩综艺",
         "欧美综艺"
       ]
+    },
+    {
+      "key": "lltv_美剧天堂",
+      "name": "66⭐MJ",
+      "type": 3,
+      "api": "csp_MeijuTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_木头-巧技",
@@ -576,16 +602,6 @@
       "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgw6zCrcKpwqjDs8KXwqnCo8KUw7LDocObw6bDo8KWwpTCn8Kdw5rDnMOow6fDm8KgwpVeZsKxwqHDocOywrRkYGZnwrHCosOdwrLDp2XCmsKjYsKywqvDssKxwqzCm2ZfwpzCssOgwrLDm8OyZWPCmmLDqMKlw6rCssOrYsKUwqnCnsOaw6DDo8Ocw57CosKdwpHCmcOnw6HDm8Omw59hwqTCqMKkwqDCn8KawqDDjcKcwqTClcKFw6vDn8KhwrPCmlpXXFDCoMK8w6jDosOuworCn8KiwpTCoMKtwprCoMOjwqHCmcKkwobCqsKkwrPCoMKmU1fCpMKZw6nCmsK0wpnCocKO5Ya16YSY5o+V5ZGcwp/lh6bkvpDlkbFt5b6h6Ke26LW05ryJ562Mw5fCoMKmU1dxwpXDrMK+w5/DssKhbVBXwpvCssOiwq3DqcKswpZowpJnw6bCpsO0wqnDqWtXXFDCoMK0w5/DrMODwqlXalDCoMOewrPDqMKtwqNiwpNow5vCqsOnwqzDtGPCn2hXwqXCk8Khw53Dn8KWwqLCqcKgw63CvsOfw7LCoW1QV8Knw67DrMOjwq/CsGlXwq0="
     },*/
     {
-      "key": "lltv_影探影视",
-      "name": "66⚡️YT",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cmsyt114.lyyytv.cn/api.php/app/"
-    },
-    {
       "key": "lltv_优秀",
       "name": "66⚡️YX",
       "type": 3,
@@ -627,15 +643,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.czzymovie.com/"
-    },
-    {
-      "key": "lltv_瓜子影视",
-      "name": "(GD)66⚡️GZ",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "lltv_HH采集",
@@ -747,13 +754,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "lltv_大师兄影视-天天-道长-运输车",
-      "name": "(GD)66⚡️SX",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/大师兄.json"
     },
     {
       "key": "lltv_迅雷吧",
