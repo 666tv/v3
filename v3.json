@@ -1372,19 +1372,19 @@
 //直播~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "lives": [
     {
-      "name": "IPV6",
+      "name": "IPV4",
       "type": 0,
       "playerType": 1,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "timeout": 10
     },
     {
-      "name": "IPV4",
+      "name": "IPV6",
       "type": 0,
       "playerType": 1,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "timeout": 10
