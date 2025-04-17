@@ -2,8 +2,8 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
-"spider": "https://gitee.com/ll8000/test/raw/master/spider.jar",
-//"spider": "./jar/spider.jar",
+"spider": "./jar/66tv240812.jar",
+//"spider": "https://gitee.com/ll8000/test/raw/master/spider.jar",
 //"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/66tv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
@@ -11,13 +11,11 @@
 
 "sites":[ 
 //教育~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  66tv240812.jar
     {
       "key": "lltv_哔哩学堂",
       "name": "哔哩┃学堂📛⑥⑥宝藏团📛",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
@@ -28,7 +26,6 @@
       "name": "知识┃学堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -39,7 +36,6 @@
       "name": "兴趣┃培养",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "style": {
       "type": "rect",
       "ratio": 1.597
@@ -54,7 +50,6 @@
       "name": "益智┃动画",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -65,6 +60,7 @@
       "name": "急救┃知识 ",
       "type": 3,
       "api": "csp_FirstAid",
+      "jar": "./jar/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -78,7 +74,6 @@
       "name": "央视┃经典",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -89,7 +84,6 @@
       "name": "幼小┃衔接",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -100,7 +94,6 @@
       "name": "幼儿┃启蒙",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -111,7 +104,6 @@
       "name": "少儿┃教育",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -122,7 +114,6 @@
       "name": "小学┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -133,7 +124,6 @@
       "name": "小学┃语文",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -144,7 +134,6 @@
       "name": "小学┃数学",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -155,7 +144,6 @@
       "name": "小学┃英语",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -166,7 +154,6 @@
       "name": "初中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -177,7 +164,6 @@
       "name": "高中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -188,18 +174,16 @@
       "name": "高考┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./jiaoyu/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%AB%98%E8%80%83.json?sign=lD2DA8pGV9tw7DKYRqaQh9sy6aQnDcsR69ooAeCfpHc%3D%3A0"
+      "ext": "./jiaoyu/哔哩哔哩高考.json"
     },
     {
       "key": "lltv_编程",
       "name": "儿童┃编程",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -210,7 +194,6 @@
       "name": "儿童┃口才",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -221,7 +204,6 @@
       "name": "儿童┃拼音",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -232,7 +214,6 @@
       "name": "儿童┃思维",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -243,7 +224,6 @@
       "name": "儿童┃识字",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -254,7 +234,6 @@
       "name": "儿童┃书法",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -265,7 +244,6 @@
       "name": "儿童┃武术",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -276,7 +254,6 @@
       "name": "儿童┃英语",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -288,139 +265,136 @@
       "name": "吾爱┃学堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./jiaoyu/%E5%90%BE%E7%88%B1%E5%AD%A6%E5%A0%820804.m3u?sign=m0FU-h5ZHcb8m0mrj8K1jolIeMUfxttQL3bjLTrIQJg%3D%3A0"
+      "ext": "./jiaoyu/吾爱学堂0804.m3u"
     },
     {
       "key": "lltv_外语",
       "name": "吾爱┃外语",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://git.acwing.com/66tv/v3/-/raw/main/jiaoyu/%E5%90%BE%E7%88%B1%E5%A4%96%E8%AF%AD.json?sign=_YbE-avvgf2pfwBJaT7bSJwdJCz9LSN7W0Q9qRjumMQ%3D%3A0"
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/666tv/66/refs/heads/main/jiaoyu/吾爱外语.json"
     },
     {
       "key": "lltv_搭配",
       "name": "吾爱┃搭配",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./jiaoyu/%E5%90%BE%E7%88%B1%E6%90%AD%E9%85%8D.json?sign=JOkB1eN1Hho8MwGLZjaTqNUPrLDhCBvgv6yNiUqaRdQ%3D%3A0"
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/666tv/66/refs/heads/main/jiaoyu/吾爱搭配.json"
+    },
+    {
+      "key": "lltv_搭讪",
+      "name": "吾爱┃搭讪",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/666tv/66/refs/heads/main/jiaoyu/吾爱搭讪.json"
     },
     {
       "key": "lltv_户外",
       "name": "吾爱┃户外",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./jiaoyu/%E5%90%BE%E7%88%B1%E6%88%B7%E5%A4%96.json?sign=AkRYax82jb9Bb2zmsQtjBG1T6-kL5_K7k3zBWkfl-NI%3D%3A0"
+      "ext": "./jiaoyu/吾爱户外.json"
     },
     {
       "key": "lltv_美食",
       "name": "吾爱┃美食",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://git.acwing.com/66tv/v3/-/raw/main/jiaoyu/%E5%90%BE%E7%88%B1%E7%BE%8E%E9%A3%9F0804.m3u?sign=8AZYYTTMZ8XjyAk_BENuUbWe350zHymzMdrG6fGE2H8%3D%3A0"
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/666tv/66/refs/heads/main/jiaoyu/吾爱美食0804.m3u"
     },
     {
       "key": "lltv_棋牌",
       "name": "吾爱┃棋牌",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://git.acwing.com/66tv/v3/-/raw/main/jiaoyu/%E5%90%BE%E7%88%B1%E6%A3%8B%E7%89%8C0806.m3u?sign=O6sXUxVC6QET_CvmtKwy18VlNi9GTyHWVNo91buKMbc%3D%3A0"
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/666tv/66/refs/heads/main/jiaoyu/吾爱棋牌0806.m3u"
     },
     {
       "key": "lltv_体育",
       "name": "吾爱┃体育",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./jiaoyu/%E5%90%BE%E7%88%B1%E4%BD%93%E8%82%B20811.m3u?sign=7_RiK9ou54Do_u6kRgkj3f2VN76-Cd2Zq9865eNXI2Q%3D%3A0"
+      "ext": "./jiaoyu/吾爱体育0811.m3u"
     },
     {
       "key": "lltv_舞蹈",
       "name": "吾爱┃舞蹈",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://git.acwing.com/66tv/v3/-/raw/main/jiaoyu/%E5%90%BE%E7%88%B1%E8%88%9E%E8%B9%88.json?sign=E9PR-_2s_wEokfhY9mh8NMGPnf7iwyItONSu421JwpM%3D%3A0"
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/666tv/66/refs/heads/main/jiaoyu/吾爱舞蹈.json"
     },
     {
       "key": "lltv_戏曲",
       "name": "吾爱┃戏曲",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./jiaoyu/%E6%88%8F%E6%9B%B20723.json?sign=ngeZFFyT8EO0PacgodQnJmLlFv1K9VIKt6e9jP1TLpo%3D%3A0"
+      "ext": "./jiaoyu/戏曲0723.json"
     },
     {
       "key": "lltv_乐器",
       "name": "吾爱┃乐器",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./jiaoyu/%E5%90%BE%E7%88%B1%E4%B9%90%E5%99%A8.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0"
+      "ext": "./jiaoyu/吾爱乐器.json"
     },
     {
       "key": "lltv_足球",
       "name": "吾爱┃足球",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./jiaoyu/%E5%90%BE%E7%88%B1%E8%B6%B3%E7%90%83.json?sign=VMaEC4RO2aBcskY1fgOuhEtfG88uQpiwN1DyjYZGPiE%3D%3A0"
+      "ext": "./jiaoyu/吾爱足球.json"
     },
     {
       "key": "lltv_PS",
       "name": "吾爱┃PS",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://git.acwing.com/66tv/v3/-/raw/main/jiaoyu/%E5%90%BE%E7%88%B1PS.json?sign=D0w9SL-S30iOiTDUeRxAT8wPAuFA-XHUcqkwjWqTipA%3D%3A0"
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/666tv/66/refs/heads/main/jiaoyu/吾爱PS.json"
     },
     {
       "key": "lltv_UP",
       "name": "吾爱┃UP",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -428,18 +402,17 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./jiaoyu/%E5%90%BE%E7%88%B1UP%E4%B8%BB%E5%90%88%E9%9B%86.json?sign=DeQdPrG46oni5nhoRk_RENrU0Mp6jGaD6jMUFh_ung4%3D%3A0"
+      "ext": "./jiaoyu/吾爱UP主合集.json"
     },
     {
       "key": "lltv_EXCEL",
       "name": "吾爱┃Excel",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./jiaoyu/Excel%E6%95%99%E7%A8%8B.json?sign=3a_WkAa1xg59fzB5H2lsanfqcZuUjDsXGGMQZV7nTtw%3D%3A0"
+      "ext": "./jiaoyu/Excel教程.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
