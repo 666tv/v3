@@ -2,8 +2,7 @@
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
-"spider": "https://gitee.com/ll8000/test/raw/master/spider.jar",
-//"spider": "./jar/spider.jar;md5;627eba86a6654b6495f70b68e5e210e4",
+"spider": "./jar/66tv240812.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
 //"spider": "./jar/lltv.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 "wallpaper": "./by/66tv.png",
 "warningText": "勿信视频中任何广告！专人维护•定期更新！",
@@ -16,6 +15,7 @@
       "name": "👇点击首页选择资源📛⑥⑥宝藏团📛",
       "type": 3,
       "api": "csp_Douban",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 0
     },
     {
@@ -23,6 +23,7 @@
       "name": "66⚡️新片预告",
       "type": 3,
       "api": "csp_DouBan",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 0
     },
     {
@@ -67,6 +68,7 @@
       "name": "66⚡️GZ",
       "type": 3,
       "api": "csp_Gz360",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -74,7 +76,7 @@
 //教育~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_哔哩学堂",
-      "name": "哔哩┃学堂📛⑥⑥宝藏团📛",
+      "name": "哔哩┃学堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
