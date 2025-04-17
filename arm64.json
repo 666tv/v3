@@ -1149,11 +1149,10 @@
 //直播~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "lives": [
     {
-      "name": "IPTV",
+      "name": "IPV4",
       "type": 0,
       "playerType": 1,
-      "url": "https://gitee.com/ll8000/iptv/raw/master/output/result.txt",
-      //"url": "https://raw.gitmirror.com/666tv/iptv/master/output/result.txt",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "timeout": 10
