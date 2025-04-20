@@ -1,4 +1,4 @@
-7//大部分资源来源于网络和各大佬整合，在此致敬！
+//大部分资源来源于网络和各大佬整合，在此致敬！
 //软件接口完全免费，仅供学习交流使用，如有侵权请联系删除！
 
 {
@@ -425,13 +425,6 @@
       "playerType": 2,
       "api": "csp_Muou",
       "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
-    },
-    {
-      "key": "lltv_秀儿影视",
-      "name": "66⚡ER",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/秀儿影视.json"
     },
     {
       "key": "lltv_菲儿影视",
