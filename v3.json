@@ -539,6 +539,16 @@
       "ext": "https://www.wwgz.cn"
     },
     {
+      "key": "lltv_QD4K",
+      "name": "66⚡️QD",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://172.83.156.150:1010/api.php/app/"
+    },
+    {
       "key": "lltv_奇迹影视",
       "name": "66⚡️QJ",
       "type": 3,
@@ -754,6 +764,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_晴天",
+      "name": "(GD)66⚡️QT",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "jaHR0cHM6Ly9hcHBjbXMuc3VuNGsudG9wfGIwMjVkY2Q5YzI4OWNiYjN8YjAyNWRjZDljMjg5Y2JiMw=="
     },
     {
       "key": "lltv_大师兄影视-天天-道长-运输车",
