@@ -532,19 +532,12 @@
       "ext": "saHR0cDovL2Ntcy5taXRvdHYuY29tL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
     {
-      "key": "lltv_糯米影视",
-      "name": "66⚡️NM",
-      "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn"
-    },
-    /*{
       "key": "lltv_农民影视",
       "name": "66⚡️NM",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/农民影视.json"
-    },*/
+    },
     {
       "key": "lltv_QD4K",
       "name": "66⚡️QD",
@@ -768,6 +761,13 @@
       "api": "csp_Xdai",
       "playerType": 1,
       "ext": "jaHR0cHM6Ly93d3cuempjLmFwcHxhYjRlOWE0MjE2NzVmMTRifGFiNGU5YTQyMTY3NWYxNGJ8NDQy"
+    },
+    {
+      "key": "lltv_糯米影视",
+      "name": "(GD)66⚡️NM",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn"
     },
     {
       "key": "lltv_苹果影视",
