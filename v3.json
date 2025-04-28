@@ -126,6 +126,13 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_白白影视",
+      "name": "66⭐白白",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "ext": "https://www.subaibai.com"
+    },
+    {
       "key": "lltv_尘落影视",
       "name": "66⭐尘落",
       "type": 3,
@@ -160,13 +167,6 @@
       "playerType": 1,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/JP.js"
-    },
-    {
-      "key": "lltv_农民影视",
-      "name": "66⭐柠檬",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/农民影视.json"
     },
     {
       "key": "lltv_金牌影视",
@@ -371,13 +371,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_白白影视",
-      "name": "66⚡️BB",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "ext": "https://www.subaibai.com"
-    },
-    {
       "key": "lltv_哔哩影视[官]-道长",
       "name": "66⚡️BL",
       "type": 3,
@@ -545,6 +538,13 @@
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn"
     },
+    /*{
+      "key": "lltv_农民影视",
+      "name": "66⚡️NM",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/农民影视.json"
+    },*/
     {
       "key": "lltv_QD4K",
       "name": "66⚡️QD",
