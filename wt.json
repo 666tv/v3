@@ -30,20 +30,6 @@
       "ext": "./mov/zbdm/酷奇MV.js"
     },
     {
-      "key": "lltv_西瓜视频",
-      "name": "西瓜┃MV",
-      "type": 3,
-      "api": "csp_AmuXiguaV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-            "type": "rect",
-            "ratio": 1.597
-        }
-    },
-    {
       "key": "lltv_哔哩音乐",
       "name": "哔哩┃音乐",
       "type": 3,
