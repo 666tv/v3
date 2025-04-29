@@ -194,6 +194,13 @@
       "ext": "./mov/zbdm/哔哩MV.json"
     },
     {
+      "key": "lltv_酷奇MV",
+      "name": "66❤️酷奇MV",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/zbdm/酷奇MV.js"
+    },
+    {
       "key": "lltv_哔哩音乐",
       "name": "66❤️哔哩音乐",
       "type": 3,
@@ -203,20 +210,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./mov/zbdm/哔哩音乐.json"
-    },
-    {
-      "key": "lltv_西瓜视频",
-      "name": "66❤️西瓜视频",
-      "type": 3,
-      "api": "csp_AmuXiguaV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -648,6 +641,20 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_彼岸",
+      "name": "(GD)66⚡️BA",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://172.247.44.217:30011",
+        "dataKey": "JLa1oRdL6+eK7@M)",
+        "dataIv": "JLa1oRdL6+eK7@M)",
+        "deviceId": "",
+        "version": ""
+        }
     },
     {
       "key": "lltv_厂长弹幕",
