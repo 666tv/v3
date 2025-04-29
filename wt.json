@@ -145,7 +145,6 @@
       "type": 3,
       "api": "csp_Kanqiu",
       "jar": "./jar/spider250321.jar",
-      "searchable": 0,
       "style": {
             "type": "list"
         }
