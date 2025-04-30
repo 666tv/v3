@@ -169,12 +169,48 @@
       "ext": "./mov/js/JP.js"
     },
     {
+      "key": "lltv_浪酷影视",
+      "name": "66⭐浪酷",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.lkuys.cn"
+        }
+    },
+    {
       "key": "lltv_农民影视",
       "name": "66⭐糯米",
       "type": 3,
       "api": "csp_Wwys",
       "quickSearch": 1,
       "ext": "https://www.wwgz.cn"
+    },
+    {
+      "key": "lltv_热播影视",
+      "name": "66⭐热播",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+        }
+    },
+    {
+      "key": "lltv_天天影视",
+      "name": "66⭐天天",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://tt.ysdqjs.cn"
+        }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -253,42 +289,6 @@
           }
       },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
-      "key": "lltv_浪酷弹幕",
-      "name": "66⚡️LK弹幕",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.lkuys.cn"
-        }
-    },
-    {
-      "key": "lltv_热播弹幕",
-      "name": "66⚡️RB弹幕",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-        }
-    },
-    {
-      "key": "lltv_天天弹幕",
-      "name": "66⚡️TT弹幕",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://tt.ysdqjs.cn"
-        }
-    },
     {
       "key": "lltv_火车影视",
       "name": "PY⚡️HC",
