@@ -361,8 +361,8 @@
       "type": 3,
       "api": "csp_Web1905",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "lltv_哔哩影视[官]-道长",
@@ -376,7 +376,7 @@
       "ext": "./mov/js/哔哩影视[官].js"
     },
     {
-      "key": "lltv_茶狐杯-天天",
+      "key": "lltv_茶杯狐-天天",
       "name": "66⚡️CB",
       "type": 3,
       "api": "csp_XBPQ",
@@ -393,7 +393,7 @@
       "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
     },
     {
-      "key": "lltv_DD-XYQ-肥猫-道长-鸭-巧技",
+      "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⚡️DD",
       "type": 3,
       "api": "csp_Ddys",
@@ -402,34 +402,25 @@
       "filterable": 1
     },
     {
-      "key": "lltv_二三",
-      "name": "66⚡️ES",
+      "key": "lltv_攻阁影视",
+      "name": "66⚡️GG",
       "type": 3,
-      "playerType": 2,
-      "api": "csp_Muou",
-      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+      "playerType": "2",
+      "api": "csp_Lggys"
     },
     {
       "key": "lltv_光速",
       "name": "66⚡️GS",
       "type": 3,
-      "api": "csp_AppGet",
       "quickSearch": 1,
+      "api": "csp_AppGet",
       "ext": {
-        "url": "http://59.153.167.137:8899",
-        "dataKey": "4d83b87c4c5ea111",
-        "dataIv": "4d83b87c4c5ea111",
-        "deviceId": "",
-        "version": "462"
+        "url": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899",
+        "dataKey": "k9o3p2c8b7m3z0o8",
+        "dataIv": "k9o3p2c8b7m3z0o8",
+        "deviceId": "2f085931bcbd83a2bbc8ba1fc66243cd2",
+        "version": "112"
         }
-    },
-    {
-      "key": "lltv_蝴蝶-巧技",
-      "name": "66⚡️HD",
-      "type": 3,
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
     {
       "key": "lltv_HG影视",
@@ -451,6 +442,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/狐狸君.json"
+    },
+    {
+      "key": "lltv_绝对影视",
+      "name": "66⚡️JD",
+      "type": 3,
+      "api": "csp_FourK",
+      "ext": "https://www.4kvm.tv"
     },
     {
       "key": "lltv_快看影视-PG-XYQ-云星-Yu-巧技",
@@ -512,8 +510,8 @@
       "key": "lltv_米兔",
       "name": "66⚡️MT",
       "type": 3,
-      "api": "csp_AppGet",
       "quickSearch": 1,
+      "api": "csp_AppGet",
       "ext": {
         "url": "https://www.zjc.app",
         "dataKey": "ab4e9a421675f14b",
@@ -540,17 +538,24 @@
       "ext": "http://172.83.156.150:1010/api.php/app/"
     },
     {
+      "key": "lltv_剧圈圈",
+      "name": "66⚡️QQ",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/剧圈圈.js"
+    },
+    {
       "key": "lltv_三六零",
       "name": "66⚡️SL",
       "type": 3,
       "api": "csp_SP360"
     },
     {
-      "key": "lltv_秀儿影视",
-      "name": "66⚡️XE",
+      "key": "lltv_雪糕影视",
+      "name": "66⚡️XG",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./mov/json/秀儿影视.json"
+      "ext": "./mov/json/雪糕影视.json"
     },
     {
       "key": "lltv_修罗影视",
@@ -580,14 +585,18 @@
       "api": "csp_KmeiJu"
     },
     {
-      "key": "lltv_电影牛",
-      "name": "66⚡️YN",
+      "key": "lltv_优质",
+      "name": "66⚡️YZ",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
+      "api": "csp_AppGet",
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/电影牛.json"
+      "ext": {
+        "url": "https://apiapplbys.lbys.cc:5678",
+        "dataKey": "apiapplbyskey168",
+        "dataIv": "apiapplbyskey168",
+        "deviceId": "",
+        "version": "107"
+        }
     },
     {
       "key": "lltv_追剧影视",
@@ -612,20 +621,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "lltv_彼岸",
-      "name": "(GD)66⚡️BA",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://172.247.44.217:30011",
-        "dataKey": "JLa1oRdL6+eK7@M)",
-        "dataIv": "JLa1oRdL6+eK7@M)",
-        "deviceId": "",
-        "version": ""
-        }
     },
     {
       "key": "lltv_厂长弹幕",
