@@ -1350,9 +1350,8 @@
     {
       "name": "IPTV",
       "type": 0,
-      "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.txt",
+      "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "timeout": 10
     },
     {
