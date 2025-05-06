@@ -133,13 +133,13 @@
       "ext": "https://www.subaibai.com"
     },
     {
-      "key": "lltv_尘落影视",
-      "name": "66⭐尘落",
+      "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
+      "name": "66⭐多多",
       "type": 3,
-      "api": "csp_Wetv",
+      "api": "csp_Ddys",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "https://v.wetv.wang"
+      "filterable": 1
     },
     {
       "key": "lltv_瓜子影视",
@@ -393,20 +393,13 @@
       "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
     },
     {
-      "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
-      "name": "66⚡️DD",
+      "key": "lltv_尘落影视",
+      "name": "66⚡️CL",
       "type": 3,
-      "api": "csp_Ddys",
+      "api": "csp_Wetv",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_攻阁影视",
-      "name": "66⚡️GG",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Lggys"
+      "ext": "https://v.wetv.wang"
     },
     {
       "key": "lltv_光速",
