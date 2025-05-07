@@ -178,6 +178,20 @@
       "ext": "./dongman/花子动漫.js"
     },
     {
+      "key": "lltv_米饭动漫",
+      "name": "米饭┃动漫",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://45.43.29.111:9527",
+        "dataKey": "GETMIFUNGEIMIFUN",
+        "dataIv": "GETMIFUNGEIMIFUN",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
       "key": "lltv_曼波动漫",
       "name": "曼波┃动漫",
       "type": 3,
