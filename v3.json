@@ -402,6 +402,19 @@
       "ext": "https://v.wetv.wang"
     },
     {
+      "key": "lltv_二三",
+      "name": "66⚡️ES",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppMuou",
+      "ext": {
+        "url": "http://cs4.123ysw.com",
+        "dataKey": "d3238930e3ae0724",
+        "dataIv": "d3238930e3ae0724",
+        "jxurl": "https://123ysw.com"
+        }
+    },
+    {
       "key": "lltv_光速",
       "name": "66⚡️GS",
       "type": 3,
@@ -576,6 +589,19 @@
       "name": "66⚡️YL",
       "type": 3,
       "api": "csp_KmeiJu"
+    },
+    {
+      "key": "lltv_永夜",
+      "name": "66⚡️YY",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppMuou",
+      "ext": {
+        "url": "http://cms.neyym.cn",
+        "dataKey": "66247d82fcfaeda9",
+        "dataIv": "70691065ee3c4c54",
+        "jxurl": "http://app.neyym.cn"
+        }
     },
     {
       "key": "lltv_优质",
