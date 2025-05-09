@@ -642,7 +642,21 @@
       "filterable": 1
     },
     {
-      "key": "lltv_厂长弹幕",
+      "key": "lltv_彼岸",
+      "name": "(GD)66⚡️BA",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://172.247.44.217:30012",
+        "dataKey": "JLa1oRdL6+eK7@M)",
+        "dataIv": "JLa1oRdL6+eK7@M)",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
+      "key": "lltv_厂长影视",
       "name": "(GD)66⚡️CZ",
       "type": 3,
       "playerType": "2",
