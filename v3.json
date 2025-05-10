@@ -11,8 +11,8 @@
 
 "sites": [
 
-    /*{
-      "key": "lltv_豆瓣推荐",
+    {
+      "key": "lltv_豆瓣JS",
       "name": "👇长按主页刷新资源📛⑥⑥宝藏团📛",
       "type": 3,
       "api": "./js/drpy2.min.js",
@@ -21,14 +21,14 @@
       "filterable": 0,
       "order_num": 0,
       "ext": "./js/douban.js"
-    },*/
-    {
+    },
+    /*{
       "key": "lltv_豆瓣",
       "name": "👇长按主页刷新资源📛⑥⑥宝藏团📛",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
-    },
+    },*/
     {
       "key": "lltv_豆瓣预告",
       "name": "66⚡️新片预告",
@@ -556,6 +556,20 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/剧圈圈.js"
+    },
+    {
+      "key": "lltv_人人",
+      "name": "66⚡RR",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+          "url": "https://svip1.fun",
+          "dataKey": "laodiesdawsswasd",
+          "dataIv": "laodiesdawsswasd",
+          "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+          "version": "105"
+        }
     },
     {
       "key": "lltv_三六零",
