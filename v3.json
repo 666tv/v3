@@ -60,9 +60,9 @@
       "filterable": 1,
       "changeable": 1,
       "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
+          "type": "list",
+          "ratio": 1.433
+        },
       "ext": "./mov/json/pan1.json?"
     },
     {
@@ -85,9 +85,9 @@
       "filterable": 1,
       "changeable": 1,
       "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
+          "type": "list",
+          "ratio": 1.433
+        },
       "ext": "./mov/json/hm.json?"
     },
     {
@@ -100,9 +100,9 @@
       "filterable": 1,
       "changeable": 1,
       "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
+          "type": "list",
+          "ratio": 1.433
+        },
       "ext": "./mov/json/kf.json"
     },
     {
@@ -115,9 +115,9 @@
       "filterable": 1,
       "changeable": 1,
       "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
+          "type": "list",
+          "ratio": 1.433
+        },
       "ext": "./mov/json/lj.json?"
     },
     {
