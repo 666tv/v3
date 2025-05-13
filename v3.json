@@ -541,6 +541,20 @@
       "ext": "./mov/json/农民影视.json"
     },
     {
+      "key": "lltv_牛马",
+      "name": "66⚡️NN",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://nm.xxxc137.top",
+        "dataKey": "a006661b01bdebbd",
+        "dataIv": "a006661b01bdebbd",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
       "key": "lltv_QD4K",
       "name": "66⚡️QD",
       "type": 3,
