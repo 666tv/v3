@@ -331,27 +331,6 @@
       "filterable": 1,
       "playerType": 2
     },
-    {
-      "key": "lltv_腾讯弹幕",
-      "name": "66⚡️腾讯",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/zbdm/腾讯弹幕.js"
-    },
-    {
-      "key": "lltv_优酷弹幕",
-      "name": "66⚡️优酷",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/zbdm/优酷弹幕.js"
-    },
-    {
-      "key": "lltv_爱奇艺弹幕",
-      "name": "66⚡️爱奇艺",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/zbdm/爱奇艺弹幕.js"
-    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_360",
