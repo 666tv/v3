@@ -409,6 +409,20 @@
       "ext": "https://v.wetv.wang"
     },
     {
+      "key": "lltv_电影",
+      "name": "66⚡️DY",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://111.180.198.40:1110",
+        "dataKey": "asgcxhjkts124573",
+        "dataIv": "asgcxhjkts124573",
+        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+        "version": "701"
+        }
+    },
+    {
       "key": "lltv_二三",
       "name": "66⚡️ES",
       "type": 3,
@@ -462,6 +476,20 @@
       "type": 3,
       "api": "csp_FourK",
       "ext": "https://www.4kvm.tv"
+    },
+    {
+      "key": "lltv_橘子",
+      "name": "66⚡️JZ",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://api1.bffree.cn",
+        "dataKey": "2015692015692015",
+        "dataIv": "2015692015692015",
+        "deviceId": "",
+        "version": "300"
+        }
     },
     {
       "key": "lltv_快看影视-PG-XYQ-云星-Yu-巧技",
@@ -541,20 +569,6 @@
       "ext": "./mov/json/农民影视.json"
     },
     {
-      "key": "lltv_牛马",
-      "name": "66⚡️NN",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://nm.xxxc137.top",
-        "dataKey": "a006661b01bdebbd",
-        "dataIv": "a006661b01bdebbd",
-        "deviceId": "",
-        "version": ""
-        }
-    },
-    {
       "key": "lltv_QD4K",
       "name": "66⚡️QD",
       "type": 3,
@@ -598,6 +612,20 @@
       "api": "csp_XBPQ",
       "ext": "./mov/json/雪糕影视.json"
     },
+     {
+      "key": "lltv_星河",
+      "name": "66⚡️XH",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://121.62.22.204:9876",
+        "dataKey": "f5e2tx53ykp6s2c9",
+        "dataIv": "f5e2tx53ykp6s2c9",
+        "deviceId": "",
+        "version": "361"
+        }
+    },
     {
       "key": "lltv_修罗影视",
       "name": "66⚡️XL",
@@ -609,15 +637,18 @@
       "ext": "./mov/json/修罗影视.json"
     },
     {
-      "key": "lltv_云端影视",
+      "key": "lltv_雨滴",
       "name": "66⚡️YD",
       "type": 3,
-      "api": "csp_AppGetApp",
-      "jar": "./jar/spider250401.jar",
-      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgw6zCrcKpwqjDs8KXwqnCo8KUw7LDocObw6bDo8KWwpTCn8Kdw5rDnMOow6fDm8KgwpVeZsKxwqHDocOywrRkYGZnwrHCosOdwrLDp2XCmsKjYsKywqvDssKxwqzCm2ZfwpzCssOgwrLDm8OyZWPCmmLDqMKlw6rCssOrYsKUwqnCnsOaw6DDo8Ocw57CosKdwpHCmcOnw6HDm8Omw59hwqTCqMKkwqDCn8KawqDDjcKcwqTClcKFw6vDn8KhwrPCmlpXXFDCoMK8w6jDosOuworCn8KiwpTCoMKtwprCoMOjwqHCmcKkwobCqsKkwrPCoMKmU1fCpMKZw6nCmsK0wpnCocKO5Ya16YSY5o+V5ZGcwp/lh6bkvpDlkbFt5b6h6Ke26LW05ryJ562Mw5fCoMKmU1dxwpXDrMK+w5/DssKhbVBXwpvCssOiwq3DqcKswpZowpJnw6bCpsO0wqnDqWtXXFDCoMK0w5/DrMODwqlXalDCoMOewrPDqMKtwqNiwpNow5vCqsOnwqzDtGPCn2hXwqXCk8Khw53Dn8KWwqLCqcKgw63CvsOfw7LCoW1QV8Knw67DrMOjwq/CsGlXwq0="
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
+        "dataKey": "k9o3p2c8b7m3z0o8",
+        "dataIv": "k9o3p2c8b7m3z0o8",
+        "deviceId": "",
+        "version": "100"
+        }
     },
     {
       "key": "lltv_鸭梨影视",
@@ -746,6 +777,20 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/海纳影视.json"
+    },
+    {
+      "key": "lltv_集多",
+      "name": "(GD)66⚡️JD",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://220.231.146.94:6261",
+        "dataKey": "hL7xN4P9rS2vK5Mq",
+        "dataIv": "hL7xN4P9rS2vK5Mq",
+        "deviceId": "",
+        "version": "200"
+        }
     },
     {
       "key": "lltv_极速采集",
