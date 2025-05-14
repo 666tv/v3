@@ -409,20 +409,6 @@
       "ext": "https://v.wetv.wang"
     },
     {
-      "key": "lltv_电影",
-      "name": "66⚡️DY",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://111.180.198.40:1110",
-        "dataKey": "asgcxhjkts124573",
-        "dataIv": "asgcxhjkts124573",
-        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-        "version": "701"
-        }
-    },
-    {
       "key": "lltv_二三",
       "name": "66⚡️ES",
       "type": 3,
