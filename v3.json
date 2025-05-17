@@ -388,6 +388,20 @@
       "ext": "https://v.wetv.wang"
     },
     {
+      "key": "lltv_仓鼠",
+      "name": "66⚡CS",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://appcms.cs4k.top",
+        "dataKey": "Hui6595253......",
+        "dataIv": "Hui6595253......",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
       "key": "lltv_二三",
       "name": "66⚡️ES",
       "type": 3,
