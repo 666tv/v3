@@ -388,20 +388,6 @@
       "ext": "https://v.wetv.wang"
     },
     {
-      "key": "lltv_仓鼠",
-      "name": "66⚡CS",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://appcms.cs4k.top",
-        "dataKey": "Hui6595253......",
-        "dataIv": "Hui6595253......",
-        "deviceId": "",
-        "version": ""
-        }
-    },
-    {
       "key": "lltv_二三",
       "name": "66⚡️ES",
       "type": 3,
@@ -696,6 +682,20 @@
         "url": "http://172.247.44.217:30012",
         "dataKey": "JLa1oRdL6+eK7@M)",
         "dataIv": "JLa1oRdL6+eK7@M)",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
+      "key": "lltv_仓鼠",
+      "name": "(GD)66⚡CS",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://appcms.cs4k.top",
+        "dataKey": "Hui6595253......",
+        "dataIv": "Hui6595253......",
         "deviceId": "",
         "version": ""
         }
