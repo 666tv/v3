@@ -809,6 +809,20 @@
       ]
     },
     {
+      "key": "lltv_诺雪",
+      "name": "(GD)66⚡️NX",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://appcms.rx4k.top",
+        "dataKey": "LiGFzV6csf21zsu6",
+        "dataIv": "LiGFzV6csf21zsu6",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
       "key": "lltv_苹果影视",
       "name": "(GD)66⚡️PG",
       "type": 3,
