@@ -842,20 +842,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_晴天",
-      "name": "(GD)66⚡️QT",
-      "type": 3,
-      "api": "csp_AppGet",
-      "quickSearch": 1,
-      "ext": {
-        "url": "https://appcms.sun4k.top",
-        "dataKey": "b025dcd9c289cbb3",
-        "dataIv": "b025dcd9c289cbb3",
-        "deviceId": "",
-        "version": ""
-        }
-    },
-    {
       "key": "lltv_大师兄影视-天天-道长-运输车",
       "name": "(GD)66⚡SX",
       "type": 3,
