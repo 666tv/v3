@@ -398,6 +398,20 @@
       "ext": "https://www.4kvm.tv"
     },
     {
+      "key": "lltv_橘猫",
+      "name": "66⚡️JM",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://appcms.jm4k.top",
+        "dataKey": "KPEkKAESYi38CQdn",
+        "dataIv": "KPEkKAESYi38CQdn",
+        "deviceId": "",
+        "version": "119"
+        }
+    },
+    {
       "key": "lltv_橘子",
       "name": "66⚡️JZ",
       "type": 3,
@@ -519,6 +533,20 @@
       "ext": "./mov/js/剧圈圈.js"
     },
     {
+      "key": "lltv_晴天",
+      "name": "66⚡️QT",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://qjappcms.sun4k.top",
+        "dataKey": "sBxqXVF5pAHbGzrH",
+        "dataIv": "sBxqXVF5pAHbGzrH",
+        "deviceId": "",
+        "version": "119"
+        }
+    },
+    {
       "key": "lltv_人人",
       "name": "66⚡RR",
       "type": 3,
@@ -530,6 +558,20 @@
           "dataIv": "laodiesdawsswasd",
           "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
           "version": "105"
+        }
+    },
+    {
+      "key": "lltv_忍者",
+      "name": "66⚡RZ",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://mfxs123.sbs",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321",
+        "deviceId": "",
+        "version": ""
         }
     },
     {
