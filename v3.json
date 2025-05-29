@@ -88,6 +88,48 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_橘猫",
+      "name": "4K⭐橘猫",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://appcms.jm4k.top",
+        "dataKey": "KPEkKAESYi38CQdn",
+        "dataIv": "KPEkKAESYi38CQdn",
+        "deviceId": "",
+        "version": "119"
+        }
+    },
+    {
+      "key": "lltv_晴天",
+      "name": "4K⭐晴天",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://qjappcms.sun4k.top",
+        "dataKey": "sBxqXVF5pAHbGzrH",
+        "dataIv": "sBxqXVF5pAHbGzrH",
+        "deviceId": "",
+        "version": "119"
+        }
+    },
+    {
+      "key": "lltv_忍者",
+      "name": "4K⭐忍者",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://mfxs123.sbs",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
       "key": "lltv_白白影视",
       "name": "66⭐白白",
       "type": 3,
@@ -121,6 +163,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_金牌影视",
+      "name": "66⭐金牌",
+      "type": 3,
+      "api": "./py/金牌影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+        }
     },
     {
       "key": "lltv_JP-道长-天天-鸭-巧技",
@@ -172,6 +227,34 @@
       "filterable": 0,
       "ext": {
         "url": "http://tt.ysdqjs.cn"
+        }
+    },
+    {
+      "key": "lltv_外剧",
+      "name": "66⭐外剧",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://guowaiju.com",
+        "dataKey": "7xv16h7qgkrs9b1p",
+        "dataIv": "7xv16h7qgkrs9b1p",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
+      "key": "lltv_在看",
+      "name": "66⭐在看",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://149.88.64.161:8627",
+        "dataKey": "123456789ABCDEFG",
+        "dataIv": "123456789ABCDEFG",
+        "deviceId": "2bb4c10f3e043307dbfc579bd0db23f4e",
+        "version": "110"
         }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -252,42 +335,6 @@
       },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_火车影视",
-      "name": "PY⚡️HC",
-      "type": 3,
-      "api": "./py/火车影视.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "lltv_金牌影视",
-      "name": "PY⚡️JP",
-      "type": 3,
-      "api": "./py/金牌影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-        }
-    },
-    {
-      "key": "lltv_猎手影视",
-      "name": "PY⚡️LS",
-      "type": 3,
-      "api": "./py/猎手影视.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
       "key": "lltv_360",
       "name": "66⚡️360",
       "type": 3,
@@ -356,20 +403,6 @@
         }
     },
     {
-      "key": "lltv_光速",
-      "name": "66⚡️GS",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899",
-        "dataKey": "k9o3p2c8b7m3z0o8",
-        "dataIv": "k9o3p2c8b7m3z0o8",
-        "deviceId": "2f085931bcbd83a2bbc8ba1fc66243cd2",
-        "version": "112"
-        }
-    },
-    {
       "key": "lltv_HG影视",
       "name": "66⚡️HG",
       "type": 3,
@@ -398,20 +431,6 @@
       "ext": "https://www.4kvm.tv"
     },
     {
-      "key": "lltv_橘猫",
-      "name": "66⚡️JM",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://appcms.jm4k.top",
-        "dataKey": "KPEkKAESYi38CQdn",
-        "dataIv": "KPEkKAESYi38CQdn",
-        "deviceId": "",
-        "version": "119"
-        }
-    },
-    {
       "key": "lltv_橘子",
       "name": "66⚡️JZ",
       "type": 3,
@@ -433,6 +452,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_猎手影视",
+      "name": "66⚡️LS",
+      "type": 3,
+      "api": "./py/猎手影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "lltv_量子采集",
@@ -533,17 +563,17 @@
       "ext": "./mov/js/剧圈圈.js"
     },
     {
-      "key": "lltv_忍者",
-      "name": "66⚡RZ",
+      "key": "lltv_人人",
+      "name": "66⚡️RR",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "https://mfxs123.sbs",
-        "dataKey": "1234567887654321",
-        "dataIv": "1234567887654321",
-        "deviceId": "",
-        "version": ""
+        "url": "https://www.xiaohys.com",
+        "dataKey": "ENonBHeVBoYZhVUV",
+        "dataIv": "ENonBHeVBoYZhVUV",
+        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+        "version": "166"
         }
     },
     {
@@ -614,20 +644,6 @@
         "dataKey": "66247d82fcfaeda9",
         "dataIv": "70691065ee3c4c54",
         "jxurl": "http://app.neyym.cn"
-        }
-    },
-    {
-      "key": "lltv_优质",
-      "name": "66⚡️YZ",
-      "type": 3,
-      "api": "csp_AppGet",
-      "quickSearch": 1,
-      "ext": {
-        "url": "https://apiapplbys.lbys.cc:5678",
-        "dataKey": "apiapplbyskey168",
-        "dataIv": "apiapplbyskey168",
-        "deviceId": "",
-        "version": "107"
         }
     },
     {
