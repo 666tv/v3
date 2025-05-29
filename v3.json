@@ -533,20 +533,6 @@
       "ext": "./mov/js/剧圈圈.js"
     },
     {
-      "key": "lltv_人人",
-      "name": "66⚡RR",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-          "url": "https://svip1.fun",
-          "dataKey": "laodiesdawsswasd",
-          "dataIv": "laodiesdawsswasd",
-          "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-          "version": "105"
-        }
-    },
-    {
       "key": "lltv_忍者",
       "name": "66⚡RZ",
       "type": 3,
