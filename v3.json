@@ -12,6 +12,13 @@
 "sites": [
 
     {
+      "key": "lltv_豆瓣",
+      "name": "👇长按主页刷新资源📛⑥⑥宝藏团📛",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    /*{
       "key": "lltv_豆瓣JS",
       "name": "👇长按主页刷新资源📛⑥⑥宝藏团📛",
       "type": 3,
@@ -21,13 +28,6 @@
       "filterable": 0,
       "order_num": 0,
       "ext": "./js/douban.js"
-    },
-    /*{
-      "key": "lltv_豆瓣",
-      "name": "👇长按主页刷新资源📛⑥⑥宝藏团📛",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
     },*/
     {
       "key": "lltv_豆瓣预告",
@@ -523,6 +523,20 @@
         "dataIv": "ab4e9a421675f14b",
         "deviceId": "",
         "version": "442"
+        }
+    },
+    {
+      "key": "lltv_梦缘",
+      "name": "66⚡️MY",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://150.138.84.88:44444",
+        "dataKey": "fdnwxwnkyylwdyqh",
+        "dataIv": "fdnwxwnkyylwdyqh",
+        "deviceId": "29ac7568b4dc23ca9a40b6ca5b7cc6f68",
+        "version": "520"
         }
     },
     {
