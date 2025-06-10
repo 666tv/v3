@@ -166,6 +166,19 @@
       "filterable": 1
     },
     {
+      "key": "lltv_金牌影视",
+      "name": "66⭐金牌",
+      "type": 3,
+      "api": "./py/金牌影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+        }
+    },
+    {
       "key": "lltv_JP-道长-天天-鸭-巧技",
       "name": "66⭐荐片",
       "type": 3,
@@ -185,20 +198,6 @@
         "dataIv": "qwertyuiopqwerty",
         "deviceId": "",
         "version": "120"
-        }
-    },
-    {
-      "key": "lltv_开心",
-      "name": "66⭐开心",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://tv.31hl.cn",
-        "dataKey": "2268331221bobobo",
-        "dataIv": "2268331221bobobo",
-        "deviceId": "",
-        "version": ""
         }
     },
     {
