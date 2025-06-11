@@ -138,6 +138,20 @@
       "ext": "https://www.subaibai.com"
     },
     {
+      "key": "lltv_超前",
+      "name": "66⭐超前",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://app.ystva.com",
+        "dataKey": "A1akVPQmnnE4Fz9Z",
+        "dataIv": "A1akVPQmnnE4Fz9Z",
+        "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+        "version": "134"
+        }
+    },
+    {
       "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⭐多多",
       "type": 3,
@@ -165,7 +179,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+    /*{
       "key": "lltv_金牌影视",
       "name": "66⭐金牌",
       "type": 3,
@@ -177,7 +191,7 @@
       "ext": {
         "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
         }
-    },
+    },*/
     {
       "key": "lltv_JP-道长-天天-鸭-巧技",
       "name": "66⭐荐片",
@@ -383,20 +397,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "https://v.wetv.wang"
-    },
-    {
-      "key": "lltv_超前",
-      "name": "66⚡️CQ",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://app.ystva.com",
-        "dataKey": "A1akVPQmnnE4Fz9Z",
-        "dataIv": "A1akVPQmnnE4Fz9Z",
-        "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
-        "version": "134"
-        }
     },
     {
       "key": "lltv_二三",
@@ -681,6 +681,20 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/修罗影视.json"
+    },
+    {
+      "key": "lltv_雄鹰",
+      "name": "66⚡️XY",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "http://122.228.193.2:9988",
+        "dataKey": "ca94b06ca359d80e",
+        "dataIv": "ca94b06ca359d80e",
+        "deviceId": "",
+        "version": "120"
+        }
     },
     {
       "key": "lltv_雨滴",
