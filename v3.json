@@ -102,6 +102,20 @@
         }
     },
     {
+      "key": "lltv_海豚",
+      "name": "4K⭐海豚",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://appcms.htsp4k.top",
+        "dataKey": "7CYQQzwchRQpHCOj",
+        "dataIv": "7CYQQzwchRQpHCOj",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
       "key": "lltv_溜溜",
       "name": "4K⭐溜溜",
       "type": 3,
@@ -113,20 +127,6 @@
         "dataIv": "NiDGaKiVnkO3QX1Q",
         "deviceId": "2fbaf48ee97783260bc907e3ab0bd40c3",
         "version": "200"
-        }
-    },
-    {
-      "key": "lltv_忍者",
-      "name": "4K⭐忍者",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://mfxs123.sbs",
-        "dataKey": "1234567887654321",
-        "dataIv": "1234567887654321",
-        "deviceId": "",
-        "version": ""
         }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -201,20 +201,6 @@
       "ext": "./mov/js/JP.js"
     },
     {
-      "key": "lltv_咖啡",
-      "name": "66⭐咖啡",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "http://160.202.243.62:2566",
-        "dataKey": "qwertyuiopqwerty",
-        "dataIv": "qwertyuiopqwerty",
-        "deviceId": "",
-        "version": "120"
-        }
-    },
-    {
       "key": "lltv_浪酷影视",
       "name": "66⭐浪酷",
       "type": 3,
@@ -264,6 +250,19 @@
       "filterable": 0,
       "ext": {
         "url": "http://tt.ysdqjs.cn"
+        }
+    },
+    {
+      "key": "lltv_柚子",
+      "name": "66⭐柚子",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppMuou",
+      "ext": {
+        "url": "http://172.247.192.138:17263",
+        "dataKey": "3f94fca574a811a8",
+        "dataIv": "3f94fca574a811a8",
+        "jxurl": "http://172.247.192.140:12264"
         }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
