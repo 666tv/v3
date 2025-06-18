@@ -31,7 +31,6 @@
       "name": "66❤️哔哩MV",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/66tv240812.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -43,18 +42,47 @@
       "name": "66⭐白白",
       "type": 3,
       "api": "csp_SuBaiBai",
-      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "ext": "https://www.subaibai.com"
     },
     {
-      "key": "lltv_尘落影视",
-      "name": "66⭐尘落",
+      "key": "lltv_仓鼠",
+      "name": "66⭐仓鼠",
       "type": 3,
-      "api": "csp_Wetv",
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
+      "ext": {
+          "url": "https://qjappcms.cs4k.top",
+          "dataKey": "Z98KXaLtO2wC1Pte",
+          "dataIv": "Z98KXaLtO2wC1Pte",
+          "deviceId": "",
+          "version": "120"
+        }
+    },
+    {
+      "key": "lltv_超前",
+      "name": "66⭐超前",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
+      "ext": {
+        "url": "https://app.ystva.com",
+        "dataKey": "A1akVPQmnnE4Fz9Z",
+        "dataIv": "A1akVPQmnnE4Fz9Z",
+        "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+        "version": "134"
+        }
+    },
+    {
+      "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
+      "name": "66⭐多多",
+      "type": 3,
+      "api": "csp_Ddys",
       "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "https://v.wetv.wang"
+      "filterable": 1
     },
     {
       "key": "lltv_瓜子影视",
@@ -66,6 +94,21 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    /*{
+      "key": "lltv_海豚",
+      "name": "66⭐海豚",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
+      "ext": {
+        "url": "https://appcms.htsp4k.top",
+        "dataKey": "7CYQQzwchRQpHCOj",
+        "dataIv": "7CYQQzwchRQpHCOj",
+        "deviceId": "",
+        "version": ""
+        }
+    },*/
     {
       "key": "lltv_韩小圈",
       "name": "66⭐韩剧",
@@ -85,7 +128,7 @@
       "ext": "./mov/js/JP.js"
     },
     {
-      "key": "lltv_浪酷弹幕",
+      "key": "lltv_浪酷影视",
       "name": "66⭐浪酷",
       "type": 3,
       "api": "csp_AppRJ",
@@ -96,6 +139,82 @@
       "ext": {
         "url": "http://v.lkuys.cn"
         }
+    },
+    {
+      "key": "lltv_农民",
+      "name": "66⭐糯米",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/农民影视.json"
+    },
+    {
+      "key": "lltv_苹果影视",
+      "name": "66⭐苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_热播影视",
+      "name": "66⭐热播",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+        }
+    },
+    {
+      "key": "lltv_天天影视",
+      "name": "66⭐天天",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://tt.ysdqjs.cn"
+        }
+    },
+//短剧~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "lltv_星芽短剧",
+      "name": "星芽⚡️短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "lltv_夜猫短剧-夜猫子",
+      "name": "夜猫⚡️短剧",
+      "type": 3,
+      "api": "csp_YMduanju",
+      "jar": "./jar/ymdj.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_极速短剧",
+      "name": "极速⚡️短剧",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
+      "playurl": "json:https://jsjiexi.com/play/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "短剧"
+      ]
     },
 //教育~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
