@@ -88,49 +88,6 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_仓鼠",
-      "name": "4K⭐仓鼠",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-          "url": "https://qjappcms.cs4k.top",
-          "dataKey": "Z98KXaLtO2wC1Pte",
-          "dataIv": "Z98KXaLtO2wC1Pte",
-          "deviceId": "",
-          "version": "120"
-        }
-    },
-    {
-      "key": "lltv_海豚",
-      "name": "4K⭐海豚",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://appcms.htsp4k.top",
-        "dataKey": "7CYQQzwchRQpHCOj",
-        "dataIv": "7CYQQzwchRQpHCOj",
-        "deviceId": "",
-        "version": ""
-        }
-    },
-    {
-      "key": "lltv_溜溜",
-      "name": "4K⭐溜溜",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://appcms.ll4k.xyz",
-        "dataKey": "NiDGaKiVnkO3QX1Q",
-        "dataIv": "NiDGaKiVnkO3QX1Q",
-        "deviceId": "2fbaf48ee97783260bc907e3ab0bd40c3",
-        "version": "200"
-        }
-    },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
       "key": "lltv_白白影视",
       "name": "66⭐白白",
       "type": 3,
@@ -213,6 +170,20 @@
         }
     },
     {
+      "key": "lltv_魔方",
+      "name": "66⭐魔方",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://mfsp33.top",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
       "key": "lltv_糯米",
       "name": "66⭐糯米",
       "type": 3,
@@ -250,19 +221,6 @@
       "filterable": 0,
       "ext": {
         "url": "http://tt.ysdqjs.cn"
-        }
-    },
-    {
-      "key": "lltv_柚子",
-      "name": "66⭐柚子",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "http://172.247.192.138:17263",
-        "dataKey": "3f94fca574a811a8",
-        "dataIv": "3f94fca574a811a8",
-        "jxurl": "http://172.247.192.140:12264"
         }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
