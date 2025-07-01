@@ -321,43 +321,11 @@
       "ext": "./mov/js/哔哩影视[官].js"
     },
     {
-      "key": "lltv_茶杯狐-天天",
-      "name": "66⚡️CB",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/茶狐杯.json"
-    },
-    {
       "key": "lltv_采集之王",
       "name": "66⚡️CJ",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
-    },
-    {
-      "key": "lltv_尘落影视",
-      "name": "66⚡️CL",
-      "type": 3,
-      "api": "csp_Wetv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://v.wetv.wang"
-    },
-    {
-      "key": "lltv_二三",
-      "name": "66⚡️ES",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "http://cs4.123ysw.com",
-        "dataKey": "d3238930e3ae0724",
-        "dataIv": "d3238930e3ae0724",
-        "jxurl": "https://123ysw.com"
-        }
     },
     {
       "key": "lltv_HG影视",
@@ -379,13 +347,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/狐狸君.json"
-    },
-    {
-      "key": "lltv_绝对影视",
-      "name": "66⚡️JD",
-      "type": 3,
-      "api": "csp_FourK",
-      "ext": "https://www.4kvm.tv"
     },
     {
       "key": "lltv_橘子",
@@ -426,17 +387,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_猎手影视",
-      "name": "66⚡️LS",
-      "type": 3,
-      "api": "./py/猎手影视.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "lltv_量子采集",
       "name": "66⚡️LZ",
       "type": 1,
@@ -475,29 +425,6 @@
       ]
     },
     {
-      "key": "lltv_美剧天堂",
-      "name": "66⚡️MJ",
-      "type": 3,
-      "api": "csp_MeijuTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_米兔",
-      "name": "66⚡️MT",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.zjc.app",
-        "dataKey": "ab4e9a421675f14b",
-        "dataIv": "ab4e9a421675f14b",
-        "deviceId": "",
-        "version": "442"
-        }
-    },
-    {
       "key": "lltv_梦缘",
       "name": "66⚡️MY",
       "type": 3,
@@ -520,16 +447,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/农民影视.json"
-    },
-    {
-      "key": "lltv_QD4K",
-      "name": "66⚡️QD",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://172.83.156.150:1010/api.php/app/"
     },
     {
       "key": "lltv_趣看",
@@ -563,20 +480,6 @@
         "dataIv": "ENonBHeVBoYZhVUV",
         "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
         "version": "166"
-        }
-    },
-    {
-      "key": "lltv_水滴",
-      "name": "66⚡SD",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-          "url": "http://1.94.105.93",
-          "dataKey": "gKdQKLbwhhLp4Ytv",
-          "dataIv": "gKdQKLbwhhLp4Ytv",
-          "deviceId": "",
-          "version": ""
         }
     },
     {
@@ -617,13 +520,6 @@
         ]
     },
     {
-      "key": "lltv_雪糕影视",
-      "name": "66⚡️XG",
-      "type": 3,
-      "api": "csp_HBPQ",
-      "ext": "./mov/json/雪糕影视.json"
-    },
-    {
       "key": "lltv_星河",
       "name": "66⚡️XH",
       "type": 3,
@@ -662,37 +558,10 @@
         }
     },
     {
-      "key": "lltv_雨滴",
-      "name": "66⚡️YD",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
-        "dataKey": "k9o3p2c8b7m3z0o8",
-        "dataIv": "k9o3p2c8b7m3z0o8",
-        "deviceId": "",
-        "version": "100"
-        }
-    },
-    {
       "key": "lltv_鸭梨影视",
       "name": "66⚡️YL",
       "type": 3,
       "api": "csp_KmeiJu"
-    },
-    {
-      "key": "lltv_永夜",
-      "name": "66⚡️YY",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "http://cms.neyym.cn",
-        "dataKey": "66247d82fcfaeda9",
-        "dataIv": "70691065ee3c4c54",
-        "jxurl": "http://app.neyym.cn"
-        }
     },
     {
       "key": "lltv_追剧影视",
@@ -790,20 +659,6 @@
       "ext": "./mov/json/海纳影视.json"
     },
     {
-      "key": "lltv_集多",
-      "name": "(GD)66⚡️JD",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://220.231.146.94:6261",
-        "dataKey": "hL7xN4P9rS2vK5Mq",
-        "dataIv": "hL7xN4P9rS2vK5Mq",
-        "deviceId": "",
-        "version": "200"
-        }
-    },
-    {
       "key": "lltv_极速采集",
       "name": "(GD)66⚡️JS",
       "type": 1,
@@ -855,12 +710,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "lltv_云播影视",
-      "name": "(GD)66⚡️YB",
-      "type": 3,
-      "api": "csp_Tvyb"
     },
     {
       "key": "lltv_移动",
