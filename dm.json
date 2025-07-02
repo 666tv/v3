@@ -143,6 +143,20 @@
       "ext": "./dongman/Anime1.js"
     },
     {
+      "key": "lltv_次元动漫",
+      "name": "次元┃动漫",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://jjjj.nilinili.org",
+        "dataKey": "672263e98f232a05",
+        "dataIv": "672263e98f232a05",
+        "deviceId": "",
+        "version": "170"
+        }
+    },
+    {
       "key": "lltv_哆啦新番社",
       "name": "哆啦┃动漫",
       "type": 3,
