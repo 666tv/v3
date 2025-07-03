@@ -45,27 +45,11 @@
       "ext": "https://www.subaibai.com"
     },
     {
-      "key": "lltv_仓鼠",
-      "name": "66⭐仓鼠",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
-      "ext": {
-          "url": "https://qjappcms.cs4k.top",
-          "dataKey": "Z98KXaLtO2wC1Pte",
-          "dataIv": "Z98KXaLtO2wC1Pte",
-          "deviceId": "",
-          "version": "120"
-        }
-    },
-    {
       "key": "lltv_超前",
       "name": "66⭐超前",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "ext": {
         "url": "https://app.ystva.com",
         "dataKey": "A1akVPQmnnE4Fz9Z",
@@ -75,11 +59,22 @@
         }
     },
     {
+      "key": "lltv_斗量",
+      "name": "66⭐斗量",
+      "type": 3,
+      "api": "csp_AppSy",
+      "ext": {
+        "url": "https://app.ystva.com",
+        "key1": "hsZwQK5yrnefW7OJ",
+        "key2": "hsZwQK5yrnefW7OJ",
+        "key3": "hsZwQK5yrnefW7OJ"
+        }
+    },
+    {
       "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⭐多多",
       "type": 3,
       "api": "csp_Ddys",
-      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -89,26 +84,10 @@
       "name": "66⭐瓜子",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-    /*{
-      "key": "lltv_海豚",
-      "name": "66⭐海豚",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
-      "ext": {
-        "url": "https://appcms.htsp4k.top",
-        "dataKey": "7CYQQzwchRQpHCOj",
-        "dataIv": "7CYQQzwchRQpHCOj",
-        "deviceId": "",
-        "version": ""
-        }
-    },*/
     {
       "key": "lltv_韩小圈",
       "name": "66⭐韩剧",
@@ -120,19 +99,10 @@
       "filterable": 1
     },
     {
-      "key": "lltv_JP-道长-天天-鸭-巧技",
-      "name": "66⭐荐片",
-      "type": 3,
-      "playerType": 1,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/JP.js"
-    },
-    {
       "key": "lltv_浪酷影视",
       "name": "66⭐浪酷",
       "type": 3,
       "api": "csp_AppRJ",
-      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -141,18 +111,31 @@
         }
     },
     {
-      "key": "lltv_农民",
+      "key": "lltv_魔方",
+      "name": "66⭐魔方",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://mfsp33.top",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
+      "key": "lltv_糯米",
       "name": "66⭐糯米",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./mov/json/农民影视.json"
+      "ext": "./mov/json/糯米影视.json"
     },
     {
       "key": "lltv_苹果影视",
       "name": "66⭐苹果",
       "type": 3,
       "api": "csp_LiteApple",
-      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -162,7 +145,6 @@
       "name": "66⭐热播",
       "type": 3,
       "api": "csp_AppRJ",
-      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -175,7 +157,6 @@
       "name": "66⭐天天",
       "type": 3,
       "api": "csp_AppRJ",
-      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
