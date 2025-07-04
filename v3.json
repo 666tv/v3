@@ -148,20 +148,6 @@
         }
     },
     {
-      "key": "lltv_魔方",
-      "name": "66⭐魔方",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://mfsp33.top",
-        "dataKey": "1234567887654321",
-        "dataIv": "1234567887654321",
-        "deviceId": "",
-        "version": ""
-        }
-    },
-    {
       "key": "lltv_糯米",
       "name": "66⭐糯米",
       "type": 3,
@@ -187,6 +173,20 @@
       "filterable": 0,
       "ext": {
         "url": "http://v.rbotv.cn"
+        }
+    },
+    {
+      "key": "lltv_人人",
+      "name": "66⭐人人",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.xiaohys.com",
+        "dataKey": "ENonBHeVBoYZhVUV",
+        "dataIv": "ENonBHeVBoYZhVUV",
+        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+        "version": "166"
         }
     },
     {
@@ -454,20 +454,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/剧圈圈.js"
-    },
-    {
-      "key": "lltv_人人",
-      "name": "66⚡️RR",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.xiaohys.com",
-        "dataKey": "ENonBHeVBoYZhVUV",
-        "dataIv": "ENonBHeVBoYZhVUV",
-        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-        "version": "166"
-        }
     },
     {
       "key": "lltv_三六零",
