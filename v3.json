@@ -426,20 +426,6 @@
         }
     },
     {
-      "key": "lltv_梦缘",
-      "name": "66⚡️MY",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://150.138.84.88:44444",
-        "dataKey": "fdnwxwnkyylwdyqh",
-        "dataIv": "fdnwxwnkyylwdyqh",
-        "deviceId": "29ac7568b4dc23ca9a40b6ca5b7cc6f68",
-        "version": "520"
-        }
-    },
-    {
       "key": "lltv_农民影视",
       "name": "66⚡️NM",
       "type": 3,
