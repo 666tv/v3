@@ -95,20 +95,6 @@
       "ext": "https://www.subaibai.com"
     },
     {
-      "key": "lltv_超前",
-      "name": "66⭐超前",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://app.ystva.com",
-        "dataKey": "A1akVPQmnnE4Fz9Z",
-        "dataIv": "A1akVPQmnnE4Fz9Z",
-        "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
-        "version": "134"
-        }
-    },
-    {
       "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⭐多多",
       "type": 3,
@@ -135,6 +121,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_绝对影视",
+      "name": "66⭐绝对",
+      "type": 3,
+      "api": "csp_FourK",
+      "ext": "https://www.4kvm.tv"
     },
     {
       "key": "lltv_荐片",
@@ -341,13 +334,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/狐狸君.json"
-    },
-    {
-      "key": "lltv_绝对影视",
-      "name": "66⚡️JD",
-      "type": 3,
-      "api": "csp_FourK",
-      "ext": "https://www.4kvm.tv"
     },
     {
       "key": "lltv_橘子",
