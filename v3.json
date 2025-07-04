@@ -109,18 +109,6 @@
         }
     },
     {
-      "key": "lltv_斗量",
-      "name": "66⭐斗量",
-      "type": 3,
-      "api": "csp_AppSy",
-      "ext": {
-        "url": "https://app.ystva.com",
-        "key1": "hsZwQK5yrnefW7OJ",
-        "key2": "hsZwQK5yrnefW7OJ",
-        "key3": "hsZwQK5yrnefW7OJ"
-        }
-    },
-    {
       "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⭐多多",
       "type": 3,
@@ -147,6 +135,12 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_荐片",
+      "name": "66⭐荐片",
+      "api": "csp_Jianpian",
+      "type": 3
     },
     {
       "key": "lltv_浪酷影视",
