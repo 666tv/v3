@@ -45,32 +45,6 @@
       "ext": "https://www.subaibai.com"
     },
     {
-      "key": "lltv_超前",
-      "name": "66⭐超前",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://app.ystva.com",
-        "dataKey": "A1akVPQmnnE4Fz9Z",
-        "dataIv": "A1akVPQmnnE4Fz9Z",
-        "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
-        "version": "134"
-        }
-    },
-    {
-      "key": "lltv_斗量",
-      "name": "66⭐斗量",
-      "type": 3,
-      "api": "csp_AppSy",
-      "ext": {
-        "url": "https://app.ystva.com",
-        "key1": "hsZwQK5yrnefW7OJ",
-        "key2": "hsZwQK5yrnefW7OJ",
-        "key3": "hsZwQK5yrnefW7OJ"
-        }
-    },
-    {
       "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⭐多多",
       "type": 3,
@@ -99,6 +73,19 @@
       "filterable": 1
     },
     {
+      "key": "lltv_绝对影视",
+      "name": "66⭐绝对",
+      "type": 3,
+      "api": "csp_FourK",
+      "ext": "https://www.4kvm.tv"
+    },
+    {
+      "key": "lltv_荐片",
+      "name": "66⭐荐片",
+      "api": "csp_Jianpian",
+      "type": 3
+    },
+    {
       "key": "lltv_浪酷影视",
       "name": "66⭐浪酷",
       "type": 3,
@@ -108,20 +95,6 @@
       "filterable": 0,
       "ext": {
         "url": "http://v.lkuys.cn"
-        }
-    },
-    {
-      "key": "lltv_魔方",
-      "name": "66⭐魔方",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://mfsp33.top",
-        "dataKey": "1234567887654321",
-        "dataIv": "1234567887654321",
-        "deviceId": "",
-        "version": ""
         }
     },
     {
@@ -162,6 +135,18 @@
       "filterable": 0,
       "ext": {
         "url": "http://tt.ysdqjs.cn"
+        }
+    },
+    {
+      "key": "lltv_追忆",
+      "name": "66⭐追忆",
+      "type": 3,
+      "api": "csp_AppSy",
+      "ext": {
+        "url": "http://110.42.7.130:1866",
+        "key1": "aassddwwxxllsx1x",
+        "key2": "2083c87e98b6ce08",
+        "key3": "2083c87e98b6ce08"
         }
     },
 //短剧~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
