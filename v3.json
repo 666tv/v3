@@ -176,20 +176,6 @@
         }
     },
     {
-      "key": "lltv_人人",
-      "name": "66⭐人人",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.xiaohys.com",
-        "dataKey": "ENonBHeVBoYZhVUV",
-        "dataIv": "ENonBHeVBoYZhVUV",
-        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-        "version": "166"
-        }
-    },
-    {
       "key": "lltv_天天影视",
       "name": "66⭐天天",
       "type": 3,
@@ -199,6 +185,18 @@
       "filterable": 0,
       "ext": {
         "url": "http://tt.ysdqjs.cn"
+        }
+    },
+    {
+      "key": "lltv_追忆",
+      "name": "66⭐追忆",
+      "type": 3,
+      "api": "csp_AppSy",
+      "ext": {
+        "url": "http://110.42.7.130:1866",
+        "key1": "aassddwwxxllsx1x",
+        "key2": "2083c87e98b6ce08",
+        "key3": "2083c87e98b6ce08"
         }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -456,6 +454,20 @@
       "ext": "./mov/js/剧圈圈.js"
     },
     {
+      "key": "lltv_人人",
+      "name": "66⚡RR",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.xiaohys.com",
+        "dataKey": "ENonBHeVBoYZhVUV",
+        "dataIv": "ENonBHeVBoYZhVUV",
+        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+        "version": "166"
+        }
+    },
+    {
       "key": "lltv_三六零",
       "name": "66⚡️SL",
       "type": 3,
@@ -542,18 +554,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/追剧影视.js"
-    },
-    {
-      "key": "lltv_追忆",
-      "name": "66⚡️ZY",
-      "type": 3,
-      "api": "csp_AppSy",
-      "ext": {
-        "url": "http://110.42.7.130:1866",
-        "key1": "aassddwwxxllsx1x",
-        "key2": "2083c87e98b6ce08",
-        "key3": "2083c87e98b6ce08"
-        }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
