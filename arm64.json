@@ -88,6 +88,7 @@
       "name": "66⭐荐片",
       "api": "csp_Jianpian",
       "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
+      "playerType": 1,
       "type": 3
     },
     {
