@@ -42,6 +42,7 @@
       "name": "66⭐白白",
       "type": 3,
       "api": "csp_SuBaiBai",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "ext": "https://www.subaibai.com"
     },
     {
@@ -49,6 +50,7 @@
       "name": "66⭐多多",
       "type": 3,
       "api": "csp_Ddys",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -58,6 +60,7 @@
       "name": "66⭐瓜子",
       "type": 3,
       "api": "csp_Gz360",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -77,12 +80,14 @@
       "name": "66⭐绝对",
       "type": 3,
       "api": "csp_FourK",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "ext": "https://www.4kvm.tv"
     },
     {
       "key": "lltv_荐片",
       "name": "66⭐荐片",
       "api": "csp_Jianpian",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "type": 3
     },
     {
@@ -90,6 +95,7 @@
       "name": "66⭐浪酷",
       "type": 3,
       "api": "csp_AppRJ",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -102,6 +108,7 @@
       "name": "66⭐糯米",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "ext": "./mov/json/糯米影视.json"
     },
     {
@@ -109,6 +116,7 @@
       "name": "66⭐苹果",
       "type": 3,
       "api": "csp_LiteApple",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -118,6 +126,7 @@
       "name": "66⭐热播",
       "type": 3,
       "api": "csp_AppRJ",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -130,6 +139,7 @@
       "name": "66⭐天天",
       "type": 3,
       "api": "csp_AppRJ",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -142,6 +152,7 @@
       "name": "66⭐追忆",
       "type": 3,
       "api": "csp_AppSy",
+      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "ext": {
         "url": "http://110.42.7.130:1866",
         "key1": "aassddwwxxllsx1x",
