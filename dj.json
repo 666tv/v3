@@ -12,19 +12,8 @@
 "sites":[ 
 //短剧~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_夜猫短剧-夜猫子",
-      "name": "夜猫┃短剧📛⑥⑥宝藏团📛",
-      "type": 3,
-      "api": "csp_YMduanju",
-      "jar": "./jar/ymdj.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
       "key": "lltv_星芽短剧",
-      "name": "星芽┃短剧",
+      "name": "星芽┃短剧📛⑥⑥宝藏团📛",
       "type": 3,
       "api": "csp_AppXY",
       "searchable": 1,
@@ -32,66 +21,46 @@
       "filterable": 0
     },
     {
-      "key": "lltv_河马短剧",
-      "name": "河马┃短剧",
+      "key": "lltv_夜猫短剧-夜猫子",
+      "name": "夜猫┃短剧",
       "type": 3,
-      "api": "./py/河马短剧.py",
+      "api": "csp_YMduanju",
+      "jar": "./jar/ymdj.jar",
       "searchable": 1,
-      "changeable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
+      "filterable": 1
     },
     {
-      "key": "lltv_偷乐短剧",
+      "key": "lltv_偷乐短剧-公子",
       "name": "偷乐┃短剧",
-      "type": 3,
-      "api": "./py/偷乐短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "lltv_短剧网",
-      "name": "短剧网┃短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./duanju/DJWang.json"
-    },
-    {
-      "key": "lltv_短剧屋",
-      "name": "短剧屋┃短剧",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./duanju/DJW.json"
-    },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    /*{
-      "key": "lltv_河马短剧-天天",
-      "name": "河马┃短剧",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./duanju/河马短剧.json"
-    },*/
-    {
-      "key": "lltv_你好帅-天天",
-      "name": "好帅┃短剧",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
-        "分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html",
-        "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan",
-        "播放数组": "<div class=\"sort-item\"&&</div>"
+            "简介": "<p>&&</p>",
+            "数组": "item\">&&</li>",
+            "图片": "src=\"&&\"",
+            "副标题": "66tv",
+            "线路标题": "66tv+>&&<",
+            "播放列表": "list-ep&&</a>",
+            "分类url": "https://www.toule.top/index.php/vod/show/class/{cateId}/id/1/page/{catePg}.html",
+            "分类数组": "<a&&</a>",
+            "分类标题": ">&&<",
+            "分类ID": "class/&&/id"
       }
     },
+    {
+      "key": "lltv_番茄短剧",
+      "name": "番茄┃短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+            "简介": "剧情介绍:+content__desc\">&&</div>",
+            "副标题": "66tv",
+            "分类url": "https://www.weimakj.com/weitype/{cateId}-{catePg}.html",
+            "分类": "短剧$27"
+      }
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_360短剧-夜猫",
       "name": "360┃短剧",
