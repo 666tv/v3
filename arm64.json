@@ -76,20 +76,27 @@
       "filterable": 1
     },
     {
-      "key": "lltv_绝对影视",
-      "name": "66⭐绝对",
-      "type": 3,
-      "api": "csp_FourK",
-      "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
-      "ext": "https://www.4kvm.tv"
-    },
-    {
       "key": "lltv_荐片",
       "name": "66⭐荐片",
       "api": "csp_Jianpian",
       "jar": "https://gitee.com/ll8000/test/raw/master/spider.jar",
       "playerType": 1,
       "type": 3
+    },
+    {
+      "key": "lltv_咖啡",
+      "name": "66⭐咖啡",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "",
+        "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
+        "dataKey": "qwertyuiopqwertt",
+        "dataIv": "qwertyuiopqwertt",
+        "deviceId": "",
+        "version": "109"
+        }
     },
     {
       "key": "lltv_浪酷影视",
