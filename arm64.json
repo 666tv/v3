@@ -183,6 +183,54 @@
       "filterable": 1
     },
     {
+      "key": "lltv_偷乐短剧-公子",
+      "name": "偷乐⚡️短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+            "简介": "<p>&&</p>",
+            "数组": "item\">&&</li>",
+            "图片": "src=\"&&\"",
+            "副标题": "66tv",
+            "线路标题": "66tv+>&&<",
+            "播放列表": "list-ep&&</a>",
+            "分类url": "https://www.toule.top/index.php/vod/show/class/{cateId}/id/1/page/{catePg}.html",
+            "分类数组": "<a&&</a>",
+            "分类标题": ">&&<",
+            "分类ID": "class/&&/id"
+      }
+    },
+    {
+      "key": "lltv_番茄短剧",
+      "name": "番茄⚡️短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+            "简介": "剧情介绍:+content__desc\">&&</div>",
+            "副标题": "66tv",
+            "分类url": "https://www.weimakj.com/weitype/{cateId}-{catePg}.html",
+            "分类": "短剧$27"
+      }
+    },
+    {
+      "key": "lltv_360短剧-夜猫",
+      "name": "360⚡️短剧",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "playurl": "json:https://www.360jiexi.com/player/?url=",
+      "categories": [
+        "爽文短剧",
+        "现代都市",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "反转爽剧",
+        "女频恋爱",
+        "成长逆袭"
+      ] 
+    },
+
+    {
       "key": "lltv_极速短剧",
       "name": "极速⚡️短剧",
       "type": 1,
