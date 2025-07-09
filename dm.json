@@ -12,28 +12,22 @@
 "sites":[ 
 //动漫~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_360DH",
-      "name": "360🔥动画📛⑥⑥宝藏团📛",
+      "key": "lltv_派对动漫",
+      "name": "动漫📛⑥⑥宝藏团📛",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./dongman/360动画.js"
-    },
-    {
-      "key": "lltv_MGDH",
-      "name": "芒果🔥动画",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./dongman/芒果动画.js"
+      "api": "csp_AppGet",
+      "ext": {
+            "url": "https://qjappcms.acg.party",
+            "dataKey": "AmtMYFCJDPoTlK7z",
+            "dataIv": "AmtMYFCJDPoTlK7z",
+            "deviceId": "",
+            "version": ""
+      }
     },
     {
       "key": "lltv_QYDH",
-      "name": "奇艺🔥动画",
+      "name": "奇艺┃动画",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 1,
@@ -43,7 +37,7 @@
     },
     {
       "key":"lltv_SGDH",
-      "name":"搜狗🔥动画",
+      "name":"搜狗┃动画",
       "type": 3,
       "api":"./js/drpy2.min.js",
       "searchable": 1,
@@ -53,7 +47,7 @@
     },
     {
       "key": "lltv_TXDH",
-      "name": "腾讯🔥动画",
+      "name": "腾讯┃动画",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 1,
@@ -63,7 +57,7 @@
     },
     {
       "key": "lltv_YKDH",
-      "name": "优酷🔥动画",
+      "name": "优酷┃动画",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./dongman/儿童优酷.js"
@@ -220,20 +214,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KRwqDDqcKhw6nDpsOpwpnCpcKeYcKnw6fDqcOpwqnClMKgwplew6nDm8OqwpvCplXCpMKZwqDCm8KtwpzDlOWHv+mEm+aPleWQk1zlh6XkvorlkbHCs+W/q+inuei1tOa7gOesicOWwpXCpsKbwrvCmMKje8KVw7LClcK0wpvCsGnClMKTY8KpwqzDncObw5/CmMKTwpFkwq7Cp8KcwqXCnHTClcKjecOvwpXCtMKbwrBpwpTCk2PCqcKsw53Dm8OfwpjCk8KRZMKuwqfCnMO2"
-    },
-    {
-      "key": "lltv_派对动漫",
-      "name": "派对┃动漫",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-            "url": "https://qjappcms.acg.party",
-            "dataKey": "AmtMYFCJDPoTlK7z",
-            "dataIv": "AmtMYFCJDPoTlK7z",
-            "deviceId": "",
-            "version": ""
-      }
     },
     {
       "key": "lltv_奇米-鸭",
