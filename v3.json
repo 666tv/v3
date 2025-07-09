@@ -95,15 +95,6 @@
       "ext": "https://www.subaibai.com"
     },
     {
-      "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
-      "name": "66⭐多多",
-      "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_瓜子影视",
       "name": "66⭐瓜子",
       "type": 3,
@@ -128,21 +119,6 @@
       "api": "csp_Jianpian",
       "playerType": 1,
       "type": 3
-    },
-    {
-      "key": "lltv_咖啡",
-      "name": "66⭐咖啡",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "",
-        "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
-        "dataKey": "qwertyuiopqwertt",
-        "dataIv": "qwertyuiopqwertt",
-        "deviceId": "",
-        "version": "109"
-        }
     },
     {
       "key": "lltv_浪酷影视",
@@ -194,18 +170,6 @@
       "filterable": 0,
       "ext": {
         "url": "http://tt.ysdqjs.cn"
-        }
-    },
-    {
-      "key": "lltv_追忆",
-      "name": "66⭐追忆",
-      "type": 3,
-      "api": "csp_AppSy",
-      "ext": {
-        "url": "http://110.42.7.130:1866",
-        "key1": "aassddwwxxllsx1x",
-        "key2": "2083c87e98b6ce08",
-        "key3": "2083c87e98b6ce08"
         }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -286,6 +250,21 @@
       },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_豆丁",
+      "name": "66⚡️123",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+            "url": "",
+            "site": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
+            "dataKey": "xasdasdqwertyuio",
+            "dataIv": "xasdasdqwertyuio",
+            "deviceId": "",
+            "version": ""
+      }
+    },
+    {
       "key": "lltv_360",
       "name": "66⚡️360",
       "type": 3,
@@ -320,6 +299,15 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
+    },
+    {
+      "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
+      "name": "66⚡️DD",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_HG影视",
@@ -357,6 +345,21 @@
         }
     },
     {
+      "key": "lltv_咖啡",
+      "name": "66⚡️KF",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "",
+        "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
+        "dataKey": "qwertyuiopqwertt",
+        "dataIv": "qwertyuiopqwertt",
+        "deviceId": "",
+        "version": "109"
+        }
+    },
+    {
       "key": "lltv_快看影视-PG-XYQ-云星-Yu-巧技",
       "name": "66⚡️KK",
       "type": 3,
@@ -364,6 +367,21 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_灵虎",
+      "name": "66⚡️LH",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+            "url": "",
+            "site": "https://bind.315999.xyz/89.txt",
+            "dataKey": "#getapp@TMD@2025",
+            "dataIv": "#getapp@TMD@2025",
+            "deviceId": "",
+            "version": ""
+      }
     },
     {
       "key": "lltv_量子采集",
@@ -416,6 +434,34 @@
         "deviceId": "",
         "version": ""
         }
+    },
+    {
+      "key": "lltv_麻花",
+      "name": "66⚡️MH",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+            "url": "",
+            "site": "https://apicoss-alimama-com-1307821617.file.myqcloud.com/Uploadsget",
+            "dataKey": "q7gj4f9br3fls6nh",
+            "dataIv": "q7gj4f9br3fls6nh",
+            "deviceId": "",
+            "version": ""
+      }
+    },
+    {
+      "key": "lltv_米诺",
+      "name": "66⚡️MN",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+            "url": "http://www.milkidc.cn",
+            "dataKey": "20c79c979da8db0f",
+            "dataIv": "20c79c979da8db0f",
+            "deviceId": "",
+            "version": ""
+      }
     },
     {
       "key": "lltv_农民影视",
