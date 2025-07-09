@@ -222,6 +222,20 @@
       "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KRwqDDqcKhw6nDpsOpwpnCpcKeYcKnw6fDqcOpwqnClMKgwplew6nDm8OqwpvCplXCpMKZwqDCm8KtwpzDlOWHv+mEm+aPleWQk1zlh6XkvorlkbHCs+W/q+inuei1tOa7gOesicOWwpXCpsKbwrvCmMKje8KVw7LClcK0wpvCsGnClMKTY8KpwqzDncObw5/CmMKTwpFkwq7Cp8KcwqXCnHTClcKjecOvwpXCtMKbwrBpwpTCk2PCqcKsw53Dm8OfwpjCk8KRZMKuwqfCnMO2"
     },
     {
+      "key": "lltv_派对动漫",
+      "name": "派对┃动漫",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+            "url": "https://qjappcms.acg.party",
+            "dataKey": "AmtMYFCJDPoTlK7z",
+            "dataIv": "AmtMYFCJDPoTlK7z",
+            "deviceId": "",
+            "version": ""
+      }
+    },
+    {
       "key": "lltv_奇米-鸭",
       "name": "奇米┃动漫",
       "type": 3,
