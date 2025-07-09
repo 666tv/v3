@@ -934,43 +934,7 @@
       "filterable": 1,
       "ext": "./dongman/芒果动画.js"
     },
-    {
-      "key": "lltv_QYDH",
-      "name": "奇艺🔥动画",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./dongman/奇艺动画.js"
-    },
-    {
-      "key":"lltv_SGDH",
-      "name":"搜狗🔥动画",
-      "type": 3,
-      "api":"./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"./dongman/搜狗动画.js"
-    },
-    {
-      "key": "lltv_TXDH",
-      "name": "腾讯🔥动画",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./dongman/腾讯动画.js"
-    },
-    {
-      "key": "lltv_YKDH",
-      "name": "优酷🔥动画",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./dongman/儿童优酷.js"
-    },
+    
     {
       "key": "lltv_Ikanbot-XYQ-PG",
       "name": "66⚡️AI",
