@@ -95,6 +95,15 @@
       "ext": "https://www.subaibai.com"
     },
     {
+      "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
+      "name": "66⭐多多",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_瓜子影视",
       "name": "66⭐瓜子",
       "type": 3,
@@ -112,6 +121,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_荐片",
+      "name": "66⭐荐片",
+      "api": "csp_Jianpian",
+      "type": 3
+    },
+    {
+      "key": "lltv_咖啡",
+      "name": "66⭐咖啡",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "",
+        "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
+        "dataKey": "qwertyuiopqwertt",
+        "dataIv": "qwertyuiopqwertt",
+        "deviceId": "",
+        "version": "109"
+        }
     },
     {
       "key": "lltv_浪酷影视",
@@ -309,15 +339,6 @@
       "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
     },
     {
-      "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
-      "name": "66⚡️DD",
-      "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_HG影视",
       "name": "66⚡️HG",
       "type": 3,
@@ -339,12 +360,6 @@
       "ext": "./mov/json/狐狸君.json"
     },
     {
-      "key": "lltv_荐片",
-      "name": "66⚡️JP",
-      "api": "csp_Jianpian",
-      "type": 3
-    },
-    {
       "key": "lltv_橘子",
       "name": "66⚡️JZ",
       "type": 3,
@@ -356,21 +371,6 @@
         "dataIv": "2015692015692015",
         "deviceId": "",
         "version": "300"
-        }
-    },
-    {
-      "key": "lltv_咖啡",
-      "name": "66⚡️KF",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "",
-        "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
-        "dataKey": "qwertyuiopqwertt",
-        "dataIv": "qwertyuiopqwertt",
-        "deviceId": "",
-        "version": "109"
         }
     },
     {
