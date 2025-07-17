@@ -610,20 +610,6 @@
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/追剧影视.js"
     },
-    {
-      "key": "lltv_知了",
-      "name": "66⚡️ZZ",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-            "url": "https://zzos.cc",
-            "dataKey": "zzoccc2025555555",
-            "dataIv": "zzoccc2025555555",
-            "deviceId": "",
-            "version": "119"
-      }
-    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_以下资源广电网络可用",
