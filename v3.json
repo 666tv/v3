@@ -51,21 +51,6 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_123",
-      "name": "4K_123⭐配置中心登录123",
-      "type": 3,
-      "api": "csp_PanWebShareCloud123",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-          "type": "list",
-          "ratio": 1.433
-        },
-      "ext": "./mov/json/123.json"
-    },
-    {
       "key": "lltv_玩偶哥哥",
       "name": "4K_GG⭐配置中心登录夸克",
       "type": 3,
@@ -75,7 +60,7 @@
       "filterable": 1,
       "ext": "./mov/json/wogg.json"
     },
-    /*{
+    {
       "key": "lltv_夸父",
       "name": "4K_KK⭐配置中心登录夸克",
       "type": 3,
@@ -89,7 +74,7 @@
           "ratio": 1.433
         },
       "ext": "./mov/json/kf.json"
-    },*/
+    },
     {
       "key": "lltv_闪电",
       "name": "4K_SD⭐配置中心登录UC",
@@ -609,20 +594,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/追剧影视.js"
-    },
-    {
-      "key": "lltv_知了",
-      "name": "66⚡️ZZ",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-            "url": "https://zzos.cc",
-            "dataKey": "zzoccc2025555555",
-            "dataIv": "zzoccc2025555555",
-            "deviceId": "",
-            "version": "119"
-      }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
