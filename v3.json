@@ -331,6 +331,21 @@
       "ext": "./mov/js/哔哩影视[官].js"
     },
     {
+      "key": "lltv_白蛇",
+      "name": "66⚡️BS",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+            "url": "",
+            "site": "http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
+            "dataKey": "f5e2tx53ykp6s2c9",
+            "dataIv": "f5e2tx53ykp6s2c9",
+            "deviceId": "",
+            "version": "361"
+      }
+    },
+    {
       "key": "lltv_采集之王",
       "name": "66⚡️CJ",
       "type": 3,
