@@ -372,6 +372,13 @@
         "version": "300"
         }
     },
+    /*{
+      "key": "lltv_饺子影视",
+      "name": "66⚡️JZ",
+      "type": 3,
+      "api": "csp_Jiaozi",
+      "playerType": 2
+    },*/
     {
       "key": "lltv_快看影视-PG-XYQ-云星-Yu-巧技",
       "name": "66⚡️KK",
@@ -462,6 +469,13 @@
       }
     },
     {
+      "key": "lltv_明星影视",
+      "name": "66⚡️MX",
+      "type": 3,
+      "api": "csp_HBPQ",
+      "ext": "./mov/json/明星影视.json"
+    },
+    {
       "key": "lltv_农民影视",
       "name": "66⚡️NM",
       "type": 3,
@@ -490,6 +504,18 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/剧圈圈.js"
+    },
+    {
+      "key": "lltv_七味",
+      "name": "66⚡️QW",
+      "type": 3,
+      "api": "csp_QnMp4",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+          "url": "https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
+        }
     },
     {
       "key": "lltv_人人",
