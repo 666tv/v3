@@ -127,7 +127,7 @@
       "name": "66⭐金牌",
       "type": 3,
       "api": "./js/drpy_xyq/drpy2.min.js",
-      "ext": "./mov/js/金牌影视.js"
+      "ext": "https://hk.gh-proxy.com/raw.githubusercontent.com/666tv/v3/main/mov/js/金牌影视.js"
     },
     {
       "key": "lltv_荐片",
@@ -1358,7 +1358,7 @@
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //https://ghproxy.net/
-//https://gh-proxy.com/
+//https://hk.gh-proxy.com/
 //https://gh.xxooo.cf/https://
 //广告~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "ads": [
