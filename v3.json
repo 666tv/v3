@@ -112,7 +112,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+    /*{
       "key": "lltv_韩小圈",
       "name": "66⭐韩剧",
       "type": 3,
@@ -121,6 +121,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },*/
+    {
+      "key": "lltv_金牌",
+      "name": "66⭐金牌",
+      "type": 3,
+      "api": "./js/drpy_xyq/drpy2.min.js",
+      "ext": "./mov/js/金牌影视.js"
     },
     {
       "key": "lltv_荐片",
