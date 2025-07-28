@@ -22,6 +22,16 @@
       "ext": ""
     },
     {
+      "key": "lltv_韩小圈",
+      "name": "66⭐韩剧",
+      "type": 3,
+      "api": "csp_HanXiaoQuan",
+      "jar": "./jar/spider250321.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_金牌影视",
       "name": "66⭐金牌",
       "type": 3,
