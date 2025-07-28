@@ -113,7 +113,7 @@
       "filterable": 1
     },
     {
-      "key": "lltv_金牌",
+      "key": "lltv_金牌-XYQ",
       "name": "66⭐金牌",
       "type": 3,
       "api": "./js/drpy_xyq/drpy2.min.js",
