@@ -22,7 +22,7 @@
       "key": "lltv_豆瓣预告",
       "name": "66⚡️新片预告",
       "type": 3,
-      "api": "csp_DouBan",
+      "api": "csp_YGP",
       "searchable": 0
     },
     {
@@ -63,36 +63,17 @@
       "filterable": 1
     },
     {
-      "key": "lltv_韩小圈",
-      "name": "66⭐韩剧",
+      "key": "lltv_金牌",
+      "name": "66⭐金牌",
       "type": 3,
-      "api": "csp_HanXiaoQuan",
-      "jar": "./jar/spider250321.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "./js/drpy_xyq/drpy2.min.js",
+      "ext": "https://hk.gh-proxy.com/raw.githubusercontent.com/666tv/v3/main/mov/js/金牌影视.js"
     },
     {
       "key": "lltv_荐片",
       "name": "66⭐荐片",
       "api": "csp_Jianpian",
       "type": 3
-    },
-    {
-      "key": "lltv_咖啡",
-      "name": "66⭐咖啡",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-            "url": "",
-            "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
-            "dataKey": "qwertyuiopqwertt",
-            "dataIv": "qwertyuiopqwertt",
-            "deviceId": "",
-            "version": "109",
-            "ua": "okhttp/3.10.0"
-      }
     },
     {
       "key": "lltv_浪酷影视",
@@ -160,6 +141,20 @@
       "ext": {
         "url": "http://tt.ysdqjs.cn"
         }
+    },
+    {
+      "key": "lltv_稀饭",
+      "name": "66⭐稀饭",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+      "url": "https://app.xifanys.com",
+      "dataKey": "HM6Ly9yeS4ya3dvL",
+      "dataIv": "HM6Ly9yeS4ya3dvL",
+      "deviceId": "",
+      "version": "119"
+      }
     },
 //短剧~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
