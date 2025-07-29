@@ -38,6 +38,21 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_豆丁",
+      "name": "66⭐123",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+            "url": "",
+            "site": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
+            "dataKey": "xasdasdqwertyuio",
+            "dataIv": "xasdasdqwertyuio",
+            "deviceId": "",
+            "version": ""
+      }
+    },
+    {
       "key": "lltv_白白影视",
       "name": "66⭐白白",
       "type": 3,
@@ -114,21 +129,6 @@
       "ext": {
         "url": "http://v.rbotv.cn"
         }
-    },
-    {
-      "key": "lltv_热剧",
-      "name": "66⭐热剧",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-            "url": "https://www.rebovod.com",
-            "site": "https://www.rebovod.com",
-            "dataKey": "8191A7F47B37882F",
-            "dataIv": "8191A7F47B37882F",
-            "deviceId": "",
-            "version": ""
-      }
     },
     {
       "key": "lltv_天天影视",
