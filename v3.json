@@ -128,7 +128,7 @@
       "filterable": 1
     },
     {
-      "key": "lltv_金牌",
+      "key": "lltv_金牌-XYQ",
       "name": "66⭐金牌",
       "type": 3,
       "api": "./js/drpy_xyq/drpy2.min.js",
@@ -359,13 +359,6 @@
         "version": "300"
         }
     },
-    /*{
-      "key": "lltv_饺子影视",
-      "name": "66⚡️JZ",
-      "type": 3,
-      "api": "csp_Jiaozi",
-      "playerType": 2
-    },*/
     {
       "key": "lltv_量子采集",
       "name": "66⚡️LZ",
@@ -403,20 +396,6 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
-    {
-      "key": "lltv_蓝鹰",
-      "name": "66⚡️LY",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "http://172.247.192.138:18520",
-        "dataKey": "SuNlEkOLAoWJj1Oe",
-        "dataIv": "SuNlEkOLAoWJj1Oe",
-        "deviceId": "",
-        "version": ""
-        }
     },
     {
       "key": "lltv_米诺",
@@ -542,7 +521,8 @@
       "quickSearch": 1,
       "api": "csp_AppGet2",
       "ext": {
-        "url": "http://122.228.193.2:9988",
+        "url": "",
+        "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
         "dataKey": "ca94b06ca359d80e",
         "dataIv": "ca94b06ca359d80e",
         "deviceId": "",
@@ -665,6 +645,13 @@
         "日韩综艺",
         "欧美综艺"
       ]
+    },
+    {
+      "key": "lltv_饺子影视",
+      "name": "(GD)66⚡️JZ",
+      "type": 3,
+      "api": "csp_Jiaozi",
+      "playerType": 2
     },
     {
       "key": "lltv_大师兄影视-天天-道长-运输车",
