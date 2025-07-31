@@ -137,6 +137,17 @@
         }
     },
     {
+      "key": "lltv_多多",
+      "name": "多多┃动漫",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./dongman/yyds.json"
+    },
+    {
       "key": "lltv_哆啦新番社",
       "name": "哆啦┃动漫",
       "type": 3,
