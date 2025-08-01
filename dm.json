@@ -137,15 +137,19 @@
         }
     },
     {
-      "key": "lltv_多多",
+      "key": "lltv_多多动漫",
       "name": "多多┃动漫",
       "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./dongman/yyds.json"
+      "api": "csp_AppGet",
+      "ext": {
+          "url": "",
+          "site": "https://app.cf4k.xyz/1.txt",
+          "dataKey": "qqqqqqqqqqqqqqqq",
+          "dataIv": "qqqqqqqqqqqqqqqq",
+          "deviceId": "",
+          "version": ""
+      }
     },
     {
       "key": "lltv_哆啦新番社",
