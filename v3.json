@@ -194,7 +194,7 @@
     },
     {
       "key": "lltv_外剧",
-      "name": "66⚡️WJ",
+      "name": "66⭐外剧",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -1231,4 +1231,5 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
