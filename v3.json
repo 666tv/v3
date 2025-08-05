@@ -335,6 +335,20 @@
       "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
     },
     {
+      "key": "lltv_光影",
+      "name": "66⚡️GY",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+            "url": "https://www.guangyingmi.com",
+            "dataKey": "230fnsodfsdhfon2",
+            "dataIv": "230fnsodfsdhfon2",
+            "deviceId": "",
+            "version": ""
+      }
+    },
+    {
       "key": "lltv_狐狸君",
       "name": "66⚡HL",
       "type": 3,
@@ -1231,5 +1245,6 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
