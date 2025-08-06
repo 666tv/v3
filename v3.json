@@ -374,6 +374,21 @@
         }
     },
     {
+      "key": "lltv_乐达",
+      "name": "66⚡️LD",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+            "url": "https://ledayy.com",
+            "site": "",
+            "dataKey": "hjjp68c2okw12345",
+            "dataIv": "hjjp68c2okw12345",
+            "deviceId": "",
+            "version": ""
+      }
+    },
+    {
       "key": "lltv_量子采集",
       "name": "66⚡️LZ",
       "type": 1,
@@ -468,6 +483,21 @@
       "ext": {
           "url": "https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
         }
+    },
+    {
+      "key": "lltv_旗星",
+      "name": "66⚡️QX",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+            "url": "http://ys.qist.top",
+            "site": "",
+            "dataKey": "2SWSPFxugBLPPOKo",
+            "dataIv": "2SWSPFxugBLPPOKo",
+            "deviceId": "",
+            "version": "120"
+      }
     },
     {
       "key": "lltv_热剧",
@@ -1245,6 +1275,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
