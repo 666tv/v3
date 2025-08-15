@@ -374,6 +374,20 @@
         }
     },
     {
+      "key": "lltv_狂人",
+      "name": "66⚡️KR",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.zjkrmv.vip",
+        "dataKey": "vXeyuJFqTKqWUtWU",
+        "dataIv": "vXeyuJFqTKqWUtWU",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
       "key": "lltv_乐达",
       "name": "66⚡️LD",
       "type": 3,
@@ -438,6 +452,20 @@
             "deviceId": "",
             "version": ""
       }
+    },
+    {
+      "key": "lltv_米兔",
+      "name": "66⚡️MT",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://new.tkbot.fun",
+        "dataKey": "d032c12876bc6848",
+        "dataIv": "d032c12876bc6848",
+        "deviceId": "",
+        "version": "200"
+        }
     },
     {
       "key": "lltv_明星影视",
@@ -1275,3 +1303,4 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
