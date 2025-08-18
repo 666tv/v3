@@ -341,6 +341,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
+      "jar": "./jar/spider250809.jar",
       "ext": {
         "url": "https://www.zjkrmv.vip",
         "dataKey": "vXeyuJFqTKqWUtWU",
@@ -348,44 +349,6 @@
         "deviceId": "",
         "version": ""
         }
-    },
-    {
-      "key": "lltv_量子采集",
-      "name": "66⚡️LZ",
-      "type": 1,
-      "api": "https://www.lzizy.com/api.php/provide/vod/from/lzm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "韩国剧",
-        "日本剧",
-        "马泰剧",
-        "欧美剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "奇幻片",
-        "战争片",
-        "爱情片",
-        "犯罪片",
-        "恐怖片",
-        "悬疑片",
-        "灾难片",
-        "剧情片",
-        "记录片",
-        "动画片",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
     },
     {
       "key": "lltv_米诺",
@@ -430,21 +393,6 @@
         }
     },
     {
-      "key": "lltv_人人",
-      "name": "66⚡RR",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "./jar/spider250809.jar",
-      "ext": {
-        "url": "https://www.xiaohys.com",
-        "dataKey": "ENonBHeVBoYZhVUV",
-        "dataIv": "ENonBHeVBoYZhVUV",
-        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-        "version": "166"
-        }
-    },
-    {
       "key": "lltv_三六零",
       "name": "66⚡️SL",
       "type": 3,
@@ -475,13 +423,6 @@
         "deviceId": "",
         "version": "120"
         }
-    },
-    {
-      "key": "lltv_鸭梨影视",
-      "name": "66⚡️YL",
-      "type": 3,
-      "jar": "./jar/spider250809.jar",
-      "api": "csp_KmeiJu"
     },
     {
       "key": "lltv_追剧影视",
@@ -1193,5 +1134,3 @@
         "static-mozai.4gtv.tv"
     ]
 }
-
-
