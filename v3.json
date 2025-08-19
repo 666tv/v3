@@ -341,7 +341,6 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "jar": "./jar/spider250809.jar",
       "ext": {
         "url": "https://www.zjkrmv.vip",
         "dataKey": "vXeyuJFqTKqWUtWU",
