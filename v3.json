@@ -354,20 +354,6 @@
       "ext": "./mov/json/狐狸君.json"
     },
     {
-      "key": "lltv_橘子",
-      "name": "66⚡️JZ",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://api1.bffree.cn",
-        "dataKey": "2015692015692015",
-        "dataIv": "2015692015692015",
-        "deviceId": "",
-        "version": "300"
-        }
-    },
-    {
       "key": "lltv_狂人",
       "name": "66⚡️KR",
       "type": 3,
