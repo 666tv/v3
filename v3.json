@@ -95,6 +95,15 @@
       "ext": "https://www.subaibai.com"
     },
     {
+      "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
+      "name": "66⭐多多",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lltv_瓜子影视",
       "name": "66⭐瓜子",
       "type": 3,
@@ -102,6 +111,20 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lltv_橘子",
+      "name": "66⭐橘子",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://api1.bffree.cn",
+        "dataKey": "2015692015692015",
+        "dataIv": "2015692015692015",
+        "deviceId": "",
+        "version": "300"
+        }
     },
     {
       "key": "lltv_金牌-XYQ",
@@ -143,6 +166,15 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/糯米影视.json"
+    },
+    {
+      "key": "lltv_苹果影视",
+      "name": "66⭐苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_热播影视",
