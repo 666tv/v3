@@ -140,6 +140,20 @@
       "type": 3
     },
     {
+      "key": "lltv_狂人",
+      "name": "66⭐狂人",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.zjkrmv.vip",
+        "dataKey": "vXeyuJFqTKqWUtWU",
+        "dataIv": "vXeyuJFqTKqWUtWU",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
       "key": "lltv_浪酷影视",
       "name": "66⭐浪酷",
       "type": 3,
@@ -150,15 +164,6 @@
       "ext": {
         "url": "http://v.lkuys.cn"
         }
-    },
-    {
-      "key":"lltv_南瓜-巧技",
-        "name":"66⭐南瓜",
-        "type":3,
-        "api":"csp_NanGua",
-        "jar": "./jar/qiaoji250711.jar",
-        "playerType":2,
-        "ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
     {
       "key": "lltv_糯米",
@@ -352,20 +357,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/狐狸君.json"
-    },
-    {
-      "key": "lltv_狂人",
-      "name": "66⚡️KR",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.zjkrmv.vip",
-        "dataKey": "vXeyuJFqTKqWUtWU",
-        "dataIv": "vXeyuJFqTKqWUtWU",
-        "deviceId": "",
-        "version": ""
-        }
     },
     {
       "key": "lltv_米诺",
