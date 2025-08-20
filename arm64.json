@@ -38,28 +38,6 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_豆丁",
-      "name": "66⭐123",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-            "url": "",
-            "site": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
-            "dataKey": "xasdasdqwertyuio",
-            "dataIv": "xasdasdqwertyuio",
-            "deviceId": "",
-            "version": ""
-      }
-    },
-    {
-      "key": "lltv_白白影视",
-      "name": "66⭐白白",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "ext": "https://www.subaibai.com"
-    },
-    {
       "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⭐多多",
       "type": 3,
@@ -78,7 +56,7 @@
       "filterable": 1
     },
     {
-      "key": "lltv_金牌",
+      "key": "lltv_金牌-XYQ",
       "name": "66⭐金牌",
       "type": 3,
       "api": "./js/drpy_xyq/drpy2.min.js",
@@ -141,20 +119,6 @@
       "ext": {
         "url": "http://tt.ysdqjs.cn"
         }
-    },
-    {
-      "key": "lltv_稀饭",
-      "name": "66⭐稀饭",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-      "url": "https://app.xifanys.com",
-      "dataKey": "HM6Ly9yeS4ya3dvL",
-      "dataIv": "HM6Ly9yeS4ya3dvL",
-      "deviceId": "",
-      "version": "119"
-      }
     },
 //短剧~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -780,3 +744,4 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
