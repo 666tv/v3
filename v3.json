@@ -88,13 +88,6 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_白白影视",
-      "name": "66⭐白白",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "ext": "https://www.subaibai.com"
-    },
-    {
       "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
       "name": "66⭐多多",
       "type": 3,
@@ -113,20 +106,6 @@
       "filterable": 1
     },
     {
-      "key": "lltv_橘子",
-      "name": "66⭐橘子",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://api1.bffree.cn",
-        "dataKey": "2015692015692015",
-        "dataIv": "2015692015692015",
-        "deviceId": "",
-        "version": "300"
-        }
-    },
-    {
       "key": "lltv_金牌-XYQ",
       "name": "66⭐金牌",
       "type": 3,
@@ -138,20 +117,6 @@
       "name": "66⭐荐片",
       "api": "csp_Jianpian",
       "type": 3
-    },
-    {
-      "key": "lltv_狂人",
-      "name": "66⭐狂人",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.zjkrmv.vip",
-        "dataKey": "vXeyuJFqTKqWUtWU",
-        "dataIv": "vXeyuJFqTKqWUtWU",
-        "deviceId": "",
-        "version": ""
-        }
     },
     {
       "key": "lltv_浪酷影视",
@@ -357,6 +322,35 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./mov/json/狐狸君.json"
+    },
+    {
+      "key": "lltv_橘子",
+      "name": "66⚡JZ",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://api1.bffree.cn",
+        "dataKey": "2015692015692015",
+        "dataIv": "2015692015692015",
+        "deviceId": "",
+        "version": "300"
+        }
+    },
+    {
+      "key": "lltv_狂人",
+      "name": "66⚡KR",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "jar": "./jar/spider250809.jar",
+      "ext": {
+        "url": "https://www.zjkrmv.vip",
+        "dataKey": "vXeyuJFqTKqWUtWU",
+        "dataIv": "vXeyuJFqTKqWUtWU",
+        "deviceId": "",
+        "version": ""
+        }
     },
     {
       "key": "lltv_米诺",
@@ -1142,3 +1136,4 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
