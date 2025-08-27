@@ -116,7 +116,8 @@
       "key": "lltv_荐片",
       "name": "66⭐荐片",
       "api": "csp_Jianpian",
-      "type": 3
+      "type": 3,
+      "ext": "https://ij1men.slsw6.com"
     },
     {
       "key": "lltv_浪酷影视",
@@ -1061,6 +1062,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
