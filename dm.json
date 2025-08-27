@@ -199,7 +199,8 @@
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "http://45.43.29.111:9527",
+        "url": "https://get.mymifun.com",
+        "site": "",
         "dataKey": "GETMIFUNGEIMIFUN",
         "dataIv": "GETMIFUNGEIMIFUN",
         "deviceId": "",
