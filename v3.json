@@ -143,7 +143,6 @@
       "name": "66⭐苹果",
       "type": 3,
       "api": "csp_LiteApple",
-      "jar": "./jar/spider250820.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1062,6 +1061,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
