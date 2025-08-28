@@ -61,19 +61,15 @@
       "ext": "./mov/json/wogg.json"
     },
     {
-      "key": "lltv_夸父",
-      "name": "4K_KK⭐配置中心登录夸克",
+      "key": "lltv_蜡笔",
+      "name": "4K_LB⭐配置中心登录夸克",
       "type": 3,
-      "api": "csp_PanWebShareCloudKF",
+      "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "style": {
-          "type": "list",
-          "ratio": 1.433
-        },
-      "ext": "./mov/json/kf.json"
+      "ext": "./mov/json/lb.json"
     },
     {
       "key": "lltv_闪电",
@@ -1061,6 +1057,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
