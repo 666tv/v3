@@ -102,12 +102,19 @@
       "filterable": 1
     },
     {
+      "key": "lltv_金牌影视",
+      "name": "66⭐金牌",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn,https://m.sunnafh.com"
+    },
+    /*{
       "key": "lltv_金牌-XYQ",
       "name": "66⭐金牌",
       "type": 3,
       "api": "./js/drpy_xyq/drpy2.min.js",
       "ext": "https://hk.gh-proxy.com/raw.githubusercontent.com/666tv/v3/main/mov/js/金牌影视.js"
-    },
+    },*/
     {
       "key": "lltv_荐片",
       "name": "66⭐荐片",
