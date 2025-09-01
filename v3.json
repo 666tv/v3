@@ -108,13 +108,6 @@
       "api": "csp_Jpys",
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn,https://m.sunnafh.com"
     },
-    /*{
-      "key": "lltv_金牌-XYQ",
-      "name": "66⭐金牌",
-      "type": 3,
-      "api": "./js/drpy_xyq/drpy2.min.js",
-      "ext": "https://hk.gh-proxy.com/raw.githubusercontent.com/666tv/v3/main/mov/js/金牌影视.js"
-    },*/
     {
       "key": "lltv_荐片",
       "name": "66⭐荐片",
@@ -462,6 +455,13 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
+    },
+    {
+      "key": "lltv_金牌-XYQ",
+      "name": "(GD)66⚡️JP",
+      "type": 3,
+      "api": "./js/drpy_xyq/drpy2.min.js",
+      "ext": "https://hk.gh-proxy.com/raw.githubusercontent.com/666tv/v3/main/mov/js/金牌影视.js"
     },
     {
       "key": "lltv_饺子影视",
@@ -1064,6 +1064,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
