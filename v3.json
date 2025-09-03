@@ -395,11 +395,8 @@
       "key": "lltv_修罗影视",
       "name": "66⚡️XL",
       "type": 3,
-      "api": "csp_HBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/修罗影视.json"
+      "api": "csp_Xlys",
+      "ext": "https://xl01.com.de"
     },
     {
       "key": "lltv_雄鹰",
@@ -1064,6 +1061,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
