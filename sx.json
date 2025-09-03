@@ -21,6 +21,16 @@
       "changeable": 0,
       "ext": ""
     },
+	{
+      "key": "lltv_修罗影视",
+      "name": "66⚡️XL",
+      "type": 3,
+      "api": "csp_HBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./mov/json/修罗影视.json"
+    },
     {
       "key": "lltv_韩小圈",
       "name": "66⭐韩剧",
