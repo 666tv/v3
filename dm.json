@@ -165,6 +165,22 @@
       "ext": "./dongman/DLXFS.json"
     },
     {
+      "key": "lltv_番薯",
+      "name": "番薯┃动漫",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://new.app.bytegooty.com",
+        "site": "",
+        "dataKey": "N4yj7l7xKxHF4*gz",
+        "dataIv": "N4yj7l7xKxHF4*gz",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+        }
+    },
+    {
       "key": "lltv_咕咕动漫",
       "name": "咕咕┃动漫",
       "type": 3,
@@ -283,6 +299,22 @@
        "type": 3,
        "api": "csp_XBPQ",
        "ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "动漫$1#日漫$46#国漫$47#美漫$85"}
+    },
+    {
+       "key": "lltv_元咲",
+       "name": "元咲┃动漫",
+       "type": 3,
+       "quickSearch": 1,
+       "api": "csp_AppGet",
+       "ext": {
+        "url": "http://cic.aicg.fun",
+        "site": "",
+        "dataKey": "2c4h36abd96se10u",
+        "dataIv": "2c4h36abd96se10u",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+        }
     },
     {
       "key": "lltv_爱弹幕",
