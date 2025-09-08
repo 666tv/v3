@@ -386,10 +386,58 @@
         }
     },
     {
+      "key": "lltv_蔬菜",
+      "name": "66⚡️SC",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://huohu.yihn.cc",
+        "site": "",
+        "dataKey": "huohushipingetap",
+        "dataIv": "huohushipingetap",
+        "deviceId": "",
+        "version": "140",
+        "ua": ""
+        }
+    },
+    {
       "key": "lltv_三六零",
       "name": "66⚡️SL",
       "type": 3,
       "api": "csp_SP360"
+    },
+    {
+      "key": "lltv_五八",
+      "name": "66⚡️WB",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://dy.58ys.vip",
+        "site": "",
+        "dataKey": "JEWibY1AgWF0V1xx",
+        "dataIv": "JEWibY1AgWF0V1xx",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+        }
+    },
+    {
+      "key": "lltv_外剧",
+      "name": "66⚡️WJ",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://guowaiju.com",
+        "site": "",
+        "dataKey": "7xv16h7qgkrs9b1p",
+        "dataIv": "7xv16h7qgkrs9b1p",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+        }
     },
     {
       "key": "lltv_修罗影视",
@@ -421,6 +469,20 @@
       "api": "csp_YD",
       "searchable": 1,
       "quickSearch": 1
+    },
+    {
+      "key": "lltv_丫丫",
+      "name": "66⚡️YY",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://tv.yy-fun.cc",
+        "dataKey": "qkxnwkfjwpcnwycl",
+        "dataIv": "qkxnwkfjwpcnwycl",
+        "deviceId": "",
+        "version": ""
+        }
     },
     {
       "key": "lltv_追剧影视",
@@ -468,6 +530,22 @@
       "playerType": 2
     },
     {
+      "key": "lltv_零三",
+      "name": "(GD)66⚡️LS",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://03macapp.01yy.top",
+        "site": "",
+        "dataKey": "sdfjiweunikfjofj",
+        "dataIv": "sdfjiweunikfjofj",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+        }
+    },
+    {
       "key": "lltv_农民影视",
       "name": "(GD)66⚡️NM",
       "type": 3,
@@ -483,6 +561,22 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/大师兄.json"
+    },
+    {
+      "key": "lltv_万能",
+      "name": "(GD)66⚡️WN",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://wnvod.cc",
+        "site": "",
+        "dataKey": "5uBvur6znNUmE3zb",
+        "dataIv": "5uBvur6znNUmE3zb",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+        }
     },
     {
       "key": "lltv_迅雷吧",
@@ -1061,11 +1155,3 @@
         "static-mozai.4gtv.tv"
     ]
 }
-
-
-
-
-
-
-
-
