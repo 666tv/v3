@@ -156,15 +156,19 @@
         }
     },
     {
-      "key": "lltv_天天影视",
-      "name": "66⭐天天",
+      "key": "lltv_外剧",
+      "name": "66⭐国外",
       "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "api": "csp_AppGet",
       "ext": {
-        "url": "http://tt.ysdqjs.cn"
+        "url": "https://guowaiju.com",
+        "site": "",
+        "dataKey": "7xv16h7qgkrs9b1p",
+        "dataIv": "7xv16h7qgkrs9b1p",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
         }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -418,22 +422,6 @@
         "site": "",
         "dataKey": "JEWibY1AgWF0V1xx",
         "dataIv": "JEWibY1AgWF0V1xx",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-        }
-    },
-    {
-      "key": "lltv_外剧",
-      "name": "66⚡️WJ",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://guowaiju.com",
-        "site": "",
-        "dataKey": "7xv16h7qgkrs9b1p",
-        "dataIv": "7xv16h7qgkrs9b1p",
         "deviceId": "",
         "version": "",
         "ua": ""
@@ -1155,3 +1143,4 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
