@@ -512,12 +512,11 @@
       "key": "lltv_厂长影视",
       "name": "66⚡️CZ",
       "type": 3,
-      "playerType": "2",
       "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.czzymovie.com/"
+      "ext": "https://www.cz4k.com/"
     },
     {
       "key": "lltv_热剧",
@@ -1179,3 +1178,4 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
