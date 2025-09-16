@@ -509,16 +509,6 @@
       "searchable": 0
     },
     {
-      "key": "lltv_厂长影视",
-      "name": "66⚡️CZ",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.cz4k.com/"
-    },
-    {
       "key": "lltv_热剧",
       "name": "66⚡️RJ",
       "type": 3,
@@ -1178,4 +1168,5 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
