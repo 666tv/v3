@@ -113,7 +113,7 @@
       "name": "66⭐荐片",
       "api": "csp_Jianpian",
       "type": 3,
-      "ext": "https://ij1men.slsw6.com"
+      "ext": "https://api.ztcgi.com"
     },
     {
       "key": "lltv_浪酷影视",
@@ -293,17 +293,6 @@
       }
     },
     {
-      "key": "lltv_厂长影视",
-      "name": "66⚡️CZ",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.czzymovie.com/"
-    },
-    {
       "key": "lltv_光影",
       "name": "66⚡️GY",
       "type": 3,
@@ -321,7 +310,7 @@
       "key": "lltv_狐狸君",
       "name": "66⚡HL",
       "type": 3,
-      "api": "csp_HBPQ",
+      "api": "csp_XBPQ",
       "changeable": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -358,6 +347,22 @@
         }
     },
     {
+      "key": "lltv_魔方",
+      "name": "66⚡️MF",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.pjb523.sbs",
+        "site": "",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+        }
+    },
+    {
       "key": "lltv_米诺",
       "name": "66⚡️MN",
       "type": 3,
@@ -374,7 +379,7 @@
       "key": "lltv_明星影视",
       "name": "66⚡️MX",
       "type": 3,
-      "api": "csp_HBPQ",
+      "api": "csp_XBPQ",
       "ext": "./mov/json/明星影视.json"
     },
     {
@@ -422,6 +427,22 @@
         "site": "",
         "dataKey": "JEWibY1AgWF0V1xx",
         "dataIv": "JEWibY1AgWF0V1xx",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+        }
+    },
+    {
+      "key": "lltv_稀饭",
+      "name": "66⚡️XF",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://app.xifanys.com",
+        "site": "",
+        "dataKey": "HM6Ly9yeS4ya3dvL",
+        "dataIv": "HM6Ly9yeS4ya3dvL",
         "deviceId": "",
         "version": "",
         "ua": ""
@@ -481,10 +502,45 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_以下资源广电网络可用",
-      "name": "📛•广电可用•📛",
+      "key": "lltv_以下资源无搜索",
+      "name": "📛•无搜索•📛",
       "type": 3,
-      "api": "csp_Douban",
+      "api": "csp_LocalFile",
+      "searchable": 0
+    },
+    {
+      "key": "lltv_厂长影视",
+      "name": "66⚡️CZ",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.czzymovie.com/"
+    },
+    {
+      "key": "lltv_热剧",
+      "name": "66⚡️RJ",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "https://www.rebovod.com",
+        "site": "",
+        "dataKey": "8191A7F47B37882F",
+        "dataIv": "8191A7F47B37882F",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+        }
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "lltv_以下资源广电网络可用",
+      "name": "📛•广电网络•📛",
+      "type": 3,
+      "api": "csp_LocalFile",
       "searchable": 0
     },
     {
@@ -516,22 +572,6 @@
       "type": 3,
       "api": "csp_Jiaozi",
       "playerType": 2
-    },
-    {
-      "key": "lltv_零三",
-      "name": "(GD)66⚡️LS",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://03macapp.01yy.top",
-        "site": "",
-        "dataKey": "sdfjiweunikfjofj",
-        "dataIv": "sdfjiweunikfjofj",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-        }
     },
     {
       "key": "lltv_农民影视",
@@ -579,7 +619,7 @@
       "key": "lltv_永乐影视",
       "name": "(GD)66⚡️YL",
       "type": 3,
-      "api": "csp_HBPQ",
+      "api": "csp_XBPQ",
       "ext": "./mov/json/永乐影视.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -588,32 +628,28 @@
       "name": "📛收集整理不易📛",
       "type": 3,
       "api": "csp_LocalFile",
-      "searchable": 0,
-      "quickSearch": 0
+      "searchable": 0
     },
     {
       "key": "lltv1",
       "name": "📛请多多支持📛",
       "type": 3,
       "api": "",
-      "searchable": 0,
-      "quickSearch": 0
+      "searchable": 0
     },
     {
       "key": "lltv2",
       "name": "📛高端精品尽在📛",
       "type": 3,
       "api": "",
-      "searchable": 0,
-      "quickSearch": 0
+      "searchable": 0
     },
     {
       "key": "lltv3",
       "name": "📛⑥⑥宝藏团📛",
       "type": 3,
       "api": "",
-      "searchable": 0,
-      "quickSearch": 0
+      "searchable": 0
     }
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1143,4 +1179,3 @@
         "static-mozai.4gtv.tv"
     ]
 }
-
