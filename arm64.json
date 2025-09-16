@@ -67,7 +67,7 @@
       "name": "66⭐荐片",
       "api": "csp_Jianpian",
       "type": 3,
-      "ext": "https://ij1men.slsw6.com"
+      "ext": "https://api.ztcgi.com"
     },
     {
       "key": "lltv_浪酷影视",
@@ -110,15 +110,19 @@
         }
     },
     {
-      "key": "lltv_天天影视",
-      "name": "66⭐天天",
+      "key": "lltv_外剧",
+      "name": "66⭐国外",
       "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "api": "csp_AppGet",
       "ext": {
-        "url": "http://tt.ysdqjs.cn"
+        "url": "https://guowaiju.com",
+        "site": "",
+        "dataKey": "7xv16h7qgkrs9b1p",
+        "dataIv": "7xv16h7qgkrs9b1p",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
         }
     },
 //短剧~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -745,5 +749,6 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
