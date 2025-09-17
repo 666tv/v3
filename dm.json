@@ -30,74 +30,11 @@
       "ext": "./dongman/56动漫.js"
     },
     {
-      "key": "lltv_58动漫",
-      "name": "58┃动漫",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./dongman/58动漫.js"
-    },
-    {
-      "key": "lltv_Dm84-鸭",
+      "key": "lltv_巴士动漫",
       "name": "84┃动漫",
       "type": 3,
-      "api": "csp_Dm84",
-      "jar": "./jar/pg240722.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "lltv_NT动漫",
-      "name": "NT┃动漫",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./dongman/NT动漫.js"
-    },
-    {
-      "key": "lltv_anfuns",
-      "name": "ANF┃动漫",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./dongman/anfuns.js"
-    },
-    {
-      "key": "lltv_DFun动漫",
-      "name": "DFun┃动漫",
-      "type": 3,
-      "api": "csp_AppGetApp",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoMKjwrPCosKpw6PDsmFlZsKlw7HDnMKow5zDqcKgX8Kpwp3Cp8Onw7LDrcKcX1LCg8KZw63DmMOPw6vDplVqUlLCpcKVw67DosOqVWpSwovlh77phZvmkJ/lkZzCpuWGn+S9h+WQp2rlv6roqLnotr7mvInnrZPCkFJcUsK6w5jDrcOEw5/CrFJqUsOsw5TCr8Odwq7CpmXCkWbCrcOXwq/DqsOxaWFSXMKbwrTDn8Osw4PCqVJqUsOsw5TCr8Odwq7CpmXCkWbCrcOXwq/DqsOxaWFSwq0="
-    },
-    {
-      "key": "lltv_Anime1",
-      "name": "Anime1┃动漫",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./dongman/Anime1.js"
-    },
-    {
-      "key": "lltv_次元动漫",
-      "name": "次元┃动漫",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://jjjj.nilinili.org",
-        "dataKey": "672263e98f232a05",
-        "dataIv": "672263e98f232a05",
-        "deviceId": "",
-        "version": "170"
-        }
+      "api": "csp_XYQHiker",
+      "ext": "./dongman/巴士动漫.json"
     },
     {
       "key": "lltv_多多动漫",
@@ -106,22 +43,19 @@
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-          "url": "",
-          "site": "https://app.cf4k.xyz/1.txt",
-          "dataKey": "qqqqqqqqqqqqqqqq",
-          "dataIv": "qqqqqqqqqqqqqqqq",
-          "deviceId": "",
-          "version": ""
-      }
+        "url": "",
+        "site": "https://app.cf4k.xyz/1.txt",
+        "dataKey": "qqqqqqqqqqqqqqqq",
+        "dataIv": "qqqqqqqqqqqqqqqq",
+        "deviceId": "",
+        "version": ""
+        }
     },
     {
       "key": "lltv_哆啦新番社",
       "name": "哆啦┃动漫",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "style": {
           "type": "list"
          },
@@ -138,6 +72,22 @@
         "site": "",
         "dataKey": "N4yj7l7xKxHF4*gz",
         "dataIv": "N4yj7l7xKxHF4*gz",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+        }
+    },
+    {
+      "key": "lltv_方舟",
+      "name": "方舟┃动漫",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.cyfz.vip",
+        "site": "",
+        "dataKey": "e72cdfd629e8895d",
+        "dataIv": "e72cdfd629e8895d",
         "deviceId": "",
         "version": "",
         "ua": ""
@@ -187,16 +137,6 @@
         }
     },
     {
-      "key": "lltv_曼波动漫",
-      "name": "曼波┃动漫",
-      "type": 3,
-      "api": "csp_AppGetApp",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KRwqDDqcKhw6nDpsOpwpnCpcKeYcKnw6fDqcOpwqnClMKgwplew6nDm8OqwpvCplXCpMKZwqDCm8KtwpzDlOWHv+mEm+aPleWQk1zlh6XkvorlkbHCs+W/q+inuei1tOa7gOesicOWwpXCpsKbwrvCmMKje8KVw7LClcK0wpvCsGnClMKTY8KpwqzDncObw5/CmMKTwpFkwq7Cp8KcwqXCnHTClcKjecOvwpXCtMKbwrBpwpTCk2PCqcKsw53Dm8OfwpjCk8KRZMKuwqfCnMO2"
-    },
-    {
       "key": "lltv_漫国",
       "name": "漫国┃动漫",
       "type": 3,
@@ -236,29 +176,27 @@
       "key": "lltv_稀饭动漫",
       "name": "稀饭┃动漫",
       "type": 3,
-      "api": "csp_AppGetApp",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoMKjwrPCosKpw7HDoMKUwqDCoF3CqsKmwqrCrsKtbGBgZsKuwqHDncOow61hwpHCoF3DoMOow5vDp8Ohwq3CmMKfwqXCp8Ogw7PDqsOdwp/Cn8KlwpTCp8OWw6nDpsKpwprClcKkwpHDqcOjwqjDrcOywqdSXFLDgsOhw6PDrcORwqLCosKUUsKzwpXCnMKlwpzCp8KZwqBSwrPClcOV5Ye+6YWi5o+Y5ZCTXOWGnOS+kOWRqsK05b+q6KmA6LW35ruA56yJwo3Cm8KfwpzCusOfwqZ7wpXCqcKbwq3CnMKqw7PCjWLCg8Kgw6fCrMOlw6vDqMKtwoZ7wp/CvMKVwqbCm8K7wpjCo3nCpsKbwq3CnMKqw7PCjWLCg8Kgw6fCrMOlw6vDqMKtwoZ7wp/CvMKVwqbCm8ONwpzCpMKVwoXDq8OfwpzCs8KcVcKt"
-    },
-    {
-      "key": "lltv_怡萱动漫",
-      "name": "怡萱┃动漫",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./dongman/YXDM.js"
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "https://xfapp-1305390065.cos.ap-guangzhou.myqcloud.com/getapp.txt",
+        "dataKey": "1yZ2Spn9krnzVKoC",
+        "dataIv": "1yZ2Spn9krnzVKoC",
+        "deviceId": "",
+        "version": ""
+        }
     },
     {
       "key": "lltv_樱花动漫",
       "name": "樱花┃动漫",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./dongman/YHDM.js"
+      "api": "csp_XBPQ",
+      "ext": "./dongman/樱花动漫.json"
     },
     {
        "key": "lltv_桜空-欧歌",
-       "name": "桜空┃资源",
+       "name": "桜空┃动漫",
        "type": 3,
        "api": "csp_XBPQ",
        "ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "动漫$1#日漫$46#国漫$47#美漫$85"}
@@ -280,13 +218,6 @@
         }
     },
     {
-      "key": "lltv_爱弹幕",
-      "name": "爱弹幕┃动漫",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./dongman/ADM.js"
-    },
-    {
       "key": "lltv_动画片动漫",
       "name": "动画片┃动漫",
       "type": 3,
@@ -302,13 +233,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./dongman/看吧动漫.js"
-    },
-    {
-      "key": "lltv_异世界",
-      "name": "异世界┃动漫",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./dongman/YSJ.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
