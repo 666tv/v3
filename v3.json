@@ -293,6 +293,17 @@
       }
     },
     {
+      "key": "lltv_厂长影视",
+      "name": "66⚡️CZ",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.czzymovie.com/"
+    },
+    {
       "key": "lltv_光影",
       "name": "66⚡️GY",
       "type": 3,
@@ -454,6 +465,22 @@
       "type": 3,
       "api": "csp_Xlys",
       "ext": "https://xl01.com.de"
+    },
+    {
+      "key": "lltv_星星",
+      "name": "66⚡️XX",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://starani.qcanime.xyz",
+        "site": "",
+        "dataKey": "123456789StarAni",
+        "dataIv": "123456789StarAni",
+        "deviceId": "",
+        "version": "",
+        "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
+        }
     },
     {
       "key": "lltv_雄鹰",
@@ -1168,5 +1195,3 @@
         "static-mozai.4gtv.tv"
     ]
 }
-
-
