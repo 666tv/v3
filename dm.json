@@ -62,6 +62,22 @@
       "ext": "./dongman/DLXFS.json"
     },
     {
+      "key": "lltv_冬日",
+      "name": "冬日┃动漫",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+          "url": "http://www.drdm.fun",
+          "site": "",
+          "dataKey": "qE2nD0rL1lH4uP9r",
+          "dataIv": "qE2nD0rL1lH4uP9r",
+          "deviceId": "",
+          "version": "",
+          "ua": ""
+        }
+    },
+    {
       "key": "lltv_番薯",
       "name": "番薯┃动漫",
       "type": 3,
@@ -134,6 +150,22 @@
         "dataIv": "GETMIFUNGEIMIFUN",
         "deviceId": "",
         "version": ""
+        }
+    },
+    {
+      "key": "lltv_漫屋",
+      "name": "漫屋┃动漫",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+          "url": "https://www.yunwuee.icu",
+          "site": "",
+          "dataKey": "ygcnb9bdcmb8aeiw",
+          "dataIv": "ygcnb9bdcmb8aeiw",
+          "deviceId": "",
+          "version": "",
+          "ua": ""
         }
     },
     {
