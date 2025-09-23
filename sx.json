@@ -22,6 +22,16 @@
       "ext": ""
     },
 	{
+      "key": "lltv_TQDH",
+      "name": "童趣📛⑥⑥宝藏团📛",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./dongman/童趣搜视.js"
+    },
+	{
       "key": "lltv_58动漫",
       "name": "58┃动漫",
       "type": 3,
