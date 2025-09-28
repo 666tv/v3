@@ -22,6 +22,16 @@
       "ext": ""
     },
 	{
+      "key": "lltv_夜猫短剧-夜猫子",
+      "name": "夜猫┃短剧",
+      "type": 3,
+      "api": "csp_YMduanju",
+      "jar": "./jar/ymdj.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	{
       "key": "lltv_TQDH",
       "name": "童趣📛⑥⑥宝藏团📛",
       "type": 3,
