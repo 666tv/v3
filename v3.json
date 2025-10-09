@@ -267,22 +267,6 @@
       "filterable": 0
     },
     {
-      "key": "lltv_爱看",
-      "name": "66⚡️AK",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-          "url": "https://aikan.my",
-          "site": "",
-          "dataKey": "hzxjRSmyTmSE4ENE",
-          "dataIv": "hzxjRSmyTmSE4ENE",
-          "deviceId": "",
-          "version": "",
-          "ua": ""
-        }
-    },
-    {
       "key": "lltv_爱影",
       "name": "66⚡️AY",
       "type": 3,
@@ -325,18 +309,20 @@
       }
     },
     {
-      "key": "lltv_光影",
-      "name": "66⚡️GY",
+      "key": "lltv_八天",
+      "name": "66⚡️BT",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-            "url": "https://www.guangyingmi.com",
-            "dataKey": "230fnsodfsdhfon2",
-            "dataIv": "230fnsodfsdhfon2",
-            "deviceId": "",
-            "version": ""
-      }
+        "url": "https://dy.8ttv.cn",
+        "site": "",
+        "dataKey": "1111111111111111",
+        "dataIv": "1111111111111111",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+        }
     },
     {
       "key": "lltv_火狐",
@@ -366,20 +352,6 @@
       "ext": "./mov/json/狐狸君.json"
     },
     {
-      "key": "lltv_橘子",
-      "name": "66⚡JZ",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://api1.bffree.cn",
-        "dataKey": "2015692015692015",
-        "dataIv": "2015692015692015",
-        "deviceId": "",
-        "version": "300"
-        }
-    },
-    {
       "key": "lltv_狂人",
       "name": "66⚡KR",
       "type": 3,
@@ -392,38 +364,6 @@
         "dataIv": "vXeyuJFqTKqWUtWU",
         "deviceId": "",
         "version": ""
-        }
-    },
-    {
-      "key": "lltv_魔方",
-      "name": "66⚡️MF",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.pjb523.sbs",
-        "site": "",
-        "dataKey": "1234567887654321",
-        "dataIv": "1234567887654321",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-        }
-    },
-    {
-      "key": "lltv_奈飞",
-      "name": "66⚡️NF",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://movier.ink",
-        "site": "",
-        "dataKey": "moviermovierink9",
-        "dataIv": "moviermovierink9",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
         }
     },
     {
@@ -478,7 +418,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-          "url": "https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
+        "url": "https://www.pkmp4.xyz,https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
         }
     },
     {
@@ -514,22 +454,6 @@
         "site": "",
         "dataKey": "JEWibY1AgWF0V1xx",
         "dataIv": "JEWibY1AgWF0V1xx",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-        }
-    },
-    {
-      "key": "lltv_万能",
-      "name": "66⚡️WN",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://wnvod.cc",
-        "site": "",
-        "dataKey": "5uBvur6znNUmE3zb",
-        "dataIv": "5uBvur6znNUmE3zb",
         "deviceId": "",
         "version": "",
         "ua": ""
@@ -598,13 +522,6 @@
         "deviceId": "",
         "version": ""
         }
-    },
-    {
-      "key": "lltv_追剧影视",
-      "name": "66⚡️ZJ",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/追剧影视.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -1272,4 +1189,5 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
