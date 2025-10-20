@@ -325,6 +325,21 @@
         }
     },
     {
+      "key": "lltv_火锅",
+      "name": "66⚡HG",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://ios.hgyx.vip",
+        "site": "",
+        "dataKey": "062dec75d039980e",
+        "dataIv": "062dec75d039980e",
+        "deviceId": "",
+        "version": ""
+        }
+    },
+    {
       "key": "lltv_火狐",
       "name": "66⚡HH",
       "type": 3,
@@ -1189,5 +1204,6 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
