@@ -51,6 +51,17 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_多多",
+      "name": "4K_DD⭐配置中心登录网盘",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./mov/json/yyds.json"
+    },
+    {
       "key": "lltv_玩偶哥哥",
       "name": "4K_GG⭐配置中心登录夸克",
       "type": 3,
@@ -70,17 +81,6 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "./mov/json/lb.json"
-    },
-    {
-      "key": "lltv_闪电",
-      "name": "4K_SD⭐配置中心登录UC",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./mov/json/sd.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -102,11 +102,11 @@
       "filterable": 1
     },
     {
-      "key": "lltv_金牌影视",
+      "key": "lltv_金牌-XYQ",
       "name": "66⭐金牌",
       "type": 3,
-      "api": "csp_Jpys",
-      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn,https://m.sunnafh.com,https://muouht.ggtvb.cc"
+      "api": "./js/drpy_xyq/drpy2.min.js",
+      "ext": "https://hk.gh-proxy.com/raw.githubusercontent.com/666tv/v3/main/mov/js/金牌影视.js"
     },
     {
       "key": "lltv_荐片",
@@ -135,15 +135,6 @@
       "ext": "./mov/json/糯米影视.json"
     },
     {
-      "key": "lltv_苹果影视",
-      "name": "66⭐苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_热播影视",
       "name": "66⭐热播",
       "type": 3,
@@ -156,20 +147,25 @@
         }
     },
     {
-      "key": "lltv_外剧",
-      "name": "66⭐外剧",
+      "key": "lltv_雄鹰",
+      "name": "66⭐雄鹰",
       "type": 3,
       "quickSearch": 1,
-      "api": "csp_AppGet",
+      "api": "csp_AppGet2",
+      "jar": "./jar/spider250809.jar",
       "ext": {
-        "url": "https://guowaiju.com",
-        "site": "",
-        "dataKey": "7xv16h7qgkrs9b1p",
-        "dataIv": "7xv16h7qgkrs9b1p",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
+        "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+        "dataKey": "ca94b06ca359d80e",
+        "dataIv": "ca94b06ca359d80e",
+        "version": "120"
         }
+    },
+    {
+      "key": "lltv_永乐影视",
+      "name": "66⭐永乐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/永乐影视.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -274,12 +270,8 @@
       "api": "csp_AppGet",
       "ext": {
           "url": "https://app.lkdyw.cn",
-          "site": "",
           "dataKey": "e65144389e9361b5",
-          "dataIv": "e65144389e9361b5",
-          "deviceId": "",
-          "version": "",
-          "ua": ""
+          "dataIv": "e65144389e9361b5"
         }
     },
     {
@@ -300,29 +292,11 @@
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-            "url": "",
             "site": "http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
             "dataKey": "n3l2tx5jdkp9s2c8",
             "dataIv": "n3l2tx5jdkp9s2c8",
-            "deviceId": "",
             "version": "361"
       }
-    },
-    {
-      "key": "lltv_八天",
-      "name": "66⚡️BT",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://dy.8ttv.cn",
-        "site": "",
-        "dataKey": "1111111111111111",
-        "dataIv": "1111111111111111",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-        }
     },
     {
       "key": "lltv_火锅",
@@ -332,11 +306,8 @@
       "api": "csp_AppGet",
       "ext": {
         "url": "https://ios.hgyx.vip",
-        "site": "",
         "dataKey": "062dec75d039980e",
-        "dataIv": "062dec75d039980e",
-        "deviceId": "",
-        "version": ""
+        "dataIv": "062dec75d039980e"
         }
     },
     {
@@ -347,12 +318,9 @@
       "api": "csp_AppGet",
       "ext": {
           "url": "http://huohu.yihn.cc",
-          "site": "",
           "dataKey": "huohushipingetap",
           "dataIv": "huohushipingetap",
-          "deviceId": "",
-          "version": "140",
-          "ua": ""
+          "version": "140"
         }
     },
     {
@@ -376,38 +344,7 @@
       "ext": {
         "url": "https://www.zjkrmv.vip",
         "dataKey": "vXeyuJFqTKqWUtWU",
-        "dataIv": "vXeyuJFqTKqWUtWU",
-        "deviceId": "",
-        "version": ""
-        }
-    },
-    {
-      "key": "lltv_米诺",
-      "name": "66⚡️MN",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-            "url": "http://www.milkidc.cn",
-            "dataKey": "20c79c979da8db0f",
-            "dataIv": "20c79c979da8db0f",
-            "deviceId": "",
-            "version": ""
-      }
-    },
-    {
-      "key": "lltv_米奇",
-      "name": "66⚡️MQ",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-          "url": "http://www.milkidc.cn",
-          "site": "",
-          "dataKey": "20c79c979da8db0f",
-          "dataIv": "20c79c979da8db0f",
-          "deviceId": "",
-          "version": "",
-          "ua": ""
+        "dataIv": "vXeyuJFqTKqWUtWU"
         }
     },
     {
@@ -416,13 +353,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/明星影视.json"
-    },
-    {
-      "key": "lltv_农民影视",
-      "name": "66⚡️NM",
-      "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn"
     },
     {
       "key": "lltv_七味",
@@ -444,12 +374,9 @@
       "api": "csp_AppGet",
       "ext": {
         "url": "http://huohu.yihn.cc",
-        "site": "",
         "dataKey": "huohushipingetap",
         "dataIv": "huohushipingetap",
-        "deviceId": "",
-        "version": "140",
-        "ua": ""
+        "version": "140"
         }
     },
     {
@@ -466,12 +393,8 @@
       "api": "csp_AppGet",
       "ext": {
         "url": "https://dy.58ys.vip",
-        "site": "",
         "dataKey": "JEWibY1AgWF0V1xx",
-        "dataIv": "JEWibY1AgWF0V1xx",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
+        "dataIv": "JEWibY1AgWF0V1xx"
         }
     },
     {
@@ -489,28 +412,8 @@
       "api": "csp_AppGet",
       "ext": {
           "url": "https://mcvod.top",
-          "site": "",
           "dataKey": "cnmbknmbtounimab",
-          "dataIv": "cnmbknmbtounimab",
-          "deviceId": "",
-          "version": "",
-          "ua": ""
-        }
-    },
-    {
-      "key": "lltv_雄鹰",
-      "name": "66⚡️XY",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "./jar/spider250809.jar",
-      "ext": {
-        "url": "",
-        "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
-        "dataKey": "ca94b06ca359d80e",
-        "dataIv": "ca94b06ca359d80e",
-        "deviceId": "",
-        "version": "120"
+          "dataIv": "cnmbknmbtounimab"
         }
     },
     {
@@ -533,9 +436,7 @@
       "ext": {
         "url": "http://tv.yy-fun.cc",
         "dataKey": "qkxnwkfjwpcnwycl",
-        "dataIv": "qkxnwkfjwpcnwycl",
-        "deviceId": "",
-        "version": ""
+        "dataIv": "qkxnwkfjwpcnwycl"
         }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -554,12 +455,8 @@
       "api": "csp_AppQi",
       "ext": {
         "url": "https://www.rebovod.com",
-        "site": "",
         "dataKey": "8191A7F47B37882F",
-        "dataIv": "8191A7F47B37882F",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
+        "dataIv": "8191A7F47B37882F"
         }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -580,18 +477,23 @@
       "filterable": 1
     },
     {
+      "key": "lltv_八天",
+      "name": "(GD)66⚡️BT",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://dy.8ttv.cn",
+        "dataKey": "1111111111111111",
+        "dataIv": "1111111111111111"
+        }
+    },
+    {
       "key": "lltv_采集之王",
       "name": "(GD)66⚡️CJ",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
-    },
-    {
-      "key": "lltv_金牌-XYQ",
-      "name": "(GD)66⚡️JP",
-      "type": 3,
-      "api": "./js/drpy_xyq/drpy2.min.js",
-      "ext": "https://hk.gh-proxy.com/raw.githubusercontent.com/666tv/v3/main/mov/js/金牌影视.js"
     },
     {
       "key": "lltv_饺子影视",
@@ -610,7 +512,6 @@
           "url": "https://new.tkbot.fun",
           "dataKey": "d032c12876bc6848",
           "dataIv": "d032c12876bc6848",
-          "deviceId": "",
           "version": "200"
         }
     },
@@ -639,13 +540,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "lltv_永乐影视",
-      "name": "(GD)66⚡️YL",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/永乐影视.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -695,6 +589,35 @@
     },
     {
       "name": "LLTV_1",
+      "type": 1,
+      "url": "http://niiuma.qi-simple.top//nn.php?url=",
+      "ext": {
+        "flag": [
+            "qq",
+            "腾讯",
+            "qiyi",
+            "爱奇艺",
+            "奇艺",
+            "youku",
+            "优酷",
+            "sohu",
+            "搜狐",
+            "letv",
+            "乐视",
+            "mgtv",
+            "芒果",
+            "tnmb",
+            "seven",
+            "bilibili",
+            "1905"
+            ],
+        "header": {
+        "User-Agent": "okhttp/4.9.1"
+        }
+            }
+    },
+    {
+      "name": "LLTV_2",
       "type": "1",
       "url": "https://mfjx.iwsyy.xyz/?url=",
       "ext": {
@@ -724,7 +647,7 @@
        }
     },
     {
-      "name": "LLTV_2",
+      "name": "LLTV_3",
       "type": 1,
       "url": "https://zy.qiaoji8.com/xiafan.php?url=",
       "ext": {
@@ -744,7 +667,7 @@
       }
     },
     {
-      "name": "LLTV_3",
+      "name": "LLTV_4",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -754,7 +677,7 @@
       }
     },
     {
-      "name": "LLTV_4",
+      "name": "LLTV_5",
       "type": 0,
       "url": "https://bd.jx.cn/?url=",
       "ext": {
@@ -1204,8 +1127,3 @@
         "static-mozai.4gtv.tv"
     ]
 }
-
-
-
-
-
