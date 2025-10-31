@@ -56,11 +56,11 @@
       "filterable": 1
     },
     {
-      "key": "lltv_金牌影视",
+      "key": "lltv_金牌-XYQ",
       "name": "66⭐金牌",
       "type": 3,
-      "api": "csp_Jpys",
-      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn,https://m.sunnafh.com"
+      "api": "./js/drpy_xyq/drpy2.min.js",
+      "ext": "https://hk.gh-proxy.com/raw.githubusercontent.com/666tv/v3/main/mov/js/金牌影视.js"
     },
     {
       "key": "lltv_荐片",
@@ -89,15 +89,6 @@
       "ext": "./mov/json/糯米影视.json"
     },
     {
-      "key": "lltv_苹果影视",
-      "name": "66⭐苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_热播影视",
       "name": "66⭐热播",
       "type": 3,
@@ -110,20 +101,25 @@
         }
     },
     {
-      "key": "lltv_外剧",
-      "name": "66⭐外剧",
+      "key": "lltv_雄鹰",
+      "name": "66⭐雄鹰",
       "type": 3,
       "quickSearch": 1,
-      "api": "csp_AppGet",
+      "api": "csp_AppGet2",
+      "jar": "./jar/spider250809.jar",
       "ext": {
-        "url": "https://guowaiju.com",
-        "site": "",
-        "dataKey": "7xv16h7qgkrs9b1p",
-        "dataIv": "7xv16h7qgkrs9b1p",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
+        "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+        "dataKey": "ca94b06ca359d80e",
+        "dataIv": "ca94b06ca359d80e",
+        "version": "120"
         }
+    },
+    {
+      "key": "lltv_永乐影视",
+      "name": "66⭐永乐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/永乐影视.json"
     },
 //短剧~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -716,6 +712,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
