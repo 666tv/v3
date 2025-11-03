@@ -147,18 +147,20 @@
         }
     },
     {
-      "key": "lltv_雄鹰",
-      "name": "66⭐雄鹰",
-      "type": 3,
+      "key": "lltv_天翼影视",
+      "name": "66⭐天翼",
+      "type": 1,
+      "api": "http://7.qqqtv.top/api.php/provide/vod/",
+      "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "./jar/spider250809.jar",
-      "ext": {
-        "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
-        "dataKey": "ca94b06ca359d80e",
-        "dataIv": "ca94b06ca359d80e",
-        "version": "120"
-        }
+      "filterable": 1,
+      "categories": [
+            "推荐",
+            "电影",
+            "电视剧",
+            "综艺",
+            "动漫"
+        ]
     },
     {
       "key": "lltv_永乐影视",
@@ -286,19 +288,6 @@
       "ext": "./mov/js/哔哩影视[官].js"
     },
     {
-      "key": "lltv_白蛇",
-      "name": "66⚡️BS",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-            "site": "http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
-            "dataKey": "n3l2tx5jdkp9s2c8",
-            "dataIv": "n3l2tx5jdkp9s2c8",
-            "version": "361"
-      }
-    },
-    {
       "key": "lltv_火锅",
       "name": "66⚡HG",
       "type": 3,
@@ -348,6 +337,13 @@
         }
     },
     {
+      "key": "lltv_面包影视",
+      "name": "66⚡️MB",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/面包影视.json"
+    },
+    {
       "key": "lltv_明星影视",
       "name": "66⚡️MX",
       "type": 3,
@@ -367,6 +363,12 @@
         }
     },
     {
+      "key": "lltv_奇优影视",
+      "name": "66⚡️QY",
+      "type": 3,
+      "api": "csp_Qiyou"
+    },
+    {
       "key": "lltv_蔬菜",
       "name": "66⚡️SC",
       "type": 3,
@@ -378,6 +380,13 @@
         "dataIv": "huohushipingetap",
         "version": "140"
         }
+    },
+    {
+      "key": "lltv_三九影视",
+      "name": "66⚡️SJ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/三九影视.json"
     },
     {
       "key": "lltv_三六零",
@@ -448,6 +457,13 @@
       "searchable": 0
     },
     {
+      "key": "lltv_饺子影视",
+      "name": "66⚡️JZ",
+      "type": 3,
+      "api": "csp_Jiaozi",
+      "playerType": 2
+    },
+    {
       "key": "lltv_热剧",
       "name": "66⚡️RJ",
       "type": 3,
@@ -494,13 +510,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
-    },
-    {
-      "key": "lltv_饺子影视",
-      "name": "(GD)66⚡️JZ",
-      "type": 3,
-      "api": "csp_Jiaozi",
-      "playerType": 2
     },
     {
       "key": "lltv_米兔",
