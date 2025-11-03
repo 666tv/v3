@@ -101,18 +101,20 @@
         }
     },
     {
-      "key": "lltv_雄鹰",
-      "name": "66⭐雄鹰",
-      "type": 3,
+      "key": "lltv_天翼影视",
+      "name": "66⭐天翼",
+      "type": 1,
+      "api": "http://7.qqqtv.top/api.php/provide/vod/",
+      "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "./jar/spider250809.jar",
-      "ext": {
-        "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
-        "dataKey": "ca94b06ca359d80e",
-        "dataIv": "ca94b06ca359d80e",
-        "version": "120"
-        }
+      "filterable": 1,
+      "categories": [
+            "推荐",
+            "电影",
+            "电视剧",
+            "综艺",
+            "动漫"
+        ]
     },
     {
       "key": "lltv_永乐影视",
@@ -712,6 +714,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
