@@ -62,14 +62,15 @@
       "ext": "./mov/json/yyds.json"
     },
     {
-      "key": "lltv_玩偶哥哥",
+      "key": "lltv_玩偶",
       "name": "4K_GG⭐配置中心登录夸克",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./mov/json/wogg.json"
+      "changeable": 1,
+      "ext": "./mov/json/玩偶.json"
     },
     {
       "key": "lltv_蜡笔",
@@ -351,6 +352,13 @@
       "ext": "./mov/json/明星影视.json"
     },
     {
+      "key": "lltv_莫小影视",
+      "name": "66⚡️MY",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/莫小影视.json"
+    },
+    {
       "key": "lltv_七味",
       "name": "66⚡️QW",
       "type": 3,
@@ -393,6 +401,14 @@
       "name": "66⚡️SL",
       "type": 3,
       "api": "csp_SP360"
+    },
+    {
+      "key": "lltv_私人",
+      "name": "66⚡️SR",
+      "type": 3,
+      "changeable": 1,
+      "api": "csp_AppYsV2",
+      "ext": "https://v.catcs.cc/api.php/v1.vod"
     },
     {
       "key": "lltv_五八",
@@ -1136,3 +1152,4 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
