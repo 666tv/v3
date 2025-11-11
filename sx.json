@@ -22,6 +22,15 @@
       "ext": ""
     },
 	{
+      "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
+      "name": "66⭐多多",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	{
       "key": "lltv_雄鹰",
       "name": "66⭐雄鹰",
       "type": 3,
