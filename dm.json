@@ -239,6 +239,13 @@
         }
     },
     {
+      "key": "lltv_爱动漫",
+      "name": "爱动漫┃动漫 ",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./dongman/爱动漫.js"
+    },
+    {
       "key": "lltv_动画片动漫",
       "name": "动画片┃动漫",
       "type": 3,
