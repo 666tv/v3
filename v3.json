@@ -85,15 +85,6 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "lltv_低端影视-XYQ-肥猫-道长-鸭-巧技",
-      "name": "66⭐多多",
-      "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lltv_瓜子影视",
       "name": "66⭐瓜子",
       "type": 3,
@@ -134,6 +125,15 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/糯米影视.json"
+    },
+    {
+      "key": "lltv_苹果影视",
+      "name": "66⭐苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "lltv_热播影视",
@@ -351,12 +351,20 @@
       "api": "csp_XBPQ",
       "ext": "./mov/json/明星影视.json"
     },
+    
     {
       "key": "lltv_莫小影视",
       "name": "66⚡️MY",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/莫小影视.json"
+    },
+    {
+      "key": "lltv_农民影视",
+      "name": "66⚡️NM",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn"
     },
     {
       "key": "lltv_七味",
@@ -1152,4 +1160,5 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
