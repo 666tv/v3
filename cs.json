@@ -43,6 +43,39 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
+      "key": "lltv_玩偶哥哥",
+      "name": "4K_GG⭐配置中心登录夸克",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./mov/json/wogg.json"
+    },
+    {
+      "key": "lltv_快映",
+      "name": "4K_KY⭐配置中心登录夸克",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./mov/json/快映.json"
+    },
+    {
+      "key": "lltv_漫国动漫",
+      "name": "漫国┃动漫",
+      "type": 3,
+      "api": "csp_AppSy",
+      "ext": {
+        "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
+        "siteKey": "rectangleadsadxa",
+        "listKey": "aassddwwxxllsx1x",
+        "parsesKey": "aassddwwxxllsx1x"
+        }
+    },
+    {
       "key":"南瓜-巧技",
         "name":"南瓜┃秒播APP",
         "type":3,
