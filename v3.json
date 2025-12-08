@@ -615,6 +615,36 @@
     },
     {
       "name": "LLTV_1",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+            }
+        }
+    },
+    {
+      "name": "LLTV_2",
+      "type": 0,
+      "url": "https://jx.xymp4.cc/?url=",
+      "ext": {
+        "header": {
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.3124.68"
+            }
+        }
+    },
+    {
+      "name": "LLTV_3",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url=",
+      "ext": {
+        "header": {
+            "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+            }
+        }
+    },
+    {
+      "name": "LLTV_4",
       "type": 1,
       "url": "http://niiuma.qi-simple.top//nn.php?url=",
       "ext": {
@@ -643,7 +673,7 @@
             }
     },
     {
-      "name": "LLTV_2",
+      "name": "LLTV_5",
       "type": "1",
       "url": "https://mfjx.iwsyy.xyz/?url=",
       "ext": {
@@ -673,7 +703,7 @@
        }
     },
     {
-      "name": "LLTV_3",
+      "name": "LLTV_6",
       "type": 1,
       "url": "https://zy.qiaoji8.com/xiafan.php?url=",
       "ext": {
@@ -693,7 +723,7 @@
       }
     },
     {
-      "name": "LLTV_4",
+      "name": "LLTV_7",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -703,7 +733,7 @@
       }
     },
     {
-      "name": "LLTV_5",
+      "name": "LLTV_8",
       "type": 0,
       "url": "https://bd.jx.cn/?url=",
       "ext": {
@@ -1153,3 +1183,4 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
