@@ -94,6 +94,13 @@
       "filterable": 1
     },
     {
+      "key": "lltv_韩剧看看",
+      "name": "66⭐韩剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/韩剧看看.json"
+    },
+    {
       "key": "lltv_金牌-XYQ",
       "name": "66⭐金牌",
       "type": 3,
@@ -146,22 +153,6 @@
       "ext": {
         "url": "http://v.rbotv.cn"
         }
-    },
-    {
-      "key": "lltv_天翼影视",
-      "name": "66⭐天翼",
-      "type": 1,
-      "api": "http://7.qqqtv.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-            "推荐",
-            "电影",
-            "电视剧",
-            "综艺",
-            "动漫"
-        ]
     },
     {
       "key": "lltv_永乐影视",
@@ -312,13 +303,6 @@
           "dataIv": "huohushipingetap",
           "version": "140"
         }
-    },
-    {
-      "key": "lltv_韩剧看看",
-      "name": "66⚡HJ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/韩剧看看.json"
     },
     {
       "key": "lltv_狐狸君",
@@ -1190,5 +1174,6 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
