@@ -314,6 +314,13 @@
         }
     },
     {
+      "key": "lltv_韩剧看看",
+      "name": "66⚡HJ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/韩剧看看.json"
+    },
+    {
       "key": "lltv_狐狸君",
       "name": "66⚡HL",
       "type": 3,
@@ -1183,4 +1190,5 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
