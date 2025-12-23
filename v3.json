@@ -203,7 +203,7 @@
       "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://git.acwing.com/66tv/v3/-/raw/main/mov/zbdm/斗鱼直播.js",
+      "ext": "./mov/zbdm/斗鱼直播.js",
       "style": {
             "type": "rect",
             "ratio": 1.597
@@ -1182,6 +1182,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
