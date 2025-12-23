@@ -382,6 +382,14 @@
         }
     },
     {
+      "key": "lltv_骚火影视",
+      "name": "66⚡️SH",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "playerType": 2,
+      "ext": "https://shdy5.us"
+    },
+    {
       "key": "lltv_三九影视",
       "name": "66⚡️SJ",
       "type": 3,
@@ -1174,6 +1182,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
