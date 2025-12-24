@@ -105,7 +105,7 @@
       "name": "66⭐金牌",
       "type": 3,
       "api": "./js/drpy_xyq/drpy2.min.js",
-      "ext": "https://hk.gh-proxy.com/raw.githubusercontent.com/666tv/v3/main/mov/js/金牌影视.js"
+      "ext": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/666tv/v3/main/mov/js/金牌影视.js"
     },
     {
       "key": "lltv_荐片",
@@ -203,7 +203,7 @@
       "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://hk.gh-proxy.com/raw.githubusercontent.com/666tv/v3/mov/zbdm/斗鱼直播.js",
+      "ext": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/666tv/v3/main/mov/zbdm/斗鱼直播.js",
       "style": {
             "type": "rect",
             "ratio": 1.597
@@ -1158,7 +1158,7 @@
       "name": "IPV4",
       "type": 0,
       "playerType": 1,
-      "url": "https://hk.gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.txt",
+      "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "timeout": 10
@@ -1167,23 +1167,18 @@
       "name": "IPV6",
       "type": 0,
       "playerType": 1,
-      "url": "https://hk.gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.txt",
+      "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "timeout": 10
     }
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//https://ghproxy.net/
-//https://hk.gh-proxy.com/
-//https://gh.xxooo.cf/https://
+//https://gh-proxy.org/
+//https://hk.gh-proxy.org/
+//https://v6.gh-proxy.org/
 //广告~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "ads": [
         "static-mozai.4gtv.tv"
     ]
 }
-
-
-
-
-
