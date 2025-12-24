@@ -105,7 +105,7 @@
       "name": "66⭐金牌",
       "type": 3,
       "api": "./js/drpy_xyq/drpy2.min.js",
-      "ext": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/666tv/v3/main/mov/js/金牌影视.js"
+      "ext": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/666tv/66/main/mov/js/金牌影视.js"
     },
     {
       "key": "lltv_荐片",
@@ -203,7 +203,7 @@
       "api": "./js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/666tv/v3/main/mov/zbdm/斗鱼直播.js",
+      "ext": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/666tv/66/main/mov/zbdm/斗鱼直播.js",
       "style": {
             "type": "rect",
             "ratio": 1.597
@@ -1182,4 +1182,5 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
