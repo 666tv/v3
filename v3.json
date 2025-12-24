@@ -101,67 +101,6 @@
       "ext": "./mov/json/韩剧看看.json"
     },
     {
-      "key": "lltv_金牌-XYQ",
-      "name": "66⭐金牌",
-      "type": 3,
-      "api": "./js/drpy_xyq/drpy2.min.js",
-      "ext": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/666tv/66/main/mov/js/金牌影视.js"
-    },
-    {
-      "key": "lltv_荐片",
-      "name": "66⭐荐片",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "ext": "https://api.ztcgi.com"
-    },
-    {
-      "key": "lltv_浪酷影视",
-      "name": "66⭐浪酷",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.lkuys.cn"
-        }
-    },
-    {
-      "key": "lltv_糯米",
-      "name": "66⭐糯米",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/糯米影视.json"
-    },
-    {
-      "key": "lltv_苹果影视",
-      "name": "66⭐苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_热播影视",
-      "name": "66⭐热播",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-        }
-    },
-    {
-      "key": "lltv_永乐影视",
-      "name": "66⭐永乐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/永乐影视.json"
-    },
-    {
       "key": "lltv_豪华",
       "name": "66⭐豪华",
       "type": 1,
@@ -232,6 +171,13 @@
         "体育赛事"
       ]
     },
+    {
+      "key": "lltv_金牌-XYQ",
+      "name": "66⭐金牌",
+      "type": 3,
+      "api": "./js/drpy_xyq/drpy2.min.js",
+      "ext": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/666tv/66/main/mov/js/金牌影视.js"
+    },
     { 
       "key": "lltv_金鹰",
       "name":"66⭐金鹰",
@@ -265,6 +211,60 @@
         "综艺",
         "体育赛事"
       ]
+    },
+    {
+      "key": "lltv_荐片",
+      "name": "66⭐荐片",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "ext": "https://api.ztcgi.com"
+    },
+    {
+      "key": "lltv_浪酷影视",
+      "name": "66⭐浪酷",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.lkuys.cn"
+        }
+    },
+    {
+      "key": "lltv_糯米",
+      "name": "66⭐糯米",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/糯米影视.json"
+    },
+    {
+      "key": "lltv_苹果影视",
+      "name": "66⭐苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_热播影视",
+      "name": "66⭐热播",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+        }
+    },
+    {
+      "key": "lltv_永乐影视",
+      "name": "66⭐永乐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/永乐影视.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -1287,6 +1287,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
