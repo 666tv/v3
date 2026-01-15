@@ -447,13 +447,19 @@
       "api": "csp_XBPQ",
       "ext": "./mov/json/明星影视.json"
     },
-    
     {
       "key": "lltv_莫小影视",
       "name": "66⚡️MY",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/莫小影视.json"
+    },
+    {
+      "key": "lltv_农民影视",
+      "name": "66⚡️NM",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200"
     },
     {
       "key": "lltv_七味",
@@ -1287,6 +1293,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
