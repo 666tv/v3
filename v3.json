@@ -141,37 +141,6 @@
       ]
     },
     {
-      "key": "lltv_红牛",
-      "name": "66⭐红牛",
-      "type": 1,
-      "api": "https://www.hongniuzy3.com/api.php/provide/vod/from/hnm3u8/",
-      "playurl": "json:https://www.hnjiexi.com/m3u8/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "国产剧",
-        "港澳剧",
-        "台湾剧",
-        "日剧",
-        "韩剧",
-        "泰剧",
-        "欧美剧",
-        "动漫",
-        "动漫电影",
-        "综艺",
-        "体育赛事"
-      ]
-    },
-    {
       "key": "lltv_金牌-XYQ",
       "name": "66⭐金牌",
       "type": 3,
@@ -218,25 +187,6 @@
       "api": "csp_Jianpian",
       "type": 3,
       "ext": "https://api.ztcgi.com"
-    },
-    {
-      "key": "lltv_浪酷影视",
-      "name": "66⭐浪酷",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.lkuys.cn"
-        }
-    },
-    {
-      "key": "lltv_糯米",
-      "name": "66⭐糯米",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/糯米影视.json"
     },
     {
       "key": "lltv_苹果影视",
@@ -343,7 +293,7 @@
       "timeout": 10
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
+    /*{
       "key": "lltv_360",
       "name": "66⚡️360",
       "type": 3,
@@ -351,6 +301,12 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },*/
+    {
+      "key": "lltv_三六零",
+      "name": "66⚡️360",
+      "type": 3,
+      "api": "csp_SP360"
     },
     {
       "key": "lltv_1905",
@@ -362,16 +318,13 @@
       "filterable": 0
     },
     {
-      "key": "lltv_爱影",
-      "name": "66⚡️AY",
+      "key": "lltv_爱看机器人-XYQ-PG",
+      "name": "66⚡️AK",
       "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-          "url": "https://app.lkdyw.cn",
-          "dataKey": "e65144389e9361b5",
-          "dataIv": "e65144389e9361b5"
-        }
+      "filterable": 1
     },
     {
       "key": "lltv_哔哩影视[官]-道长",
@@ -385,53 +338,11 @@
       "ext": "./mov/js/哔哩影视[官].js"
     },
     {
-      "key": "lltv_火锅",
-      "name": "66⚡HG",
+      "key": "lltv_采集之王",
+      "name": "66⚡️CJ",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://ios.hgyx.vip",
-        "dataKey": "062dec75d039980e",
-        "dataIv": "062dec75d039980e"
-        }
-    },
-    {
-      "key": "lltv_火狐",
-      "name": "66⚡HH",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-          "url": "http://huohu.yihn.cc",
-          "dataKey": "huohushipingetap",
-          "dataIv": "huohushipingetap",
-          "version": "140"
-        }
-    },
-    {
-      "key": "lltv_狐狸君",
-      "name": "66⚡HL",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/狐狸君.json"
-    },
-    {
-      "key": "lltv_狂人",
-      "name": "66⚡KR",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      //"jar": "./jar/spider250809.jar",
-      "ext": {
-        "url": "https://www.zjkrmv.vip",
-        "dataKey": "vXeyuJFqTKqWUtWU",
-        "dataIv": "vXeyuJFqTKqWUtWU"
-        }
+      "api": "./js/drpy2.min.js",
+      "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
     },
     {
       "key": "lltv_面包影视",
@@ -440,57 +351,28 @@
       "api": "csp_XBPQ",
       "ext": "./mov/json/面包影视.json"
     },
-    {
-      "key": "lltv_明星影视",
-      "name": "66⚡️MX",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/明星影视.json"
-    },
-    {
-      "key": "lltv_莫小影视",
-      "name": "66⚡️MY",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/莫小影视.json"
-    },
-    {
+    /*{
       "key": "lltv_农民影视",
       "name": "66⚡️NM",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200"
-    },
+    },*/
     {
-      "key": "lltv_七味",
-      "name": "66⚡️QW",
+      "key": "lltv_农民",
+      "name": "66⚡️NM",
       "type": 3,
-      "api": "csp_QnMp4",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "url": "https://www.pkmp4.xyz,https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
-        }
+      "ext": "./mov/json/农民影视.json"
     },
     {
       "key": "lltv_奇优影视",
       "name": "66⚡️QY",
       "type": 3,
       "api": "csp_Qiyou"
-    },
-    {
-      "key": "lltv_蔬菜",
-      "name": "66⚡️SC",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://huohu.yihn.cc",
-        "dataKey": "huohushipingetap",
-        "dataIv": "huohushipingetap",
-        "version": "140"
-        }
     },
     {
       "key": "lltv_骚火影视",
@@ -501,37 +383,11 @@
       "ext": "https://shdy5.us"
     },
     {
-      "key": "lltv_三九影视",
-      "name": "66⚡️SJ",
+      "key": "lltv_大师兄影视-天天-道长-运输车",
+      "name": "66⚡SX",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./mov/json/三九影视.json"
-    },
-    {
-      "key": "lltv_三六零",
-      "name": "66⚡️SL",
-      "type": 3,
-      "api": "csp_SP360"
-    },
-    {
-      "key": "lltv_私人",
-      "name": "66⚡️SR",
-      "type": 3,
-      "changeable": 1,
-      "api": "csp_AppYsV2",
-      "ext": "https://v.catcs.cc/api.php/v1.vod"
-    },
-    {
-      "key": "lltv_五八",
-      "name": "66⚡️WB",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://dy.58ys.vip",
-        "dataKey": "JEWibY1AgWF0V1xx",
-        "dataIv": "JEWibY1AgWF0V1xx"
-        }
+      "ext": "./mov/json/大师兄.json"
     },
     {
       "key": "lltv_修罗影视",
@@ -539,18 +395,6 @@
       "type": 3,
       "api": "csp_Xlys",
       "ext": "https://xl01.com.de"
-    },
-    {
-      "key": "lltv_像素",
-      "name": "66⚡️XS",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-          "url": "https://mcvod.top",
-          "dataKey": "cnmbknmbtounimab",
-          "dataIv": "cnmbknmbtounimab"
-        }
     },
     {
       "key": "lltv_移动",
@@ -562,120 +406,6 @@
         "style": {
             "type": "list"
         }
-    },
-    {
-      "key": "lltv_丫丫",
-      "name": "66⚡️YY",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://tv.yy-fun.cc",
-        "dataKey": "qkxnwkfjwpcnwycl",
-        "dataIv": "qkxnwkfjwpcnwycl"
-        }
-    },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
-      "key": "lltv_以下资源无搜索",
-      "name": "📛•无搜索•📛",
-      "type": 3,
-      "api": "csp_LocalFile",
-      "searchable": 0
-    },
-    {
-      "key": "lltv_饺子影视",
-      "name": "66⚡️JZ",
-      "type": 3,
-      "api": "csp_Jiaozi",
-      "playerType": 2
-    },
-    {
-      "key": "lltv_热剧",
-      "name": "66⚡️RJ",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "https://www.rebovod.com",
-        "dataKey": "8191A7F47B37882F",
-        "dataIv": "8191A7F47B37882F"
-        }
-    },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
-      "key": "lltv_以下资源广电网络可用",
-      "name": "📛•广电网络•📛",
-      "type": 3,
-      "api": "csp_LocalFile",
-      "searchable": 0
-    },
-    {
-      "key": "lltv_爱看机器人-XYQ-PG",
-      "name": "(GD)66⚡️AK",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lltv_八天",
-      "name": "(GD)66⚡️BT",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://dy.8ttv.cn",
-        "dataKey": "1111111111111111",
-        "dataIv": "1111111111111111"
-        }
-    },
-    {
-      "key": "lltv_采集之王",
-      "name": "(GD)66⚡️CJ",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
-    },
-    {
-      "key": "lltv_米兔",
-      "name": "(GD)66⚡️MT",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-          "url": "https://new.tkbot.fun",
-          "dataKey": "d032c12876bc6848",
-          "dataIv": "d032c12876bc6848",
-          "version": "200"
-        }
-    },
-    /*{
-      "key": "lltv_农民",
-      "name": "(GD)66⚡️NM",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./mov/json/农民影视.json"
-    },*/
-    {
-      "key": "lltv_大师兄影视-天天-道长-运输车",
-      "name": "(GD)66⚡SX",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/大师兄.json"
-    },
-    {
-      "key": "lltv_迅雷吧",
-      "name": "(GD)66⚡️XL",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -1293,6 +1023,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
