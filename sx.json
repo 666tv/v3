@@ -22,6 +22,40 @@
       "ext": ""
     },
 	{
+      "key": "lltv_面包影视",
+      "name": "66⚡️MB",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./mov/json/面包影视.json"
+    },
+    {
+      "key": "lltv_苹果影视",
+      "name": "66⚡️PG",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lltv_修罗影视",
+      "name": "66⚡️XL",
+      "type": 3,
+      "api": "csp_Xlys",
+      "ext": "https://xl01.com.de"
+    },
+    {
+      "key": "lltv_移动",
+      "name": "66⚡️YD",
+      "type": 3,
+      "api": "csp_YD",
+      "searchable": 1,
+      "quickSearch": 1,
+        "style": {
+            "type": "list"
+    }
+    },
+	{
       "key": "lltv_天翼影视",
       "name": "66⭐天翼",
       "type": 1,
