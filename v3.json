@@ -50,7 +50,7 @@
       }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
+    /*{
       "key": "lltv_多多",
       "name": "4K_DD⭐配置中心登录网盘",
       "type": 3,
@@ -82,7 +82,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "./mov/json/lb.json"
-    },
+    },*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "lltv_瓜子影视",
@@ -342,27 +342,11 @@
       "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
     },
     {
-      "key": "lltv_面包影视",
-      "name": "66⚡️MB",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./mov/json/面包影视.json"
-    },
-    {
       "key": "lltv_农民影视",
       "name": "66⚡️NM",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200"
-    },
-    {
-      "key": "lltv_苹果影视",
-      "name": "66⚡️PG",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "lltv_骚火影视",
@@ -378,24 +362,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./mov/json/大师兄.json"
-    },
-    {
-      "key": "lltv_修罗影视",
-      "name": "66⚡️XL",
-      "type": 3,
-      "api": "csp_Xlys",
-      "ext": "https://xl01.com.de"
-    },
-    {
-      "key": "lltv_移动",
-      "name": "66⚡️YD",
-      "type": 3,
-      "api": "csp_YD",
-      "searchable": 1,
-      "quickSearch": 1,
-        "style": {
-            "type": "list"
-        }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
